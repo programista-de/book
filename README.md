@@ -1,5 +1,9 @@
-# book
-Content
+# book, okładka
+Programista . de
+Wyprawa na dziki zachód
+Okładka z cowboy-em
+
+
 
 ## Przeszłość
 Kiedyś było tak, by nauczyć się programowac znaleźć dobrą książke i starać się uczyć w oparciu o nią.
@@ -35,6 +39,15 @@ Darmowe źródła wiedzy:
   
 Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekrutacja:
   + check24
+
+
++ informacje o rynku pracy
++ prawne aspekty
+
++ samotny programista
+  [grafika cowboy / cowgirls na koniu]
+  
++ programista i rodzina
 
 
 
