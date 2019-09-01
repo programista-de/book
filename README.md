@@ -96,6 +96,8 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + ludzie którzy pomagają
   + jakie firmy dla kogo,
   + firmy, które stale poszukują
+  + jakie profile osób są poszukiwane
+  + jakie cechy charakterów  
   + Wanted
     + profil
     
@@ -112,6 +114,14 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + rozmowy z ludzmi, którzy uczestniczą w tym.
   
   
++ Dzień w pracy
+  + kilka przykładów osób które miały doświadczenie
+  + kilka przykładów obecnych pracodawców
+  
+Sposoby rekrutacji
+  + ilość etapów
+  + pytania, testy
+  + 
   
   
 
