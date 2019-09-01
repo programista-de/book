@@ -2,6 +2,9 @@
 Programista . de
   + Wyprawa na dziki zachód
 
+1 cowboy na zoltym tle slonca plus wyzej czerwony + na dole czarny, obok po lewej znaki z roznymi napisami, drogowskazami.
+https://www.etsy.com/listing/676243490/arthur-morgan-red-dead-redemption-2
+
 4 cowboys + konie, zachód słońca, lasso
 https://www.vectorstock.com/royalty-free-vector/cowboys-silhouette-riding-horses-at-sunset-vector-24226597
 
