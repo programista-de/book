@@ -6,6 +6,10 @@ Programista . de
 https://www.vectorstock.com/royalty-free-vector/cowboys-silhouette-riding-horses-at-sunset-vector-24226597
 
 
+1 cowboy + koń, lasso, gwiazdki
+https://www.alamy.com/cowboy-rodeo-man-on-old-style-vintage-backdrop-vector-illustration-image156727800.html
+
+
 Okładka z cowboy-em
 
 https://www.toddklassy.com/photos-of-cowgirls
