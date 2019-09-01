@@ -121,7 +121,7 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 Sposoby rekrutacji
   + ilość etapów
   + pytania, testy
-  + 
+  + gotowce
   
   
 
