@@ -2,6 +2,10 @@
 Programista . de
   + Wyprawa na dziki zachód
 
+4 cowboys + konie, zachód słońca, lasso
+https://www.vectorstock.com/royalty-free-vector/cowboys-silhouette-riding-horses-at-sunset-vector-24226597
+
+
 Okładka z cowboy-em
 
 https://www.toddklassy.com/photos-of-cowgirls
