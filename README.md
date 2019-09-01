@@ -3,7 +3,7 @@ Programista . de
 Wyprawa na dziki zachód
 Okładka z cowboy-em
 
-
+https://www.toddklassy.com/photos-of-cowgirls
 
 ## Przeszłość
 Kiedyś było tak, by nauczyć się programowac znaleźć dobrą książke i starać się uczyć w oparciu o nią.
