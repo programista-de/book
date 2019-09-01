@@ -94,14 +94,25 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 + Znajdywanie pracy
   + firmy - kontakty
   + ludzie którzy pomagają
-  + jakie firmy dla kogo, 
+  + jakie firmy dla kogo,
+  + firmy, które stale poszukują
   + Wanted
     + profil
     
 + Charakterystyka regionów
-  + Berlin  
+  + Berlin
   + Bawaria
   + NRW
+  
+  
++ Druga strona
+  + Co o mnie myślą firmy rekrutacyjne, przyszły pracodawca,
+  + jakich ludzi szukają, ważność atrybutów
+  + wagi jakie przyjmują
+  + rozmowy z ludzmi, którzy uczestniczą w tym.
+  
+  
+  
   
 
 
