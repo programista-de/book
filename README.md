@@ -70,7 +70,39 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 + samotny programista
   [grafika cowboy / cowgirls na koniu]
   
-+ programista i rodzina
+  
++ programista i rodzina 
+  + osobno (w Polsce)
+  + razem (za granicą)
+  
++ perspektywa życia poza dotychczasowym schematem
+
++ atuty bycia Polakiem, myśleć jak Polak.
++ dziki zachód
+  + Lis
+  + Ordnung
+  + Fajrant
+  
+  
+  
++ perspektywa rozwoju programisty
+  + szanse
+  + rynek pracy za granicą
+    + różnice
+    
+  
++ Znajdywanie pracy
+  + firmy - kontakty
+  + ludzie którzy pomagają
+  + jakie firmy dla kogo, 
+  + Wanted
+    + profil
+    
++ Charakterystyka regionów
+  + Berlin  
+  + Bawaria
+  + NRW
+  
 
 
 
