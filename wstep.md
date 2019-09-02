@@ -26,3 +26,13 @@ mogą poprzez zawarte w książce informacje zwiększyć świadomość na temat 
 
 ## dla kogo nie jest
 ... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)
+
+
+## o kim jest ta książka
+o ludziach, którzy nie bali się zaryzykować i stale podnoszą swoje kwalifikacje, za które otrzymują dobre wynagrodzenie
+Którzy zastanawiają się co mogliby zrobić lepiej.
+
+
+## o kim nie jest
+
+o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów
