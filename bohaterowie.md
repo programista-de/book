@@ -1,9 +1,6 @@
 # Bohaterowie
-Bohaterami książki są:
 
--
--
--
+Bohaterami książki są:
 
 
 Szablon opisu:
@@ -21,3 +18,28 @@ Szablon opisu:
 ### Marzenia, plany kontra rzeczywistość
 
  
+
+## Strony procesu
+
++ kandydaci na stanowiska
+- Mate
+- Volka
+- Thomas
+- futsz
+- Patryk
+- Tommi
+- Vital
+- Selcuk
+- k.macz
+
++ firmy rekrutujące
+cf, 
+
++ pracodawcy
+- ktos z taxi, mehr, inno, check, buch, waw
+
+
+## Rola każdej ze stron
+
+na jakie kompromisy pójdzie polski pracodawca a na jakie niemiecki
+gdzie leży punkt ciężkości, na co się zgodzi a na co już nie 
