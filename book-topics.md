@@ -7,6 +7,7 @@
     + brak perspektyw
         + brak dopasowania do kultury  
     
+    
 + Jak się przygotować
 
 + samotny programista

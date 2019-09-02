@@ -16,6 +16,10 @@ wypłynąć na głębsze wody w sąsiednim kraju Polski, w Niemczech.
 
 Jak tam jest z perspektywy tych którzy już tam programują?
 Jakie warto znać realia, i jak zaplanować by tam najszybciej zdobyć oczekiwane i zadowolne
+Książka w odróżnieniu od wielu w tej dziedzina nie ma za zadanie nauczyć rzemieślniczej sztuki programowania a jedynie pokazać
+w kilku odsłonach przez kilka osób jak może wyglądać kariera i jak w praktyce funkcjonuje się wybierając zachód.
+Czy warto?
+możesz ocenić po okładce lub poświęcić kilka chwil na zapoznanie się z konkretnymi przykładami z życia kilku programistów, którzy wybrali zachodnią stronę Odry.
 
 
 ## Oferta
