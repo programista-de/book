@@ -1,5 +1,13 @@
-Profile osób
+# Kompetencje
 
-Umiejętności
+![wierzcholek-gory.png](img/wierzcholek-gory.png)
+o tym co widać a czego nie widać
 
-Cechy charakteru
+Co pokazać a o czym nie mówić?
+
+## Umiejętności
+
+### Pożądane profile osób na rynku
+
+
+### Cechy charakteru
