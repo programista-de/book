@@ -7,6 +7,8 @@ o kulturze pracy
 Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
 ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
 Polaka jadącego do Niemiec, ale też Polaka, który się tam wychował i Niemców, którzy jedynie współpracowali z Polakami
+Nauka programowania to tylko techniczna strona, jest jeszcze wiele elementw majacych wplyw na kariere.
+W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludzi ktorzy przesli te droge i moga z dystansem opowiedziece o swoich doswiadczeniach dzielac sie unikalnym doswiadczeniem i wedza.
   
 ## O czym nie jest
 
@@ -22,7 +24,7 @@ w pierwszej kolejności dla programistów zainteresowanych emigracją do krajów
 W drugiej dla Polaków, którzy chcą się upewnić, że nie chcą emigrować, chcą świadomie podjąć decyzję.
 W trzeciej dla tych, którzy jeszcze nie są programistami a mają wątpliwości, nawet jeśli nie wyjadą po lekturze tej książki, to
 mogą poprzez zawarte w książce informacje zwiększyć świadomość na temat rynku pracy i własnej wartości na nim.
-
+Ta ksiazka jest napisana dla tych, ktorzy zajmuja sie lub chca zajmowac profesjonalnie programowaniem.
 
 ## dla kogo nie jest
 ... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)
