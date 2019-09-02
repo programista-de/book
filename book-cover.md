@@ -2,7 +2,7 @@
 Programista . de
   + Wyprawa na dziki zachód
 
-![programista-de-book-icon.png](programista-de-book-icon.png)
+![programista-de-book-icon.png](img/programista-de-book-icon.png)
 
 1 cowboy na żółtym tle zachodzącego słonca 
     + wyżej czerwony 
