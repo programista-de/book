@@ -18,6 +18,11 @@ inaczej niż w przypadku artykułów, czy opinii, które zawierają wyrywkowe sp
 
 ## dla kogo jest
 
+w pierwszej kolejności dla programistów zainteresowanych emigracją do krajów niemieckojęzycznych.
+W drugiej dla Polaków, którzy chcą się upewnić, że nie chcą emigrować, chcą świadomie podjąć decyzję.
+W trzeciej dla tych, którzy jeszcze nie są programistami a mają wątpliwości, nawet jeśli nie wyjadą po lekturze tej książki, to
+mogą poprzez zawarte w książce informacje zwiększyć świadomość na temat rynku pracy i własnej wartości na nim.
 
 
 ## dla kogo nie jest
+... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)

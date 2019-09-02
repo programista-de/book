@@ -22,15 +22,7 @@ Szablon opisu:
 ## Strony procesu
 
 + kandydaci na stanowiska
-- Mate
-- Volka
-- Thomas
-- futsz
-- Patryk
-- Tommi
-- Vital
-- Selcuk
-- k.macz
+
 
 + firmy rekrutujące
 cf, 
