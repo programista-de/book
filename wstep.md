@@ -17,6 +17,11 @@ Obecnie w dobie otwartych mediów trudno nie powielić w różnych formach tego 
 dlatego tym bardziej warto sięgać do książek opisujących wąsko pewne zagadnienia a przy tym kompleksowo je omawiając
 inaczej niż w przypadku artykułów, czy opinii, które zawierają wyrywkowe spojrzenie na pewne fakty.
 
+Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym
+czy się zostaje na dłużej w danym kraju.
+Istotne są też obecne warunki życia, komfort.
+Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
+i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
 
 ## dla kogo jest

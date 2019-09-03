@@ -14,3 +14,12 @@ początki powstania tego zawodu
 ## Przyszłosć
 jakie są teoretyczne podstawy do istnienia tego zawodu i jakie są możliwe scenariusze na najbliższe lata i naście lat.
 
+## Jak zmienia się zawód programisty
++ kodowanie, inżynieria, implementacja modeli matematycznych
+
++ software development, administracja, łączenie różnych środowisk, integracja
+
++ Api, IoT, robotyzacja, automatyzacja
+
++ ...
+

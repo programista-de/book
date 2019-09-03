@@ -13,7 +13,6 @@ W zależności od celu jaki chcemy osiągnąć trzeba ustalić odpowiednią stra
 Dziś książka nie wystarczy...
 
 
- 
 
 ## Programista.de
 Programista.de to nie tylko książka, to oferta dla tych, którzy chcą zanurzyć się w świat programowania na tyle by w krótkim czasie móc 
@@ -53,8 +52,10 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
     + [bohaterowie](bohaterowie.md)
     + [motywacje](motywacje.md)
     
+    
 + Niemcy
     + Geografia, społeczeństwo
+    + [kultura](kultura.md)
     + [stereotypy](stereotypy.md) 
     
         
@@ -66,10 +67,12 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
     + [kultura-pracy](kultura-pracy.md)
     + [zwolnienie](zwolnienie.md)
 
+
 + Specjalizacja, podnoszenie kwalifikacji
     + [devops](devops.md)
     + [narzedzia](narzedzia.md)
     + [open-source](open-source.md)
+
 
 + Zakończenie
     + [strategia](strategia.md)
