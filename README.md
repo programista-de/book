@@ -48,22 +48,23 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 + [README](README.md)
 
 + [wstęp](wstep.md)
-    + [programista](programista.md)
     + [bohaterowie](bohaterowie.md)
     + [motywacje](motywacje.md)
+    + [programista](programista.md)
     
     
 + Niemcy
     + Geografia, społeczeństwo
     + [kultura](kultura.md)
     + [stereotypy](stereotypy.md) 
+    + [rynek pracy](market.md) 
     
         
 + [kariera](kariera.md)
+    + [rekrutacja](rekrutacja.md)
     + [wyprawa](wyprawa.md)
     + [kompetencje](kompetencje.md)
     + [interview](interview.md)
-    + [rekrutacja](rekrutacja.md)
     + [kultura-pracy](kultura-pracy.md)
     + [zwolnienie](zwolnienie.md)
 
@@ -77,4 +78,5 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 + Zakończenie
     + [strategia](strategia.md)
     + [recepta](recepty.md)
+    + [zrodla](zrodla.md)
 

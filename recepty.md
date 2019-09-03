@@ -34,3 +34,33 @@ i szybkość realizacji zadań na etacie lub na zlecenie.
 
 - estymacja
  obliczanie czasu na wykonanie zadania 
+
+
+
+
+
+# Dobre praktyki
+Modularyzacja wszystkiego
+
+najlepiej to widac na przykladzie apiunit, ktory pozwala na
+niezaleznie od uzytego framweorka, podzielenie i ladowanie dynamiczne strony.
+
+modularyzacja aplikacji, ksiazki, kazdej tresci i projektu pozwala na podzielenie na male czesci tego co nawet nie wiemy jak jest wielkie
+ale to nie ma znaczenia jak cos jest wielkie tylko czy wiemy jak zmienic to co jest w tej malej czesci, a jest to tym latwiejsze im czesc ta jest 
+bardziej jednolita, ustandaryzowana, niezaleznie od calego systemu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
