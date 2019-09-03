@@ -5,10 +5,15 @@ Tak zacząłem programować w Basicu na Zx-Sepctrum mając 10 lat.
 Nie znałem angielskiego, ale starałem się chociaż wpisać komendę by zobaczyć efekt.
 
 ## Obecna sytuacja
-Obecnie mam nadmiar informacji i konieczne jest znalezienie przewodnika po tym co jest warte uwagi.
+Jest rok 2020
+
+Mamy nadmiar informacji i konieczne jest znalezienie przewodnika po tym co jest warte uwagi.
 W zależności od celu jaki chcemy osiągnąć trzeba ustalić odpowiednią strategię.
-Dziś książka nie wystarczy.
-Dlatego 
+
+Dziś książka nie wystarczy...
+
+
+ 
 
 ## Programista.de
 Programista.de to nie tylko książka, to oferta dla tych, którzy chcą zanurzyć się w świat programowania na tyle by w krótkim czasie móc 
@@ -37,3 +42,36 @@ Darmowe źródła wiedzy:
   
 Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekrutacja:
   + check24
+
+
+
+# Spis treści
++ [README](README.md)
+
++ [wstęp](wstep.md)
+    + [programista](programista.md)
+    + [bohaterowie](bohaterowie.md)
+    + [motywacje](motywacje.md)
+    
++ Niemcy
+    + Geografia, społeczeństwo
+    + [stereotypy](stereotypy.md) 
+    
+        
++ [kariera](kariera.md)
+    + [wyprawa](wyprawa.md)
+    + [kompetencje](kompetencje.md)
+    + [interview](interview.md)
+    + [rekrutacja](rekrutacja.md)
+    + [kultura-pracy](kultura-pracy.md)
+    + [zwolnienie](zwolnienie.md)
+
++ Specjalizacja, podnoszenie kwalifikacji
+    + [devops](devops.md)
+    + [narzedzia](narzedzia.md)
+    + [open-source](open-source.md)
+
++ Zakończenie
+    + [strategia](strategia.md)
+    + [recepta](recepta.md)
+
