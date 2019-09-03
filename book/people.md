@@ -10,3 +10,21 @@ historie, doświadczenia, wskazówki, kontakty
 - Vital
 - Selcuk
 - k.macz
+
+
+ jesli wiecej w de to kazdy przypadek powinien byc opisany oddzielnie:
+
+jak zdobyles prace?
+
+jak sie dowiedziales
+ile rozmow, tel, osobistych, telekonferencji, etc.
+kto rekrutowal
+ile osob rozmawialo z toba przed i po interview
+co sie zmienilo, czy byles zaskoczony czyms po objeciu pracy
+pierwszy dzien w pracy
+
+
+
+
+
+
