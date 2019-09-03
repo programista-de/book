@@ -23,6 +23,9 @@ ile osob rozmawialo z toba przed i po interview
 co sie zmienilo, czy byles zaskoczony czyms po objeciu pracy
 pierwszy dzien w pracy
 
+Jakie znaczenie i wplyw mialo to ze pracowales w tej pracy
+czy np. potem ktos Ciebie zatrudnil, bo inna osoba Ciebie polecila z tej firmy?
+
 
 
 
