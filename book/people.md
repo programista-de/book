@@ -11,8 +11,20 @@ historie, doświadczenia, wskazówki, kontakty
 - Selcuk
 - k.macz
 
+pytania przetlumaczyc na 
++ angielski, 
++ niemiecki, 
++ rosyjski
+
+
+dlaczego zaczales, programujesz, przestales programowac?
+co ciebie motywuje?
+co sprawia, ze jest trudno?
+jakie bariery pokonales, a jakie chcialbys by nie istnialy?
+
 
  jesli wiecej w de to kazdy przypadek powinien byc opisany oddzielnie:
+
 
 jak zdobyles prace?
 
