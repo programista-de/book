@@ -11,3 +11,5 @@ Co pokazać a o czym nie mówić?
 
 
 ### Cechy charakteru
+
+

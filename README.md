@@ -76,5 +76,5 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 
 + Zakończenie
     + [strategia](strategia.md)
-    + [recepta](recepta.md)
+    + [recepta](recepty.md)
 
