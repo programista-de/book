@@ -48,6 +48,7 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 + [README](README.md)
 
 + [wstęp](wstep.md)
+    + [autor](autor.md)
     + [bohaterowie](bohaterowie.md)
     + [motywacje](motywacje.md)
     + [programista](programista.md)

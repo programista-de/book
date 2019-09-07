@@ -19,7 +19,7 @@ Szablon opisu:
 
  
 
-## Strony procesu
+## Strony w procesie poszukiwania i walki o pracę
 
 + kandydaci na stanowiska
 
