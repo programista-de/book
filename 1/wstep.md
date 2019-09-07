@@ -7,6 +7,14 @@ Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
+## Kontekst 
+
+treść książki osadzona jest w określonym ograniczonym kontekście:
++ branża IT
++ rynek pracy w niemczech
++ przeprowadzka lub/i przekwalifikowanie się
++ ograniczenia temu towarzyszące 
+ 
 
 ## doświadczenia, historie
 

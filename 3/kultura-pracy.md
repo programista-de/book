@@ -22,3 +22,7 @@ wyjście do restuaracji
         
 
 ## Co jest ważne
+
+Praca zdalna to rzadkość
+
+

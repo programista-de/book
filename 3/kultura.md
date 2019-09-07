@@ -1,6 +1,9 @@
 # Kultura pracy
 w celu przybliżenia tego czym jest kultura i jak ulegała zmianie w polsce oraz jak przebiegała w niemczech weźmy dla przykładu najpierw to co znamy
 czyli zmiany, które dokonały się w Polsce
+przybliżenie historycznych względów
+
+Cco to jest kultura
 
 
 ## Polska
