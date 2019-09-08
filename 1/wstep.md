@@ -91,6 +91,13 @@ Książka opisuje co to jest IT, jakie perspektywy
 
 ## Rozdziały
 
+Zakres tematyczny jest na zmianę w każdym kolejnym rozdziale o technicznych kwestiach związanych z zawodem i kwestiach społeczno, organizacyjnych, prawnych.
+
++ zawód programista
++ kompetencje
++ kariera
++ narzędzia
+
 
 Ksiazka zostala podzielona na czesci w zaleznosci od tego na jakim etapie jestes i dokad zmierzasz.
 

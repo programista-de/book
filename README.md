@@ -48,69 +48,77 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 
 # Spis treści
 ## 1
-  + [autor](autor.md)
-  + [wstęp](wstep.md)
-  + [dlaczego](dlaczego.md)  
-  + [bohaterowie](bohaterowie.md)
+  + [autor](1/autor.md)
+  + [wstęp](1/wstep.md)
+  + [dlaczego](1/dlaczego.md)  
+  + [bohaterowie](1/bohaterowie.md)
   
 ## 2  
-  + [przeszłość](przyszlosc.md)
-  + [przyszłość](przyszlosc.md)
-  + [programista](programista.md)
-  + [administrator](administrator.md)
+  + [przeszłość](2/przyszlosc.md)
+  + [przyszłość](2/przyszlosc.md)
+  + [programista](2/programista.md)
+  + [administrator](2/administrator.md)
   + [](.md)
-  + [jezyki-programowania](jezyki-programowania.md)
-  + [devops](devops.md)
-  + [open-source](open-source.md)
+  + [jezyki-programowania](2/jezyki-programowania.md)
+  + [devops](2/devops.md)
+  + [open-source](2/open-source.md)
 
 ## 3
   
-  + [historia](historia.md)
-  + [indywidualizm](indywidualizm.md)
-  + [kolektywizm](kolektywizm.md)    
-  + [kultura](kultura.md)  
-    + [kultura pracy](kultura-pracy.md)
-    + [języki](języki.md)
-    + [stereotypy](stereotypy.md) 
-  + [rynek pracy](market.md) 
-  + [market](market.md)
-  + [asymilacja](asymilacja.md)
+  + [historia](3/historia.md)
+  + [indywidualizm](3/indywidualizm.md)
+  + [kolektywizm](3/kolektywizm.md)    
+  + [kultura](3/kultura.md)  
+    + [kultura pracy](3/kultura-pracy.md)
+    + [języki](3/języki.md)
+    + [stereotypy](3/stereotypy.md) 
+  + [rynek pracy](3/market.md) 
+  + [market](3/market.md)
+  + [asymilacja](3/asymilacja.md)
   
 ## 4
-  + [wyprawa](wyprawa.md)
-    + [motywacje](motywacje.md)  
-    + [kompetencje](kompetencje.md)
-      + [Języki obce](jezyki-obce.md)
-  + [rodzina](rodzina.md)
+  + [wyprawa](4/wyprawa.md)
+    + [motywacje](4/motywacje.md)  
+    + [kompetencje](4/kompetencje.md)
+      + [Języki obce](4/jezyki-obce.md)
+  + [rodzina](4/rodzina.md)
    
 
 ## 5        
-  + [kariera](kariera.md)
-  + [rekrutacja](rekrutacja.md)
-  + [pytania](pytania.md)
-  + [interview](interview.md) 
-  + [zarobki](zarobki.md)
-  + [zwolnienie](zwolnienie.md)
+  + [kariera](5/kariera.md)
+  + [rekrutacja](5/rekrutacja.md)
+  + [pytania](5/pytania.md)
+  + [interview](5/interview.md) 
+  + [zarobki](5/zarobki.md)
+  + [zwolnienie](5/zwolnienie.md)
      
 
 ## 6  
-  + [emerytura](emerytura.md)
-  + [strategia](strategia.md)
+  + [emerytura](6/emerytura.md)
+  + [strategia](6/strategia.md)
 
 ## 7
   + [](.md)
   + [](.md)
   + [](.md)
   + [](.md)
-  + [narzedzia](narzedzia.md)
+  + [narzedzia](7/narzedzia.md)
 
 ## 8
-+ Specjalizacja, podnoszenie kwalifikacji
-    
+  + [Freelance](8/freelance.md)
+  + [Narzędzia](8/narzedzia.md)
+  + [podatki](8/podatki.md)
+  + [recepty](8/recepty.md)
+  + [rutyny](8/rutyny.md)
+  + [](.md)
+  + [](.md)
+  + [](.md)
 
-
-+ Zakończenie
-    
-    + [recepta](recepty.md)
-    + [zrodla](zrodla.md)
+## 9    
+  + [tabelka](tabelka.md)
+  + [mapa](9/mapa.md)
+  + [lektury](9/lektury.md)
+  + [kupony](9/kupony.md)
+  
+  + [zrodla](9/zrodla.md)
 
