@@ -1,4 +1,5 @@
 [README](README.md)
+https://github.com/programista-de/book
 
 ## Przeszłość
 Kiedyś było tak, by nauczyć się programowac znaleźć dobrą książke i starać się uczyć w oparciu o nią.
@@ -60,45 +61,39 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [](.md)
   + [jezyki-programowania](jezyki-programowania.md)
   + [devops](devops.md)
+  + [open-source](open-source.md)
 
 ## 3
-  + [](.md)
-  + [](.md)
-  + [](.md)
-  + [](.md)
- + Geografia, społeczeństwo
-    + [kultura](kultura.md)
+  
+  + [historia](historia.md)
+  + [indywidualizm](indywidualizm.md)
+  + [kolektywizm](kolektywizm.md)    
+  + [kultura](kultura.md)  
+    + [kultura pracy](kultura-pracy.md)
+    + [języki](języki.md)
     + [stereotypy](stereotypy.md) 
-    + [rynek pracy](market.md) 
-      + [](.md)
+  + [rynek pracy](market.md) 
+  + [market](market.md)
+  + [asymilacja](asymilacja.md)
+  
 ## 4
   + [wyprawa](wyprawa.md)
-  + [motywacje](motywacje.md)  
-  + [kompetencje](kompetencje.md)
-  + [kultura-pracy](kultura-pracy.md)
-      + [](.md)
-  + [](.md)
-  + [](.md)
-  + [](.md)
-
-    
-
+    + [motywacje](motywacje.md)  
+    + [kompetencje](kompetencje.md)
+      + [Języki obce](jezyki-obce.md)
+  + [rodzina](rodzina.md)
+   
 
 ## 5        
   + [kariera](kariera.md)
   + [rekrutacja](rekrutacja.md)
-  + [interview](interview.md)
-  
-    + [zwolnienie](zwolnienie.md)
+  + [pytania](pytania.md)
+  + [interview](interview.md) 
+  + [zarobki](zarobki.md)
+  + [zwolnienie](zwolnienie.md)
+     
 
-
-    
-    + [open-source](open-source.md)
-
-## 6
-  + [](.md)
-  + [](.md)
-  + [](.md)
+## 6  
   + [emerytura](emerytura.md)
   + [strategia](strategia.md)
 

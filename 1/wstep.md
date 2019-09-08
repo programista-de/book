@@ -17,6 +17,9 @@ Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, isto
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
 ## Kontekst 
+To prawda, że już wiele książek napisano, ale ta jest jedyna w kontekście aktualnych zmian
+i ewentualnego wyjazdu w roku 2020.
+Przytoczone wywiady i statystyki, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.
 
 treść książki osadzona jest w określonym ograniczonym kontekście:
 + branża IT

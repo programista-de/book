@@ -40,3 +40,12 @@ Każda wyprawa wymaga przygotowania, to co warto zaplanować przed wyjazdem to:
 
 ## Na jaki czas?
 na kilka tygodni, miesięcy
+
+
+
+## Ubezpieczenie prawne
+Rechtsschutzversicherung
+
++ das Recht = prawo
++ der Schutz = ochrona
++ die Versicherung = ubezpieczenie
