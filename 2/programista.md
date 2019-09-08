@@ -23,3 +23,5 @@ jakie są teoretyczne podstawy do istnienia tego zawodu i jakie są możliwe sce
 
 + ...
 
+
+## coder, programista, software developer, devops

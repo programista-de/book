@@ -72,7 +72,12 @@ o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów
 
 
 
-## Treść
+## Streszczenie
+
+Książka opisuje co to jest IT, jakie perspektywy
+ 
+
+## Rozdziały
 
 
 Ksiazka zostala podzielona na czesci w zaleznosci od tego na jakim etapie jestes i dokad zmierzasz.
@@ -107,4 +112,5 @@ support dla niecierpliwych na dluzej jesli jest taka potrzeba
 6. W zasadzie nie musisz czytac tej ksiazki bo nie masz zadnych pytan,
 zapraszamy do napisania kolejnej czesci, wzbogaconej o wiecej detali i aktualnych zagadnien z branzy.
 Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz to zapraszamy
+
 
