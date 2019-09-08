@@ -48,6 +48,10 @@ W trzeciej dla tych, którzy jeszcze nie są programistami a mają wątpliwości
 mogą poprzez zawarte w książce informacje zwiększyć świadomość na temat rynku pracy i własnej wartości na nim.
 Ta ksiazka jest napisana dla tych, ktorzy zajmuja sie lub chca zajmowac profesjonalnie programowaniem.
 
+Dla tych, którzy są programistami, ale myślą o przekwalifikowaniu
+np webdev do programisty desktop, itp
+
+
 ## dla kogo nie jest
 ... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)
 

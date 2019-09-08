@@ -13,3 +13,9 @@ Co pokazać a o czym nie mówić?
 ### Cechy charakteru
 
 
+## Perfekcjonizm
+
+problemy z zakończeniem czegoś, wedle zasady, lepsze działające niż perfekcyjne
+
+
+## 
