@@ -1,3 +1,4 @@
+[README](README.md)
 
 ## Przeszłość
 Kiedyś było tak, by nauczyć się programowac znaleźć dobrą książke i starać się uczyć w oparciu o nią.
@@ -45,39 +46,76 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 
 
 # Spis treści
-+ [README](README.md)
+## 1
+  + [autor](autor.md)
+  + [wstęp](wstep.md)
+  + [dlaczego](dlaczego.md)  
+  + [bohaterowie](bohaterowie.md)
+  
+## 2  
+  + [przeszłość](przyszlosc.md)
+  + [przyszłość](przyszlosc.md)
+  + [programista](programista.md)
+  + [administrator](administrator.md)
+  + [](.md)
+  + [jezyki-programowania](jezyki-programowania.md)
+  + [devops](devops.md)
 
-+ [wstęp](wstep.md)
-    + [autor](autor.md)
-    + [bohaterowie](bohaterowie.md)
-    + [motywacje](motywacje.md)
-    + [programista](programista.md)
-    
-    
-+ Niemcy
-    + Geografia, społeczeństwo
+## 3
+  + [](.md)
+  + [](.md)
+  + [](.md)
+  + [](.md)
+ + Geografia, społeczeństwo
     + [kultura](kultura.md)
     + [stereotypy](stereotypy.md) 
     + [rynek pracy](market.md) 
+      + [](.md)
+## 4
+  + [wyprawa](wyprawa.md)
+  + [motywacje](motywacje.md)  
+  + [kompetencje](kompetencje.md)
+  + [kultura-pracy](kultura-pracy.md)
+      + [](.md)
+  + [](.md)
+  + [](.md)
+  + [](.md)
+
     
-        
-+ [kariera](kariera.md)
-    + [rekrutacja](rekrutacja.md)
-    + [wyprawa](wyprawa.md)
-    + [kompetencje](kompetencje.md)
-    + [interview](interview.md)
-    + [kultura-pracy](kultura-pracy.md)
+
+
+## 5        
+  + [kariera](kariera.md)
+  + [rekrutacja](rekrutacja.md)
+  + [interview](interview.md)
+  
     + [zwolnienie](zwolnienie.md)
 
 
-+ Specjalizacja, podnoszenie kwalifikacji
-    + [devops](devops.md)
-    + [narzedzia](narzedzia.md)
+    
     + [open-source](open-source.md)
+
+## 6
+  + [](.md)
+  + [](.md)
+  + [](.md)
+  + [emerytura](emerytura.md)
+  + [strategia](strategia.md)
+
+## 7
+  + [](.md)
+  + [](.md)
+  + [](.md)
+  + [](.md)
+  + [narzedzia](narzedzia.md)
+
+## 8
++ Specjalizacja, podnoszenie kwalifikacji
+    
 
 
 + Zakończenie
-    + [strategia](strategia.md)
+    
     + [recepta](recepty.md)
     + [zrodla](zrodla.md)
 

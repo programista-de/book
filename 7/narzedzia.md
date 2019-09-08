@@ -3,6 +3,8 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
 
 
 
+## Microsoft Visual Studio Code
++ korzyści, do czy warto?
 
 ## Licencja jetbrains
 + własny projekt opensource
@@ -52,3 +54,5 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
 edytor do prgramowania może być użyteczny nawet do pisania książki
 co czynię, używając wersjonowania git - repozytorium na github
 oraz edytora frimy jetbrains -  webstorm z obsługą  formatu .md
+oraz Visual Studio Code, który dość dobrze spełnia swoją rolę jako edytor tekstuz integracją github
+

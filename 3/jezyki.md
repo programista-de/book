@@ -14,3 +14,32 @@ Wówczas można sie przerazić, że się nic nie umie i nic nie wie.
 Ale to tylko emocjonalna strona pobytu w miejscu obcym kulturowo.
 
 
+## Znaczenia słów
+
+
+### Kolega
+
+#### pl
+
+#### de
+
+
+
+### Powitanie
+tabelka
+pora/osoba
+
+#### pl
+
+#### de
+
+
+
+### Pożegnanie
+tabelka
+pora/osoba
+
+#### pl
+
+#### de
+
