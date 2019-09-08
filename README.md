@@ -121,4 +121,3 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [kupony](9/kupony.md)
   
   + [zrodla](9/zrodla.md)
-
