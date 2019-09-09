@@ -36,4 +36,4 @@ cf,
 na jakie kompromisy pójdzie polski pracodawca a na jakie niemiecki
 gdzie leży punkt ciężkości, na co się zgodzi a na co już nie 
 
-> [Analiza](2/analiza.md)
+> [Analiza](../2/analiza.md)

@@ -94,9 +94,6 @@ aby z perspektywy ocenić  i móc stworzyć coś więcej niż tylko zlepek liter
 
 Daję sobie czas na przemyślenia i konsultacje
 
-kulisy powstania i motywacje przy pisaniu książki
-[dlaczego.md](../1/dlaczego.md)
+kulisy powstania i motywacje przy pisaniu książki:
 
-
-
-> [dlaczego](1/dlaczego.md)
+> [dlaczego](dlaczego.md)
