@@ -132,4 +132,4 @@ zapraszamy do napisania kolejnej czesci, wzbogaconej o wiecej detali i aktualnyc
 Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz to zapraszamy
 
 
-> [autor](autor.md)
+> [autor](/book/1/autor.md)
