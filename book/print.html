@@ -1,0 +1,1180 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Programista.de</title>
+        
+        <meta name="robots" content="noindex" />
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li><a href="1/wstep.html"><strong aria-hidden="true">1.</strong> wstęp</a></li><li><ol class="section"><li><a href="1/autor.html"><strong aria-hidden="true">1.1.</strong> autor</a></li><li><a href="1/dlaczego.html"><strong aria-hidden="true">1.2.</strong> dlaczego</a></li><li><a href="1/bohaterowie.html"><strong aria-hidden="true">1.3.</strong> bohaterowie</a></li></ol></li><li><a href="analiza.html"><strong aria-hidden="true">2.</strong> Analiza</a></li><li><ol class="section"><li><a href="2/przeszlosc.html"><strong aria-hidden="true">2.1.</strong> przeszłość</a></li><li><a href="2/przyszlosc.html"><strong aria-hidden="true">2.2.</strong> przyszłość</a></li><li><a href="2/jezyki-programowania.html"><strong aria-hidden="true">2.3.</strong> jezyki-programowania</a></li><li><a href="2/devops.html"><strong aria-hidden="true">2.4.</strong> devops</a></li><li><a href="2/open-source.html"><strong aria-hidden="true">2.5.</strong> open-source</a></li></ol></li><li><a href="specjalizacje.html"><strong aria-hidden="true">3.</strong> Specjalizacje</a></li><li><ol class="section"><li><a href="2/programista.html"><strong aria-hidden="true">3.1.</strong> programista</a></li><li><a href="2/administrator.html"><strong aria-hidden="true">3.2.</strong> administrator</a></li><li><a href="2/manager.html"><strong aria-hidden="true">3.3.</strong> manager</a></li><li><a href="2/lider.html"><strong aria-hidden="true">3.4.</strong> lider</a></li></ol></li><li><a href="3/kultura.html"><strong aria-hidden="true">4.</strong> kultura</a></li><li><ol class="section"><li><a href="3/historia.html"><strong aria-hidden="true">4.1.</strong> historia</a></li><li><a href="3/kultura-pracy.html"><strong aria-hidden="true">4.2.</strong> kultura pracy</a></li><li><a href="3/języki.html"><strong aria-hidden="true">4.3.</strong> języki</a></li><li><a href="3/stereotypy.html"><strong aria-hidden="true">4.4.</strong> stereotypy</a></li><li><a href="3/indywidualizm.html"><strong aria-hidden="true">4.5.</strong> indywidualizm</a></li><li><a href="3/kolektywizm.html"><strong aria-hidden="true">4.6.</strong> kolektywizm</a></li><li><a href="3/market.html"><strong aria-hidden="true">4.7.</strong> rynek pracy</a></li><li><a href="3/asymilacja.html"><strong aria-hidden="true">4.8.</strong> asymilacja</a></li><li><a href="3/zdrowie.html"><strong aria-hidden="true">4.9.</strong> zdrowie</a></li><li><a href="3/pogoda.html"><strong aria-hidden="true">4.10.</strong> pogoda</a></li></ol></li><li><a href="4/wyprawa.html"><strong aria-hidden="true">5.</strong> wyprawa</a></li><li><ol class="section"><li><a href="4/motywacje.html"><strong aria-hidden="true">5.1.</strong> motywacje</a></li><li><a href="4/kompetencje.html"><strong aria-hidden="true">5.2.</strong> kompetencje</a></li><li><a href="4/jezyki-obce.html"><strong aria-hidden="true">5.3.</strong> Języki obce</a></li><li><a href="4/koszty.html"><strong aria-hidden="true">5.4.</strong> koszty</a></li><li><a href="4/rodzina.html"><strong aria-hidden="true">5.5.</strong> rodzina</a></li></ol></li><li><a href="5/kariera.html"><strong aria-hidden="true">6.</strong> kariera</a></li><li><ol class="section"><li><a href="5/rekrutacja.html"><strong aria-hidden="true">6.1.</strong> rekrutacja</a></li><li><a href="5/pytania.html"><strong aria-hidden="true">6.2.</strong> pytania</a></li><li><a href="5/interview.html"><strong aria-hidden="true">6.3.</strong> interview</a></li><li><a href="5/zarobki.html"><strong aria-hidden="true">6.4.</strong> zarobki</a></li><li><a href="5/zwolnienie.html"><strong aria-hidden="true">6.5.</strong> zwolnienie</a></li></ol></li><li><a href="6/praca.html"><strong aria-hidden="true">7.</strong> praca</a></li><li><ol class="section"><li><a href="6/etat.html"><strong aria-hidden="true">7.1.</strong> etat</a></li><li><a href="6/formy.html"><strong aria-hidden="true">7.2.</strong> formy</a></li><li><a href="6/freelance.html"><strong aria-hidden="true">7.3.</strong> freelance</a></li><li><a href="6/klienci.html"><strong aria-hidden="true">7.4.</strong> klienci</a></li><li><a href="6/podatki.html"><strong aria-hidden="true">7.5.</strong> podatki</a></li><li><a href="6/prawo.html"><strong aria-hidden="true">7.6.</strong> prawo</a></li><li><a href="6/samozatrudnienie.html"><strong aria-hidden="true">7.7.</strong> samozatrudnienie</a></li></ol></li><li><a href="7/proza.html"><strong aria-hidden="true">8.</strong> Proza życia</a></li><li><ol class="section"><li><a href="7/emerytura.html"><strong aria-hidden="true">8.1.</strong> emerytura</a></li><li><a href="7/strategia.html"><strong aria-hidden="true">8.2.</strong> strategia</a></li></ol></li><li><a href="8/recepty.html"><strong aria-hidden="true">9.</strong> Recepty</a></li><li><ol class="section"><li><a href="8/freelance.html"><strong aria-hidden="true">9.1.</strong> Freelance</a></li><li><a href="8/narzedzia.html"><strong aria-hidden="true">9.2.</strong> Narzędzia</a></li><li><a href="8/podatki.html"><strong aria-hidden="true">9.3.</strong> Podatki</a></li><li><a href="8/rutyny.html"><strong aria-hidden="true">9.4.</strong> Rutyny</a></li><li><a href="8/stanowisko.html"><strong aria-hidden="true">9.5.</strong> Stanowisko</a></li></ol></li><li><a href="10/podsumowanie.html"><strong aria-hidden="true">10.</strong> Podsumowanie</a></li><li><ol class="section"><li><a href="10/zrodla.html"><strong aria-hidden="true">10.1.</strong> Źródła</a></li></ol></li><li><a href="11/dodatki.html"><strong aria-hidden="true">11.</strong> Dodatki</a></li><li><ol class="section"><li><a href="11/tabelki.html"><strong aria-hidden="true">11.1.</strong> Tabelki</a></li><li><a href="11/statystyki.html"><strong aria-hidden="true">11.2.</strong> Statystyki</a></li><li><a href="11/mapa.html"><strong aria-hidden="true">11.3.</strong> mapa</a></li><li><a href="11/lektury.html"><strong aria-hidden="true">11.4.</strong> lektury</a></li><li><a href="11/kupony.html"><strong aria-hidden="true">11.5.</strong> kupony</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Programista.de</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#o-czym-jest-ta-książka" id="o-czym-jest-ta-książka">O czym jest ta książka</a></h1>
+<p>Autor książki zaprasza do wyruszenia do najbliższego zachodniego sąsiada Polski
+by zauważyć te małe i duże różnice w mentalności,
+te zaskakujące podobieństwa i różnice, które sprawiają, że chętnie wyjeżdżamy na zachód.
+Dlaczego tak jest i co jeszcze warto wiedzieć, można dowiedzieć się w tej książce.
+Zachęcam do wyruszenia z autorem w podróż po jego ostatnich 7 lat życia i razem z nim przeżycia jeszcze raz tego
+co nie tylko jest nadal aktualne, ale co sprawia, że tak ciekawe mogą być relacje z krajem, który tak bardzo potrzebuje obcokrajowców
+do budowania największej europejskiej gospodarki.</p>
+<h2><a class="header" href="#cel-napisania" id="cel-napisania">Cel napisania:</a></h2>
+<p>Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym
+czy się zostaje na dłużej w danym kraju.
+Istotne są też obecne warunki życia, komfort.
+Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
+i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. </p>
+<h2><a class="header" href="#kontekst" id="kontekst">Kontekst</a></h2>
+<p>To prawda, że już wiele książek napisano, ale ta jest jedyna w kontekście aktualnych zmian
+i ewentualnego wyjazdu w roku 2020.
+Przytoczone wywiady i statystyki, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.</p>
+<p>treść książki osadzona jest w określonym ograniczonym kontekście:
++ branża IT
++ rynek pracy w niemczech
++ przeprowadzka lub/i przekwalifikowanie się
++ ograniczenia temu towarzyszące </p>
+<h2><a class="header" href="#doświadczenia-historie" id="doświadczenia-historie">doświadczenia, historie</a></h2>
+<p>zebrane doświadczenia kilku ludzi i podsumowanie wniosków z tego wynikających
+język przystęny, prowadzący do wyjaśnienia kilku stereotypów dotykająccyh obu stron (rzeki) Odry.</p>
+<h2><a class="header" href="#o-kulturze-pracy" id="o-kulturze-pracy">o kulturze pracy</a></h2>
+<p>Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
+ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
+Polaka jadącego do Niemiec, ale też Polaka, który się tam wychował i Niemców, którzy jedynie współpracowali z Polakami
+Nauka programowania to tylko techniczna strona, jest jeszcze wiele elementw majacych wplyw na kariere.
+W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludzi ktorzy przesli te droge i moga z dystansem opowiedziece o swoich doswiadczeniach dzielac sie unikalnym doswiadczeniem i wedza.</p>
+<h2><a class="header" href="#o-czym-nie-jest" id="o-czym-nie-jest">O czym nie jest</a></h2>
+<p>Obecnie w dobie otwartych mediów trudno nie powielić w różnych formach tego samego tematu,
+dlatego tym bardziej warto sięgać do książek opisujących wąsko pewne zagadnienia a przy tym kompleksowo je omawiając
+inaczej niż w przypadku artykułów, czy opinii, które zawierają wyrywkowe spojrzenie na pewne fakty.</p>
+<h2><a class="header" href="#dla-kogo-jest" id="dla-kogo-jest">dla kogo jest</a></h2>
+<p>w pierwszej kolejności dla programistów zainteresowanych emigracją do krajów niemieckojęzycznych.
+W drugiej dla Polaków, którzy chcą się upewnić, że nie chcą emigrować, chcą świadomie podjąć decyzję.
+W trzeciej dla tych, którzy jeszcze nie są programistami a mają wątpliwości, nawet jeśli nie wyjadą po lekturze tej książki, to
+mogą poprzez zawarte w książce informacje zwiększyć świadomość na temat rynku pracy i własnej wartości na nim.
+Ta ksiazka jest napisana dla tych, ktorzy zajmuja sie lub chca zajmowac profesjonalnie programowaniem.</p>
+<p>Dla tych, którzy są programistami, ale myślą o przekwalifikowaniu
+np webdev do programisty desktop, itp</p>
+<h2><a class="header" href="#dla-kogo-nie-jest" id="dla-kogo-nie-jest">dla kogo nie jest</a></h2>
+<p>... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)</p>
+<p>dla szukających motywacji do wyjazdu, nie chcelibyśmy kogoś przekonywać, bo ja od 6 lat nikogo nie przekonałem
+mimo, że wypowiadałem się raczej pozytywnie.
+ja sam bym siebie nie przekonał do pozostania w Polsce na stałe, więc nie chciałbym nikogo przenywać do wyjazdu, zmiana przekonań
+nie jest celem tej książki.</p>
+<h2><a class="header" href="#o-kim-jest-ta-książka" id="o-kim-jest-ta-książka">o kim jest ta książka</a></h2>
+<p>o ludziach, którzy nie bali się zaryzykować i stale podnoszą swoje kwalifikacje, za które otrzymują dobre wynagrodzenie
+Którzy zastanawiają się co mogliby zrobić lepiej.</p>
+<h2><a class="header" href="#o-kim-nie-jest" id="o-kim-nie-jest">o kim nie jest</a></h2>
+<p>o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów</p>
+<h2><a class="header" href="#streszczenie" id="streszczenie">Streszczenie</a></h2>
+<p>Książka opisuje co to jest IT, jakie perspektywy</p>
+<h2><a class="header" href="#rozdziały" id="rozdziały">Rozdziały</a></h2>
+<p>Zakres tematyczny jest na zmianę w każdym kolejnym rozdziale o technicznych kwestiach związanych z zawodem i kwestiach społeczno, organizacyjnych, prawnych.</p>
+<ul>
+<li>zawód programista</li>
+<li>kompetencje</li>
+<li>kariera</li>
+<li>narzędzia</li>
+</ul>
+<p>Ksiazka zostala podzielona na czesci w zaleznosci od tego na jakim etapie jestes i dokad zmierzasz.</p>
+<p>Mim celem jest stworzenie mapy mozliwosci z drogowskazami dla ludzi ktorzy 
+chca rozeznac czego tak na prawde szukaja i zadaja sobie pytania jak tam dotrzec.</p>
+<ol>
+<li>
+<p>Napisales juz kilka programow i chcialbys rozwijac te zdolnosci
+ale nie wiesz czy masz szanse na rynku niemieckim, bo znasz angielski</p>
+</li>
+<li>
+<p>Znasz jezyk niemiecki, kulture ale nie znasz sie na programowaniu:</p>
+</li>
+</ol>
+<ul>
+<li>moje narzedzia + nodejs  + python + firma szukajaca junirorow</li>
+</ul>
+<p>glownie webdevelopment i web app, bo na to jest zapotrzebowanie,
+uzycie gotowych narzedzi  + wizualna apicra i apiunit
+od razu wejscie na pole wysokiej produktywnosci</p>
+<ol start="3">
+<li>
+<p>Znasz sie na programowaniu, bo robisz to od wielu lat, szukasz nowych wyzwań, 
+znasz angielski, być może niemiecki i kulturę niemiecką ale chcialbyś poznać jak najefektywniej bez marnowania energii i czasu na niepotrzebne dziaania dotrzec do pracodawcy niemieckiego i tam dalej rozwijac swoje umiejetnosci.</p>
+</li>
+<li>
+<p>jestes w niemczech, czyli znasz niemiecki, angielski, polski, ... i myslisz o zmianie zawodu ale obawiasz sie ze nie jest to proste i chcialbys sie upewnic ze to wlasciwa decyzja i okreslic jak to zrobic najefektywniej i bezpolesnie dla zycia prywatnego.</p>
+</li>
+<li>
+<p>Potrzebujesz wiecej niz jest zawarte w tej ksiazce a nie chcesz czekac do nastepnego wydania:
+kontakt ze mna w celu otrzymania  wskazowek pozwalajacych od razu na realizacje, usluga platna ale spersonalizowana z gwarancja zwrotu w razie niezadowolenia w ciagu 2 tygodni.</p>
+</li>
+</ol>
+<p>support dla niecierpliwych na dluzej jesli jest taka potrzeba</p>
+<ol start="6">
+<li>W zasadzie nie musisz czytac tej ksiazki bo nie masz zadnych pytan,
+zapraszamy do napisania kolejnej czesci, wzbogaconej o wiecej detali i aktualnych zagadnien z branzy.
+Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz to zapraszamy</li>
+</ol>
+<p>!export[export.md]</p>
+<h2><a class="header" href="#o-autorze" id="o-autorze">O autorze</a></h2>
+<p>Umysł ścisły z otwartą głową.</p>
+<p>w przeszłości:</p>
+<p>z wykształcenia:
++ elektryk, energoelektryk, inż. systemów sterowania </p>
+<ul>
+<li>elektryk</li>
+<li>elektronik</li>
+<li>automatyk</li>
+<li>handlowiec</li>
+<li>przedsiębiorca</li>
+<li>programista</li>
+</ul>
+<h3><a class="header" href="#obecnie" id="obecnie">Obecnie:</a></h3>
+<p>jestem pisarzem, programistą.</p>
+<ul>
+<li>pisze książkę</li>
+<li>tworzę oprogramowanie opensource</li>
+</ul>
+<p>głównie narzędzia do pracy,
+ułatwiam sobie pracę.</p>
+<p>W momencie pisania książki pracuję na etacie rodzica.
+tutaj więcej szczegółów: <a href="1/../4/rodzina.html">rodzina.md</a></p>
+<p>Czas w którym nie pracuję na etacie programisty okazuje się owocnym czasem
+na podsumowania.
+Pisanie tekstu, czy algorytmu to dla mnie równa przyjemność, chociaż zawodowo lepiej odnajduję się w programowaniu.</p>
+<p>Cieszę się, że mogę podzielić się z w tej publikacji moim doświadczeniem.
+Tej książki by nie było, gdyby nie moje ponad 30 letnie doświadczenie z kulturą Polską, gdzie miałem plany pozostać, ale plany można zmienić, więc zaryzykowałem.</p>
+<h3><a class="header" href="#rok-2008-wrzesień" id="rok-2008-wrzesień">Rok 2008, Wrzesień</a></h3>
+<p>Wcześniej również zaryzykowałem i zmieniłem branżę i profesję na programistę.
+Ale nie wszystkie zmiany były tak owocne, chociażby działanie na własny rachunek w 2008 roku i to we wrześniu, kiedy już mówiono o kryzysie w USA.
+Mimo, że kryzys czy kilkuletni zastój gospdarczy w Polsce nie był tak dotkliwy, to dla młodej niedoświadczonej osoby była to droga nie do przejścia.</p>
+<p>Podjąłem już nie decyzję, ale konieczność, jaką było zamknięcie działalności i dalsza praca ale już w zawodzie programisty a nie jako elektryk-automatyk, marzenia powoli nabierały kształtów.</p>
+<h3><a class="header" href="#rok-2011-sierpień" id="rok-2011-sierpień">Rok 2011, Sierpień</a></h3>
+<p>Pierwsza podjęta praca w tym zawodzie pozwoliła mi nabrać praktyki, obycia, poznanie warsztatu najlepszych!
+Tak mogę dziś powiedzieć z perspektywuy czasu, byłem zbyt powolny, zbyt mało obyty by w tamtej firmie być dłużej niż 6 miesięcy.
+Ale radość była już z pierwszych poczynionych kroków, ryzyko się opłaciło, wcześniejsze straty finansowe jeszcze długo będzie trzeba spłacać, ale jest już rozwiązanie.</p>
+<h3><a class="header" href="#rok-2012-listopad" id="rok-2012-listopad">Rok 2012, Listopad</a></h3>
+<p>Koniec roku 2012 to początek nowej drogi w karierze i życiu.
+Wyjazd na próbne 5 dni pracy, spotkania, testy, rozmowy.
+Udało się, mam to, pod koniec stycznia 2013 jestem na Bawarii (z powrotem).
+W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej książce.</p>
+<h3><a class="header" href="#rok-2014" id="rok-2014">Rok 2014</a></h3>
+<ul>
+<li>nauka języka java</li>
+<li>wyjazd do NRW</li>
+<li>ukończenie studiów inżynierskich</li>
+</ul>
+<h3><a class="header" href="#rok-2015" id="rok-2015">Rok 2015</a></h3>
+<ul>
+<li>praca w korporacji jako programista, oficjalnie (consultant)</li>
+<li>ponad 20 tysięcy pracowników, telefon, laptop, wyjazdy</li>
+<li>nauka nodejs</li>
+<li>kontakt do nowej firmy i po namowowie chętnie przyłączyłem się do zespołu Mehrkanal w 2016 roku.</li>
+</ul>
+<h3><a class="header" href="#rok-2016" id="rok-2016">Rok 2016</a></h3>
+<ul>
+<li>kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał?
+Moja historia pokazuje, że w Niemczech można zaplanować karierę, ale rónież zrealizować wiele planów prywatnych a nawet zdrowotnych: 
+<a href="1/../3/zdrowie.html">zdrowie.md</a></li>
+</ul>
+<h3><a class="header" href="#plany-scenariusze-a-życie" id="plany-scenariusze-a-życie">Plany, scenariusze a życie</a></h3>
+<p>Wielokrotnie przekonałem się, że moje oczekiwania, plany i scenariusze nie pokryły się z rzeczywistością, ale 
+nigdy nie pomyślałem, że to zbędne, gdyż poznawanie rzeczywistości poprzez własne doświadczenie daje szansę na lepsze zrozumienie i poprawienie w przyszłości swoich szacunków.</p>
+<hr />
+<p>Nauka nie pójdzie w las gdy ją zatrzymamy w domu swojej świadomości, roztaczając wokół niej aurę zrozumienia.
+Zrozumienie a nie akceptacja daje szansę na poprawę własnej i bliskiej nam rzeczywistości.
+Inaczej stajemy się maszyną bez refleksji, która w koło popełnia te same błędy.</p>
+<hr />
+<h2><a class="header" href="#książka" id="książka">książka</a></h2>
+<p>Książki nie pisze się w krótkim czasie, bo abstrahując od samego procesu pisania,
+potrzebny jest wzięcie oddechu pomiędzy kolejnymi etapami powstawania,
+aby z perspektywy ocenić  i móc stworzyć coś więcej niż tylko zlepek liter i zdań.</p>
+<p>Daję sobie czas na przemyślenia i konsultacje</p>
+<p>kulisy powstania i motywacje przy pisaniu książki
+<a href="1/../1/dlaczego.html">dlaczego.md</a></p>
+<!-- TOC -->autoauto- [O autorze](#o-autorze)auto- [książka](#książka)autoauto<!-- /TOC -->
+<p>!export[export.md]</p>
+<h2><a class="header" href="#dlaczego-powstała-ta-książka" id="dlaczego-powstała-ta-książka">Dlaczego powstała ta książka</a></h2>
+<p>Motywacja od przekazania graniczy z determinajacją, by nie tylko pisać teksty dla komputera ale również dla człowieka.</p>
+<p>W ramach myśli wymiany oprgoramowania: open-source 
+tworzyć rónież wymianę doświadczeń open - experience</p>
+<h2><a class="header" href="#jak-długo-była-pisana" id="jak-długo-była-pisana">Jak długo była pisana</a></h2>
+<p>Przez kilka tygodni w wolnym czasie pomiędzy wychowaniem dziecka.
+Trzeba jednak założyć fakt, że wcześniej przygotowywałem kilka myśli
+i analiz, które przyczyniły się do mentalnej dojrzałości.
+Gdyż sam fakt postanowienia napisania to była chwila</p>
+<p>!export[export.md]</p>
+<h1><a class="header" href="#bohaterowie" id="bohaterowie">Bohaterowie</a></h1>
+<p>Bohaterami książki są:</p>
+<p>Szablon opisu:</p>
+<h3><a class="header" href="#charketrystka-czym-się-zajmuje-się-obecnie" id="charketrystka-czym-się-zajmuje-się-obecnie">charketrystka, czym się zajmuje się obecnie</a></h3>
+<h3><a class="header" href="#historia-czym-zajmowałem-się-w-cześniej" id="historia-czym-zajmowałem-się-w-cześniej">historia, czym zajmowałem się w cześniej</a></h3>
+<h3><a class="header" href="#początek-jak-zaczałem-programować" id="początek-jak-zaczałem-programować">początek, jak zaczałem programować</a></h3>
+<h3><a class="header" href="#początek-w-de" id="początek-w-de">początek w de</a></h3>
+<h3><a class="header" href="#ew-koniec-w-de" id="ew-koniec-w-de">ew. koniec w DE</a></h3>
+<h3><a class="header" href="#marzenia-plany-kontra-rzeczywistość" id="marzenia-plany-kontra-rzeczywistość">Marzenia, plany kontra rzeczywistość</a></h3>
+<h2><a class="header" href="#strony-w-procesie-poszukiwania-i-walki-o-pracę" id="strony-w-procesie-poszukiwania-i-walki-o-pracę">Strony w procesie poszukiwania i walki o pracę</a></h2>
+<ul>
+<li>
+<p>kandydaci na stanowiska</p>
+</li>
+<li>
+<p>firmy rekrutujące
+cf, </p>
+</li>
+<li>
+<p>pracodawcy</p>
+</li>
+</ul>
+<ul>
+<li>ktos z taxi, mehr, inno, check, buch, waw</li>
+</ul>
+<h2><a class="header" href="#rola-każdej-ze-stron" id="rola-każdej-ze-stron">Rola każdej ze stron</a></h2>
+<p>na jakie kompromisy pójdzie polski pracodawca a na jakie niemiecki
+gdzie leży punkt ciężkości, na co się zgodzi a na co już nie </p>
+<p>!export[export.md]</p>
+<h1><a class="header" href="#analiza" id="analiza">Analiza</a></h1>
+<h1><a class="header" href="#przeszłość-programowania" id="przeszłość-programowania">Przeszłość programowania</a></h1>
+<p>zacznę od dygresji:
+To zadziwiające, że wyrazy przeszłość i przyszłość różnią się w polskim języku tylko jedną literą - samogłoską,
+ciekawe dlaczego?</p>
+<p>Czyżby w tym była zawarta mądrość?
+że przeszłość i przyszłość różnią się pozornie znacznie, ale w praktyce są łatwe do przewidzenia, gdyż natura ludzka, która kształtuje teraźniejszość nie zmienia się?</p>
+<h2><a class="header" href="#język-polski" id="język-polski">język polski:</a></h2>
+<ul>
+<li>przyszłość</li>
+<li>przeszłosć</li>
+</ul>
+<h2><a class="header" href="#język-niemiecki" id="język-niemiecki">język niemiecki:</a></h2>
+<ul>
+<li>die Zukunft</li>
+<li>die Vergangenheit</li>
+</ul>
+<h2><a class="header" href="#język-angielski" id="język-angielski">język angielski:</a></h2>
+<ul>
+<li>future</li>
+<li>past</li>
+</ul>
+<h2><a class="header" href="#jak-było-dotychcczas" id="jak-było-dotychcczas">Jak było dotychcczas</a></h2>
+<h2><a class="header" href="#jak-rozwijaja-się-technologie" id="jak-rozwijaja-się-technologie">Jak rozwijaja się technologie</a></h2>
+<h2><a class="header" href="#jak-to-ma-wpływ-na-karierę" id="jak-to-ma-wpływ-na-karierę">Jak to ma wpływ na karierę</a></h2>
+<h2><a class="header" href="#polityczne-zmiany" id="polityczne-zmiany">POlityczne zmiany</a></h2>
+<h2><a class="header" href="#kulturowe-zmiany" id="kulturowe-zmiany">Kulturowe zmiany</a></h2>
+<h1><a class="header" href="#przyszłość-programowania" id="przyszłość-programowania">Przyszłość programowania</a></h1>
+<p>Jak było dotychcczas</p>
+<p>Jak rozwijaja się technologie</p>
+<p>Jak to ma wpływ na karierę</p>
+<p>POlityczne zmiany</p>
+<p>Kulturowe zmiany</p>
+<h2><a class="header" href="#jezyki-programowani" id="jezyki-programowani">Jezyki programowani</a></h2>
+<p>pod kątem obecnego zapotrzebowania</p>
+<p>obecnego użycia</p>
+<p>jakie są trendy,</p>
+<p>czy warto zmienić</p>
+<h1><a class="header" href="#devops" id="devops">DevOps</a></h1>
+<p>administracyjna strona programowania</p>
+<p>Jakie zadania
++ administracja środowiskiem
++ </p>
+<h1><a class="header" href="#open-source" id="open-source">Open Source</a></h1>
+<p>Open mind
+Code Review</p>
+<h1><a class="header" href="#specjalizacje" id="specjalizacje">Specjalizacje</a></h1>
+<h2><a class="header" href="#kim-jest-programista" id="kim-jest-programista">Kim jest programista</a></h2>
+<p>programowanie to tylko efekt końcowy, całość to: Software Development,
+W niemczech używa się często Software Developer zamiennie z Softwareentwickler</p>
+<h2><a class="header" href="#język-angielski-1" id="język-angielski-1">Język angielski</a></h2>
+<p>W ogóle słowa angielskie są bardziej popularne i są chętnie wplatane w mowie i w piśmie.
+Jak w mowie to też często z akcentem angielskim.</p>
+<h2><a class="header" href="#przeszłość" id="przeszłość">Przeszłość</a></h2>
+<p>początki powstania tego zawodu</p>
+<h2><a class="header" href="#przyszłosć" id="przyszłosć">Przyszłosć</a></h2>
+<p>jakie są teoretyczne podstawy do istnienia tego zawodu i jakie są możliwe scenariusze na najbliższe lata i naście lat.</p>
+<h2><a class="header" href="#jak-zmienia-się-zawód-programisty" id="jak-zmienia-się-zawód-programisty">Jak zmienia się zawód programisty</a></h2>
+<ul>
+<li>
+<p>kodowanie, inżynieria, implementacja modeli matematycznych</p>
+</li>
+<li>
+<p>software development, administracja, łączenie różnych środowisk, integracja</p>
+</li>
+<li>
+<p>Api, IoT, robotyzacja, automatyzacja</p>
+</li>
+<li>
+<p>...</p>
+</li>
+</ul>
+<h2><a class="header" href="#coder-programista-software-developer-devops" id="coder-programista-software-developer-devops">coder, programista, software developer, devops</a></h2>
+<h1><a class="header" href="#administrator" id="administrator">Administrator</a></h1>
+<p>jaka jest jego rola</p>
+<h1><a class="header" href="#kultura-pracy" id="kultura-pracy">Kultura pracy</a></h1>
+<p>w celu przybliżenia tego czym jest kultura i jak ulegała zmianie w polsce oraz jak przebiegała w niemczech weźmy dla przykładu najpierw to co znamy
+czyli zmiany, które dokonały się w Polsce
+przybliżenie historycznych względów</p>
+<p>Cco to jest kultura</p>
+<h2><a class="header" href="#polska" id="polska">Polska</a></h2>
+<p>to społeczeństwo, którego kraj czasem nie istniał na mapie, czasem był pod okupacją, ale rzadko liderem,
+chęć przetrwania i łatwość adaptacji do zmian charakteryzuje część społeczeństwa</p>
+<h3><a class="header" href="#rok-1989" id="rok-1989">rok 1989</a></h3>
+<p>rozrywka:</p>
+<h3><a class="header" href="#rok-2009" id="rok-2009">rok 2009</a></h3>
+<p>rozrywka:</p>
+<h3><a class="header" href="#rok-2019" id="rok-2019">rok 2019</a></h3>
+<p>rozrywka:</p>
+<h2><a class="header" href="#niemcy" id="niemcy">Niemcy</a></h2>
+<p>to społeczeństwo, które wiele razy było liderem</p>
+<h3><a class="header" href="#rok-1989-1" id="rok-1989-1">rok 1989</a></h3>
+<p>rozrywka:</p>
+<h3><a class="header" href="#rok-2009-1" id="rok-2009-1">rok 2009</a></h3>
+<p>rozrywka:</p>
+<h3><a class="header" href="#rok-2019-1" id="rok-2019-1">rok 2019</a></h3>
+<p>rozrywka:</p>
+<h2><a class="header" href="#historia" id="historia">Historia</a></h2>
+<p>ten rozdział powstał, by pokazać, jakie znaczenie ma 
+dla Polaków i Niemców historia.</p>
+<p>Wspólna historia jest bolesna, a wiele spraw jest tematem tabu w niemczech w odróżnieniu od Polski</p>
+<p>Warto to znać podejmując te tematy w Niemczech.
+Spotkałem się z kilkoma odpowiedziami dającymi do myślenia:</p>
+<p>w pracy podczas pogawędki z ponad 50 letnim niemieckim kolegą:</p>
+<ul>
+<li>gdyby niemcy nie byli liderami w europie to kto, to po prostu ich obowiązek</li>
+</ul>
+<p>Podczas wymiany komentarzy na social media:</p>
+<ul>
+<li>to była przeszłość, my jako niemcy nie odpowiadamy za to co stało się wcześniej</li>
+</ul>
+<p>i tak myślą, to część kultury, myślenia kom</p>
+<h1><a class="header" href="#kultura-pracy-1" id="kultura-pracy-1">Kultura pracy</a></h1>
+<h2><a class="header" href="#jak-wygląda-dzień-pracy" id="jak-wygląda-dzień-pracy">Jak wygląda dzień pracy</a></h2>
+<h2><a class="header" href="#rozpoczęcie" id="rozpoczęcie">Rozpoczęcie</a></h2>
+<p>Punktualność
+ramy czasowe
+przywitanie, formalizm, formy grzecznościowe</p>
+<h2><a class="header" href="#przerwa-w-pracy" id="przerwa-w-pracy">Przerwa w pracy</a></h2>
+<p>czas trwania
+o czym się mówi, o czym się nie mówi
+palenie papierosów
+alkohol</p>
+<p>wyjścia na zewnątrz
+kantyny
+karnety na bufety,
+wyjście do restuaracji</p>
+<h2><a class="header" href="#co-jest-ważne" id="co-jest-ważne">Co jest ważne</a></h2>
+<p>Praca zdalna to rzadkość</p>
+<h2><a class="header" href="#automatyzacja" id="automatyzacja">Automatyzacja</a></h2>
+<p>o ile motoryzacja jest bardzo dobrze rozwinięta
+są fabryki robotów takich jak kuka (warto obejrzeć reklamy).</p>
+<p>ale programowanie jest daleko w tyle i można liczyć jedynie na programistów z zagranicy, aby usprawniali
+to czego nie potrafią programiści z niemiec.</p>
+<h2><a class="header" href="#przykład-niskiego-poziomu-zaawansowania-w-branzy-it" id="przykład-niskiego-poziomu-zaawansowania-w-branzy-it">Przykład niskiego poziomu zaawansowania w branzy IT</a></h2>
+<p>Kiedy pierwszy raz podjąłem pracę etatową
+to już w polsce w firmie If Research Polacy mieli dobrze rozbudowane środowisko DevOps
+kiedy to jeszcze nie było popularne.</p>
+<p>Każdy mógł swobodnie wybrać system na którym chciał pracować
+a wirtualne lokalne środowisko działało na linuxie.</p>
+<p>Dziękli temu korzystaliśmy z bardzo wydajnego środowiska.</p>
+<h1><a class="header" href="#języki" id="języki">języki</a></h1>
+<h1><a class="header" href="#stereotypy" id="stereotypy">Stereotypy</a></h1>
+<p>takie, które są już częścieni nie aktualne w praktyce, ale rzadko można się spotkać z pewnym fałszywym przekonaniem</p>
+<h2><a class="header" href="#o-polakach" id="o-polakach">o polakach</a></h2>
+<h2><a class="header" href="#o-niemcach" id="o-niemcach">o niemcach</a></h2>
+<h2><a class="header" href="#indywidualizm" id="indywidualizm">indywidualizm</a></h2>
+<p>poniewąż można dużo o tym napisać i nie do końca uchwycić sens
+warto przytoczyć synonimy i antonimy słowa indywidualizm w formie osobowej, aby 
+bardziej przemawiały do wyobraźni</p>
+<h2><a class="header" href="#synonimy" id="synonimy">Synonimy</a></h2>
+<p>charakterystyczny, 
+osobniczy, 
+podręcznikowy, 
+reprezentacyjny, 
+reprezentatywny, 
+rozpoznawalny,
+rozpoznawczy,
+specyficzny,
+stylowy, 
+swoisty, 
+symptomatyczny, 
+szczególny,
+typowy, 
+właściwy,
+znamienny,
+jednostkowy, 
+niepowtarzalny, 
+odrębny,
+oryginalny, 
+osobliwy, 
+specjalny, 
+swego rodzaju, 
+unikalny,
+unikatowy, 
+niepołączony, 
+oddalony, 
+oddzielny, 
+oddzielony, oderwany, odizolowany,
+odległy, odosobniony,
+odseparowany, osobny, poszczególny, 
+rozłączny, wydzielony, wyodrębniony, absolutny, autogeniczny, autogenny, autonomiczny, niezależny, sam przez się, samoistny, samorzutny, jednoosobowy, niezorganizowany, pojedynczy, samodzielny, imienny, niezespołowy, solowy, jednostronny, nieobiektywny, osobisty, podmiotowy, stronniczy, subiektywny, niezłączony, rozdzielny, autobiograficzny, odręczny, personalny, prywatny, swój, własnoręczny, własny, rodzimy, wyłączny, odróżniający, wyjątkowy, inny, odmienny, niestowarzyszony, intymny, niepubliczny, 
+partykularny, własnościowy, wyłączony, zastrzeżony, spersonalizowany, </p>
+<h2><a class="header" href="#antonimy-do-słowa-indywidualny" id="antonimy-do-słowa-indywidualny">Antonimy do słowa „indywidualny”</a></h2>
+<p>nieindywidualny,
+obywatelski, 
+ogólnonarodowy, 
+ogólny, 
+państwowy, 
+publiczny, 
+spółdzielczy, 
+uspołeczniony, 
+generalny, 
+grupowy, 
+kolegialny, 
+kolektywny, 
+wspólny, 
+zbiorowy, 
+chóralny, 
+zespołowy, 
+rutynowy, stały, umówiony, ustalony, utrwalony, łączny, połączony, zespolony, nieosobisty, obiektywny, społeczny, banalny, cudzy, normalny, powszechny, przeciętny, stowarzyszony, </p>
+<h2><a class="header" href="#praktyka" id="praktyka">Praktyka</a></h2>
+<p>W kontekście społeczeństwa indywidualizm sprowadza sie do wykluczenia,
+dlatego tak bardzo niemcy wypracowują system, by w nim mógł istnieć indywidualizm zdefiniowany
+nie odchodzący od normy</p>
+<h2><a class="header" href="#indywidualizm-1" id="indywidualizm-1">indywidualizm</a></h2>
+<p>poniewąż można dużo o tym napisać i nie do końca uchwycić sens
+warto przytoczyć synonimy i antonimy słowa indywidualizm w formie osobowej, aby 
+bardziej przemawiały do wyobraźni</p>
+<h2><a class="header" href="#synonimy-1" id="synonimy-1">Synonimy</a></h2>
+<p>charakterystyczny, 
+osobniczy, 
+podręcznikowy, 
+reprezentacyjny, 
+reprezentatywny, 
+rozpoznawalny,
+rozpoznawczy,
+specyficzny,
+stylowy, 
+swoisty, 
+symptomatyczny, 
+szczególny,
+typowy, 
+właściwy,
+znamienny,
+jednostkowy, 
+niepowtarzalny, 
+odrębny,
+oryginalny, 
+osobliwy, 
+specjalny, 
+swego rodzaju, 
+unikalny,
+unikatowy, 
+niepołączony, 
+oddalony, 
+oddzielny, 
+oddzielony, oderwany, odizolowany,
+odległy, odosobniony,
+odseparowany, osobny, poszczególny, 
+rozłączny, wydzielony, wyodrębniony, absolutny, autogeniczny, autogenny, autonomiczny, niezależny, sam przez się, samoistny, samorzutny, jednoosobowy, niezorganizowany, pojedynczy, samodzielny, imienny, niezespołowy, solowy, jednostronny, nieobiektywny, osobisty, podmiotowy, stronniczy, subiektywny, niezłączony, rozdzielny, autobiograficzny, odręczny, personalny, prywatny, swój, własnoręczny, własny, rodzimy, wyłączny, odróżniający, wyjątkowy, inny, odmienny, niestowarzyszony, intymny, niepubliczny, partykularny, własnościowy, wyłączony, zastrzeżony, spersonalizowany, </p>
+<h2><a class="header" href="#antonimy-do-słowa-indywidualny-1" id="antonimy-do-słowa-indywidualny-1">Antonimy do słowa „indywidualny”</a></h2>
+<p>nieindywidualny,
+obywatelski, 
+ogólnonarodowy, 
+ogólny, 
+państwowy, 
+publiczny, 
+spółdzielczy, 
+uspołeczniony, 
+generalny, 
+grupowy, 
+kolegialny, 
+kolektywny, 
+wspólny, 
+zbiorowy, 
+chóralny, 
+zespołowy, 
+rutynowy, stały, umówiony, ustalony, utrwalony, łączny, połączony, zespolony, nieosobisty, obiektywny, społeczny, banalny, cudzy, normalny, powszechny, przeciętny, stowarzyszony, </p>
+<h2><a class="header" href="#praktyka-1" id="praktyka-1">Praktyka</a></h2>
+<p>W kontekście społeczeństwa indywidualizm sprowadza sie do wykluczenia,
+dlatego tak bardzo niemcy wypracowują system, by w nim mógł istnieć indywidualizm zdefiniowany
+nie odchodzący od normy</p>
+<h1><a class="header" href="#market" id="market">Market</a></h1>
+<p>rynek pracy w niemczech</p>
+<ul>
+<li>ile jest nie obsadzonych
+jakiego typu profesje w IT sa najbardziej pozadane:</li>
+</ul>
+<ul>
+<li>teamleader</li>
+<li>programista</li>
+<li>manager</li>
+</ul>
+<p>jakie specjalizacje, jezyki, frameworki:
++ php
++ zend
++ symfony
++ laravel</p>
+<p>Ile ofert pracy rocznie:</p>
+<p>cytaty z raportow polskich i niemieckich.</p>
+<h2><a class="header" href="#asymiliacja" id="asymiliacja">Asymiliacja</a></h2>
+<p>Kultura Polska i Polacy zaskakują najbardziej
+i najwiękej o nich możńa się nauczyć przebywając poza granicami kraju
+gdyż Polska jest krajem monoetnicznym i pewne standardy są oczywiste
+co zmienia sie za granicą, gdzie nie tylko jest inna kulrtura ale tez często mulitkulutorowść</p>
+<p>Polaczy się asymilują</p>
+<p>t </p>
+<h1><a class="header" href="#zdrowie" id="zdrowie">zdrowie</a></h1>
+<p>nawiązanie do pogody</p>
+<h1><a class="header" href="#pogoda" id="pogoda">Pogoda</a></h1>
+<p>nawiązanie do zdrowia</p>
+<h1><a class="header" href="#wyprawa" id="wyprawa">Wyprawa</a></h1>
+<h2><a class="header" href="#rozmowa-kwalifikacyjna-interview" id="rozmowa-kwalifikacyjna-interview">Rozmowa kwalifikacyjna, Interview</a></h2>
+<h2><a class="header" href="#wyjazd-do-pracy" id="wyjazd-do-pracy">Wyjazd do pracy</a></h2>
+<p>Warto na początku zaznaczyć, że to nie jest droga w jedną stronę,
+gdybym miał wybierać, to nie byłbym tak szczęśliwy jak jestem,
+gdyż dużo mi daje urlop w Polsce, ale nie chciałbym tam żyć.
+Z drugiej strony, gdybym był zmuszony żyć tylko w Niemczech to też nie byłbym szczęśliwy.</p>
+<p>Warto mieć na uwadze, że robimy to po to by zdobyć :
++ nowe doświadczenie
++ znajomość o kulturze pracy w innym kraju
++ nauka języków: niemiecki, angielski, ...</p>
+<p>Te atuty dadzą pozytywny owoce za kilka lat, nawet gdy wrócimy do Polski, lub wyjedziemy do kolejnego kraju.</p>
+<p>Każda wyprawa wymaga przygotowania, to co warto zaplanować przed wyjazdem to:</p>
+<ul>
+<li>
+<p>naprawa zdrowia</p>
+<ul>
+<li>wizyta u polskich lekarzy specjalistów
+<ul>
+<li>stomatolog, ...</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>naprawa samochodu</p>
+</li>
+<li>
+<p>zakupy </p>
+<ul>
+<li>artykuły niedostępne lub w ograniczonej ilośći w niemczech lub w zawyżonej cenie
+<ul>
+<li>zioła, herbaty ziołowe, yerba mate</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><a class="header" href="#na-jaki-czas" id="na-jaki-czas">Na jaki czas?</a></h2>
+<p>na kilka tygodni, miesięcy</p>
+<h2><a class="header" href="#ubezpieczenie-prawne" id="ubezpieczenie-prawne">Ubezpieczenie prawne</a></h2>
+<p>Rechtsschutzversicherung</p>
+<ul>
+<li>das Recht = prawo</li>
+<li>der Schutz = ochrona</li>
+<li>die Versicherung = ubezpieczenie</li>
+</ul>
+<h1><a class="header" href="#motywacja" id="motywacja">Motywacja</a></h1>
+<p><img src="4/../img/we-wy.png" alt="wejście-wyjście" /></p>
+<p>W motywacji do wszelkiej aktywności warto znać fakty, by pozbyć sie złudzeniom prowadzących do krótkotrwałych uniesień i braku konsekwencji.</p>
+<h2><a class="header" href="#determinacja" id="determinacja">Determinacja</a></h2>
+<p>jednak większe znaczenie od motywacji ma determinacja,
+która nie pozwala myśleć o przyszłych decyzjach jako opcji i uzaleeżniać je od dobrego humoru.</p>
+<p>tylko jest koniecznością na poziomie mentalnym, gdyż wiemy, że:
++ nikt za mnie tego nie zrobi
++ nie mam innej możliwości
++ czas gra na moją niekorzyść
++ jeśli nie zrobię, to będzie tylko gorzej</p>
+<p>W warunkach determinacji powstają firmy, tworzy się lepszy świat w oparciu o 
+trzeźwe nastawienie do rzeczywistości i chęć włożenia wysiłku w zmianę obecnej sytuacji,
+wiara w to, że tylko od włożonego w dzieło wysłku zależy efekt.</p>
+<p>Determinacja towarzyszy często w niesprzyjajacych warunkach, gdy 
+nie ma sie czasu na długie przemyślenia, jednak ma sie jasny obraz tego czego się oczekuje.</p>
+<h2><a class="header" href="#kim-jest-programista-od-strony-technicznej" id="kim-jest-programista-od-strony-technicznej">Kim jest programista od strony technicznej</a></h2>
+<p>Ktoś kto jest programistą, jest zarazem pisarzem, gdyż używa klawiatury do zapisywania logicznych zdań.
+Zdania te trzeba wymyśleć a potem przemyśleć, sprawdzić i wziąć odpowiedzialność za efekty ich działania.</p>
+<p>Brzmi strasznie, ale dla tych, którzy lubią programować, to jedynie rezultat.</p>
+<h2><a class="header" href="#moje-motywacje" id="moje-motywacje">Moje motywacje</a></h2>
+<pre><code>+ chęć tworznie i zobaczenia rezultatów i dalszej zmiany w celu stworzenia lepszej wersji tego co jest obecnie
++ modelowanie rzeczywistości, zabawa w boga, tworzenie lepszego świata
++ wcześniej w elektronice, ale programowanie daje szybsze rezultaty
+</code></pre>
+<h2><a class="header" href="#pytania-na-które-warto-sobie-odpowiedzieć" id="pytania-na-które-warto-sobie-odpowiedzieć">Pytania na które warto sobie odpowiedzieć:</a></h2>
+<ul>
+<li>Dlaczego zajmuję się prgoramowaniem, skąd mam taką potrzebę?</li>
+<li>Jakie inne aktywności zarobkowe są dla mnie równie interesujące, tzn dające podobną satysfakcję?</li>
+</ul>
+<h1><a class="header" href="#kompetencje" id="kompetencje">Kompetencje</a></h1>
+<p><img src="4/../img/wierzcholek-gory.png" alt="wierzcholek-gory.png" />
+o tym co widać a czego nie widać</p>
+<p>Co pokazać a o czym nie mówić?</p>
+<h2><a class="header" href="#umiejętności" id="umiejętności">Umiejętności</a></h2>
+<h3><a class="header" href="#pożądane-profile-osób-na-rynku" id="pożądane-profile-osób-na-rynku">Pożądane profile osób na rynku</a></h3>
+<h3><a class="header" href="#cechy-charakteru" id="cechy-charakteru">Cechy charakteru</a></h3>
+<h2><a class="header" href="#perfekcjonizm" id="perfekcjonizm">Perfekcjonizm</a></h2>
+<p>problemy z zakończeniem czegoś, wedle zasady, lepsze działające niż perfekcyjne</p>
+<h2><a class="header" href="#" id=""></a></h2>
+<h2><a class="header" href="#języki-obce" id="języki-obce">Języki obce</a></h2>
+<p>jak bardzo są istotne i kiedy nie mają większego znaczenia.
+Oczywiśćie jezyk angielski jako pierwszy podsatwowy język do komunikacji w różnych 
+warunkach.</p>
+<h2><a class="header" href="#nauka-języków-obcych" id="nauka-języków-obcych">Nauka języków obcych</a></h2>
+<p>możliwe jest uczestniczenie w VHS = Volkshohschule
+ale możliwe</p>
+<h1><a class="header" href="#koszty-życia" id="koszty-życia">Koszty życia</a></h1>
+<p>na jakie koszty życia trzeba być przygotowanym</p>
+<p>Gdzie robić zakupy aby nie tracić czasu i pieniędzy
+portale online
+ebay, amazon, etc</p>
+<p>Na czym można oszczędzić, na czym nie powinno się oszczędzać</p>
+<h2><a class="header" href="#markety" id="markety">Markety</a></h2>
+<p>W niemczech jest 80 milionów ludzi, większość to klienci niemieckich sklepów,
+reszta, mniejszości narodowe, stanowiące : ...</p>
+<p>Sklepy niemieckie w którym produkty są wyższej jakości to, np REWE, EDEKA,
+można tam kupić produkty na wagę
+w zależności od regionu, np jedne są popularniejsze.</p>
+<p>kupują również w sklepach narodowych:</p>
+<ul>
+<li>
+<p>Polskie
+kupowanie w sklepie polskim w niemczech
+to nie tylko robienie zakupów, tu można oderwać się od ducha zachodu i wrócić na chwilę do Polski
+posłuchać rozmów klientów i obsługi
+Tutaj czekanie w kolejce to przyjemnosć, nie ma tego tempa charakterystycznego dla polski.</p>
+</li>
+<li>
+<p>Tureckie
+Warto kupować bo świeże produkty, trochę lepszej jakości niż w niemieckich sklepach
+ale uwaga na przejrzałe owoce</p>
+</li>
+<li>
+<p>Rosyjskie
+wiele polskich produktów
+uwaga na produkty przeterminowane
+w promocjach często są produkty po terminie.
+niestety to nie wyjątek, to mentalność rosjan w tym wypadku nie jest fajna, a obsługa potrafi być nie miła: robi łaskę, że pracuje.</p>
+</li>
+</ul>
+<h2><a class="header" href="#rodzina" id="rodzina">Rodzina</a></h2>
+<p>w kontekście wyprawy warto rozważyć jak zaplanować przyszłość.
+Dla tych, którzy jeszcze nie mają rodziny sprawa jest jednoznaczna, sami decydują.</p>
+<p>W przypadku gdy rodzina składa się z dwóch dorosłych osób i pracy obecnej, 
+dokonanie wyboru dla jednej strony może być z wielkim oporem.</p>
+<p>Dlatego istotna jest nie stan aktualny, ale motywacja do jego zmiany.</p>
+<p>Nie istotne czy mamy pracę czy nie.
+Isotne, czy cchcemy mieć pracy i mamy szansę na nią w Niemczech.</p>
+<h2><a class="header" href="#urodzenie-dziecka" id="urodzenie-dziecka">Urodzenie dziecka</a></h2>
+<p>Otrzymuję za to wynagroddzenie, urlop macierzyński/tacierzyński to nic nadzwyczajnego,
+ale możliwość bycia ojca dziecka na takim urlopie do 12 miesięcy od urodzenia
+to wyjątkowy czas, w ramach składek społecznych są wypłacane 65% ostatniego wynagrodzenia,
+więc finansowo się to udaje pogodzić.</p>
+<p>Oczywiście dla pracodawcy jest to niekorzystna sytuacja, bo traci etat na kilka miesięcy - do roku w przypadku ojca, 
+lub nawet do 2 lat w prz\ypadku matki nowonarodzonego dziecka.
+Takie prawo mają rodzice w DE i pracodawcy muszą się z tym liczyć.</p>
+<h1><a class="header" href="#etapy-kariery" id="etapy-kariery">Etapy kariery</a></h1>
+<h2><a class="header" href="#etat-czy-zlecenia-freelance" id="etat-czy-zlecenia-freelance">Etat czy Zlecenia (freelance)</a></h2>
+<p>a może oba</p>
+<p>stereotypy nie biorą się znikąd, ale też mają swoje granice w czasie i przestrzeni.
+Warto brać to pod uwagę zanim wyciągnie się wnioski, które mijają się z prawdą.
+Bo prawda nie leży po środku tylko tam gdzie leży.</p>
+<p>Stereotypowe myślenie  o karierze, że trzeba przejść wszystkie szczeble w firmie, aby zasiąść ostatecznie na stanowisku kierowniczym
+a następnie zyskać sławę jako celebryta.</p>
+<p>W dobie telewizji internetowej jaką od wielu lat jest jeden popularny portal, każdy może stać się popularny.
+Z ilościowego punktu widzenia nie ma znaczenia jak głupie i/lub szokujące rzeczy się robi.</p>
+<p>Z jakościowego punktu widzenia, gdzie istotne jest przyniesienie innej wartości niż rozrywka ma znaczenie:
++ kto i jak mówi
++ jakość nagrania i sposób prezentacji
++ jakość informacji, stan faktyczny</p>
+<p>Z punktu jakościowego bardziej istotne jest zagłębienie się w tematykę niż znajomość ogólna ale płytka.</p>
+<p>Warto znać różnice kulturowe pomiędzy Niemcami i Polakami, bo ma to przełożenie na efektywność.</p>
+<h1><a class="header" href="#rekrutacja" id="rekrutacja">Rekrutacja</a></h1>
+<p>od ogłoszenia do pierwszego dnia w pracy</p>
+<p>kolejne kroki stojące przed kandydatem, plan działania, niespodzianki</p>
+<h2><a class="header" href="#oferty-pracy" id="oferty-pracy">Oferty pracy</a></h2>
+<p>treść ofert pracy na co zwracać uwagę</p>
+<p>Dodatkowo w ofertach pracy są w nawiasach dwie albo trzy litery, najczęściej są dwie (m/w) ale od kilku lat staje się popularne (m/w/d)</p>
+<pre><code>(m/w/d) steht für männlich/weiblich/divers
+(m/w/i) steht für männlich/weiblich/intersexuell
+(m/w/i/t) steht für männlich/weiblich/intersexuell/transsexuell
+(m/w/a) steht für männlich/weiblich/anders
+(m/w/x) steht für männlich/weiblich/egal welches Geschlecht beziehungsweise nicht definiert
+(m/w/gn) steht für männlich/weiblich/geschlechtsneutral
+(m/w/*) steht für männlich/weiblich/Asterisk kann ein beliebiges Geschlecht oder eine Fußnote symbolisieren
+</code></pre>
+<p>Na tym nie koniec, gdyż z wyborem płci wiąże się forma zwracania się do kandydata, wybór toalety, etc</p>
+<h2><a class="header" href="#proces-rekrutacji-bewerbungsprozess" id="proces-rekrutacji-bewerbungsprozess">Proces rekrutacji (Bewerbungsprozess)</a></h2>
+<h2><a class="header" href="#dresscode" id="dresscode">(Dresscode)</a></h2>
+<h2><a class="header" href="#rozmowa" id="rozmowa">Rozmowa</a></h2>
+<p>tematy rozmów</p>
+<p>różnice między polskimi rozmowami a niemieckimi</p>
+<h1><a class="header" href="#pytania-pracownika-do-pracodawcy" id="pytania-pracownika-do-pracodawcy">Pytania pracownika do pracodawcy</a></h1>
+<h2><a class="header" href="#koszt-zwrotu-przyjazdu" id="koszt-zwrotu-przyjazdu">koszt zwrotu przyjazdu</a></h2>
+<ul>
+<li>przepisy</li>
+<li>przeliczanie</li>
+<li>przykładowy formularz</li>
+</ul>
+<h2><a class="header" href="#pytania-dla-przyjazduprzylotu" id="pytania-dla-przyjazduprzylotu">Pytania dla przyjazdu/przylotu</a></h2>
+<p>Co będę musiał umieć, żeby pracować, jakie są potrzebne praktyczne zdolności.</p>
+<p>Co jest konieczne do pracy i co by było mile widziane?</p>
+<p>Czy będę mógł przyjechać z kolegą/koleżanką?</p>
+<h2><a class="header" href="#mieszkanie" id="mieszkanie">Mieszkanie</a></h2>
+<p>Gdzie będę mógł mieszkać?</p>
+<p>Jak daleko to jest od pracy?</p>
+<p>Jakie są godziny pracy i czy są nadgodziny?</p>
+<p>Na jak długo mam przyjechać na okres próbny?</p>
+<p>( mam wizę turystyczną i będę potrzebował na okres stały wizę pracowniczą)</p>
+<p>Ile będzie kosztował wynajem?</p>
+<p>Ile powinienem mieć pieniędzy na pierwszy miesiąc?</p>
+<p>Jakie będą moje koszta i jakie będą pokryte przez pracodawcę w okresie próbnym i potem jeśli wszystko się uda?</p>
+<p>Jaka stawka na okresie próbnym i jaka potem?</p>
+<h2><a class="header" href="#wizy-dla-ludzi-spoza-eu" id="wizy-dla-ludzi-spoza-eu">Wizy dla ludzi spoza EU</a></h2>
+<p>Jakie dokumenty będą potrzebne dla wizy pracowniczej?</p>
+<p>ile to będzie trwało?</p>
+<p>kiedy będę mógł przyjechać drugi raz już na wizie pracowniczej?</p>
+<h1><a class="header" href="#interview" id="interview">Interview</a></h1>
+<p>rozmowa kwalifikacyjna często zaczyna sie od opowiedzenia o firmie
+potem kandydat opowiada o sobie.</p>
+<p>TO co różni polskie i niemieckie interview, to nacisk na teoretyczną znajomosć zagadnień.
+W polsce często rozmowa kwalifikacyjna to głównie test, pytania i odpowiedzi na zagadnienia techniczne.</p>
+<p>...
+W niemczech rozmowa kwalifikacyjna to rozmowa.
+Nie jest tak istotna szkoła, ale ostatnio zdobyte doświadczenie</p>
+<h2><a class="header" href="#co-trzeba-a-czego-nie-wolno-mówić" id="co-trzeba-a-czego-nie-wolno-mówić">co trzeba a czego nie wolno mówić</a></h2>
+<p>&quot;wszystko co powiesz może być użyte przeciwko Tobie&quot;</p>
+<h2><a class="header" href="#zarobki" id="zarobki">Zarobki</a></h2>
+<p>w branży na różnych szczeblach i różnych specjalnościach
+od czego zależy</p>
+<h1><a class="header" href="#zwolnienie-z-pracy" id="zwolnienie-z-pracy">Zwolnienie z pracy</a></h1>
+<p>Urlopy
++ możliwość wypowiedzenia w trakcie urlopu wypoczynkowego
++ w trakcie urlopu macierzyńskiego/tacieryzńskiego dopiero po przybyciu z urlopu do pracy</p>
+<p>formalne wypowiedzenie
+okres wypowiedzenie</p>
+<h1><a class="header" href="#praca" id="praca">Praca</a></h1>
+<h1><a class="header" href="#etat" id="etat">Etat</a></h1>
+<p>Codzienna praca w tej samej firmie nie każdemu odpowiada, 
+są ludzie poszukujący nowych wyzwań.</p>
+<p>Dla nich jest szeroki wahlarz możliwości współracy nawet podczas pracy etatowej, o ile umowa o prace
+nie zastrega takiej aktywności, ewentualne niejasności można wyjaśnić bezpośrednio z pracodawcą.</p>
+<p>Formy pracy</p>
+<table><thead><tr><th>Header 1</th><th>Header 2</th></tr></thead><tbody>
+<tr><td>Content 1</td><td>Content 2</td></tr>
+<tr><td>Content 3</td><td>Content 4</td></tr>
+</tbody></table>
+<h2><a class="header" href="#freelance" id="freelance">Freelance</a></h2>
+<p>W jaki sposób w niemczech jest możliwy
+jak formalnie
+jak w praktyce wygląda relacja z pracodawcą</p>
+<h2><a class="header" href="#o-pracy-zdalnej" id="o-pracy-zdalnej">o pracy zdalnej</a></h2>
+<p>W Polsce wolny strzelec często pracuje zdalnie, czasem to synonim, ale w niemczech to niewiele ma wspólnego
+raczej freelance jest używany dorywczo i nie jest alternatywą tylko niszą.
+Nie jest pożądny nie tylko z uwagi na wyższe koszty, ale częsciej z faktu, że bardziej sprawdza się relacja:
+pracownik - pracodawca,
+gdzie można bardziej zintegrować pracownika w zespole i więcej oczekiwać i zyskać w dłuższej perspektywie</p>
+<h2><a class="header" href="#dlatego-warto-o-tym-wiedzieć-gdy-się-wybiera" id="dlatego-warto-o-tym-wiedzieć-gdy-się-wybiera">Dlatego warto o tym wiedzieć, gdy się wybiera,</a></h2>
+<p>gdyż to nie jest mile widziane, gdy jest się freelancerem i szuka się pracy na etat
+gdyż z reguły pracodawcy szukają kogoś na lata a nie na miesiące.</p>
+<p>Nowy pracownik w firmie to nie jest tylko kwestia procesu rekrutacji, który można delegować firmie zewnętrznej.
+To też wiele spraw po zatrudnieniu, przed i po zwolnieniu.
+Proces rekrutacji to tylko mała częśc. ale istotna z uwagi na konsekwencje zatrudnienia
+niepasującej osoby nie tylko w aspekcie technicznym ale głównie społecznym, gdyż bardzo istotne dla firmy jest ciągłe 
+poleganie na sprawdzonych osobach a nie eksperymentowanie.</p>
+<p>Celem biznesu jest stałe wzmacnianie pozycji firmy i zwiększanie zdolności produkcyjnych a to nie jest łatwe gdy co chwilę się zatrudnia kogoś nowego 
+i zespół nie ma szansy polegać i zaufać na tej osobie, gdyż jeszcze nie było okazji by dobrze poznać się w praktyce.</p>
+<h1><a class="header" href="#klienci" id="klienci">Klienci</a></h1>
+<p>jak ich zdobyć</p>
+<p>jak buduje się relacje</p>
+<h2><a class="header" href="#podatki" id="podatki">Podatki</a></h2>
+<p>gdzie z punktu podatkowego najbardziej opłaca się pracować, by wypracowanych pienieędzy
+nie przeznaczać w dużym procencie na podatki, tylko np na własną emeryturę.</p>
+<p>Jakie obecnie są ulgi podatkowe w niemczech</p>
+<p>jakie są programy socjalne, itp</p>
+<h2><a class="header" href="#jakie-są-możliwe-formy-działalności-w-branży-it" id="jakie-są-możliwe-formy-działalności-w-branży-it">Jakie są możliwe formy działalności w branży IT</a></h2>
+<h1><a class="header" href="#proza-życia" id="proza-życia">Proza życia</a></h1>
+<p>po opisaniu w poprzednich rozdziałach drogi jaką przebyłem i jaką może przebyć ten kto zdecyduje się na zmiany w swoim życiu,
+pora na odsłonięcie zasłony prozy życia, gdzie wiele spraw się komplikuje.</p>
+<h2><a class="header" href="#utrata-znajomości-przyjaźni" id="utrata-znajomości-przyjaźni">Utrata znajomości, przyjaźni</a></h2>
+<h2><a class="header" href="#utrata-pracy" id="utrata-pracy">Utrata pracy</a></h2>
+<h2><a class="header" href="#utrata-mieszkania" id="utrata-mieszkania">Utrata mieszkania</a></h2>
+<h2><a class="header" href="#utrata-pracy-i-mieszkania" id="utrata-pracy-i-mieszkania">Utrata pracy i mieszkania</a></h2>
+<h2><a class="header" href="#problemy-prawne" id="problemy-prawne">Problemy prawne</a></h2>
+<h2><a class="header" href="#problemy-finansowe" id="problemy-finansowe">Problemy finansowe</a></h2>
+<h2><a class="header" href="#wypadek" id="wypadek">Wypadek</a></h2>
+<h2><a class="header" href="#wątpliwości" id="wątpliwości">Wątpliwości</a></h2>
+<h2><a class="header" href="#depresja" id="depresja">Depresja</a></h2>
+<h2><a class="header" href="#wypalenie" id="wypalenie">Wypalenie</a></h2>
+<h2><a class="header" href="#znudzenie" id="znudzenie">Znudzenie</a></h2>
+<h2><a class="header" href="#emerytura-programisty" id="emerytura-programisty">Emerytura programisty</a></h2>
+<p>Patrząc w przyszłość warto rozważyć większą perspektywę
+wielu ludzi zmienia kierunek kariery idąc w inne specjalizacje, poza prgramowanie.
+ale co jeśli przyjmiemy, że całe życie chcemy poświęcić jednej profesji</p>
+<p>Jak trzeba patrzeć na to, aby nie przeoczyć ważnych detali w planowaniu przyszłości? </p>
+<p>Czy z emerytury programisty będzie można spokojnie funkcjonować w przyszłości?
+Warto też zadać pytanie, czy jakikolwiek system emerytalny w przyszłości będzie
+funkcjonował tak samo jak obecny</p>
+<p>Można wróżyć jakie będą zmiany kulturowe i polityczne i jak one wpłyną na przyszłość w tym na emeryturę.</p>
+<p>To co wiemy już dziś, to że systemy emerytalne działają na takiej zasadzie jak piramida finansowa.
+GDzie Ci którzy korzystają z tej piramidy są finansowani z tych, którzy dopiero dołączyli.</p>
+<h2><a class="header" href="#zus-legalna-piramida-finansowa" id="zus-legalna-piramida-finansowa">ZUS, legalna piramida finansowa</a></h2>
+<p>Nie ma tam zmagazynowanych pieniędzy tylko jest zarządzanie pieniedzmi, które dopiero co zostały pozyskane.</p>
+<p>Podobnie jak system bankowy, system emerytalny zarządzany przez panstwo (ZUS) operuje
+na nieistniejąych, wirtualnych pieniądzacg, które dopiero wejdą do systemu.</p>
+<p>Dlatego nie mając na względzie żadnych zewnętrznych czynników, tylko wewnętrzną wolą
+do zabezpieczenia przyszłości swojej i rodziny, warto już na starcie przemyśleć
+pod tym kątem co można zrobić, aby nie zostać na lodzie, tak jak to się kończy w przypadku
+każdej piramidy finansowej.</p>
+<h1><a class="header" href="#strategia" id="strategia">Strategia</a></h1>
+<p>starając się obrać jakiś kierunek obmyślamy strategię, aby dotrzeć tam njak najszyciej.</p>
+<p>Warto przy tym przeanalizować możliwe scenariusze i wyciągnąć z nich korzyści i wady
+aby w razie gdy staną się rzeczywistością wiedzieć jaki krok będzie następny.</p>
+<h2><a class="header" href="#możliwe-scenariusze" id="możliwe-scenariusze">Możliwe scenariusze:</a></h2>
+<ul>
+<li>Polska jako kraj na urlop, Niemcy jak kraj dla pracy
+z moich obserwacji wynika, że w Polsce można bardzo dobrze wypocząć, gdyż można mieć wiele niezaplanowanych atrakcji
+myśląc o kulturze Niemiec myślę o zaplanowanej na lata karierze</li>
+</ul>
+<h1><a class="header" href="#recepta" id="recepta">Recepta</a></h1>
+<p>krótkie podsumowania jak widzi się</p>
+<p>Kiedy recepta zadziała, warunki</p>
+<h2><a class="header" href="#osoba-i-rzeczywistość" id="osoba-i-rzeczywistość">Osoba i rzeczywistość</a></h2>
+<p>warto zdać sobie sprawęz tego, że mimo, iż jesteśmy zwierzęciem stadnym to w codziennych realiach mierzymy się pośrednio z rzeczywistością
+a często bezpośrednio z samym sobą.</p>
+<p>Istotne jest by zdać sobie sprawę z tego, że wielu rzeczy nie zmienimy na zewnątrz, ale nawet to jak patrzymy na rzeczywistość daje większe szanse na realizacje i powodzenie obranych celów.</p>
+<p>Przykład:</p>
+<h2><a class="header" href="#od-technicznej-strony" id="od-technicznej-strony">Od technicznej strony</a></h2>
+<p>Recepta dla tych, których stać na duże ryzyko, bądź czują, że nie mają innego wyjścia jest możliwość
+szybkiego wzrostu poprzez selektywny, zrozumiały na obecnej technicznej świadomości krok:</p>
+<p>programowanie w prostej formie w przygotowanym środowisku
+to jest pewien kompromis w świecie, gddzie nie wystarczy już znajomosć języka czy frameworka, ale też środowiska oprogramowania 
+i znajomość administracji aplikacji.</p>
+<p>Ze swej stronie w drodze wypracowanych zasad udostępniam narzędzia dla niecierpliwych, aby mogli zacząć poszerzyć swoje możliwości
+i szybkość realizacji zadań na etacie lub na zlecenie.</p>
+<ul>
+<li>
+<p>apicra
+budowanie i nadzór środowiska aplikacji</p>
+</li>
+<li>
+<p>apiunit
+budowanie aplikacji</p>
+</li>
+<li>
+<p>estymacja
+obliczanie czasu na wykonanie zadania </p>
+</li>
+</ul>
+<h1><a class="header" href="#dobre-praktyki" id="dobre-praktyki">Dobre praktyki</a></h1>
+<p>Modularyzacja wszystkiego</p>
+<p>najlepiej to widac na przykladzie apiunit, ktory pozwala na
+niezaleznie od uzytego framweorka, podzielenie i ladowanie dynamiczne strony.</p>
+<p>modularyzacja aplikacji, ksiazki, kazdej tresci i projektu pozwala na podzielenie na male czesci tego co nawet nie wiemy jak jest wielkie
+ale to nie ma znaczenia jak cos jest wielkie tylko czy wiemy jak zmienic to co jest w tej malej czesci, a jest to tym latwiejsze im czesc ta jest 
+bardziej jednolita, ustandaryzowana, niezaleznie od calego systemu.</p>
+<h1><a class="header" href="#freelance-1" id="freelance-1">Freelance</a></h1>
+<h1><a class="header" href="#narzędzia-dla-programistów" id="narzędzia-dla-programistów">Narzędzia dla programistów</a></h1>
+<p>Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy do pracy programiście</p>
+<h2><a class="header" href="#microsoft-visual-studio-code" id="microsoft-visual-studio-code">Microsoft Visual Studio Code</a></h2>
+<ul>
+<li>korzyści, do czy warto?</li>
+</ul>
+<h2><a class="header" href="#licencja-jetbrains" id="licencja-jetbrains">Licencja jetbrains</a></h2>
+<ul>
+<li>własny projekt opensource</li>
+</ul>
+<h2><a class="header" href="#kursy-online" id="kursy-online">Kursy online</a></h2>
+<ul>
+<li>
+<p>płatne</p>
+</li>
+<li>
+<p>bezpłatne</p>
+</li>
+</ul>
+<h2><a class="header" href="#meble" id="meble">Meble</a></h2>
+<ul>
+<li>
+<p>stół z regulacją  wysokości</p>
+<ul>
+<li>ręcznie</li>
+<li>elektrycznie</li>
+</ul>
+</li>
+<li>
+<p>taboret, hocker 
+Ergonomic Kneeling Chair, Adjustable Stool For Home and Office - Thick Comfortable Cushions</p>
+<ul>
+<li>kułka są niepotrzebne, dodatkowo ktoś może się uderzyć jak to jest za wysoko</li>
+</ul>
+</li>
+<li>
+<p>https://www.amazon.de/sleekform-Ergonomischer-Schreibtisch-komfortabel-Orthop%C3%A4dische/dp/B0773PMT29
+trochę wygląda niebezpiecznie, lepiej mieć razem, bo można wykorzystać tę powierzchnię nawet na siedzenie
+bo jednak to klęczenie potrafi się znudzić i czasem trzeba zmienić pozycję.</p>
+</li>
+<li>
+<p>https://de.aliexpress.com/item/32802288396.html</p>
+<ul>
+<li>ma oparcia z boku, a często zsiadając potrzebuje właśnie wykonać ruch na bok, to by wymagało 
+większej gymnastyki i mogło by spowodować upadek</li>
+</ul>
+</li>
+<li>
+<p>krzesło z ikea</p>
+<ul>
+<li>https://www.ikea.com/pl/pl/p/terje-krzeslo-skladane-buk-64833108/</li>
+<li>prosta konstrukcja łatwe składnaie, możliwosć naprawy, gdyż klej puszcza, wystarczy kilka wkrętów.</li>
+<li>przeszkadza jedynie drewniane, twarde oparcie, ale można zastosować coś  na &quot;zmiękczenie&quot;</li>
+</ul>
+<p>Krzesło można złożyć, aby zajmowało mniej miejsca, kiedy nie jest używane.<br />
+Otwór w oparciu umożliwia powieszenie krzesła na ścianie, aby zajmowało mniej miejsca, kiedy nie jest używane.
+Można uzupełnić samoprzylepnymi ochraniaczami do podłogi FIXA, które chronią powierzchnię przed zużyciem.</p>
+</li>
+</ul>
+<h2><a class="header" href="#ide-edytory" id="ide-edytory">IDE Edytory</a></h2>
+<h2><a class="header" href="#przykład-odnośnie-książki" id="przykład-odnośnie-książki">Przykład odnośnie książki</a></h2>
+<p>edytor do prgramowania może być użyteczny nawet do pisania książki
+co czynię, używając wersjonowania git - repozytorium na github
+oraz edytora Visual Studio Code, który dość dobrze spełnia swoją rolę jako edytor tekstu z bogatym wsparciem dla formatu *.md i integracją github</p>
+<h1><a class="header" href="#podatki-1" id="podatki-1">podatki</a></h1>
+<h1><a class="header" href="#rutyny" id="rutyny">Rutyny</a></h1>
+<p>pożyteczne nałogi/nawyki, które warto stosować w codziennym życiu programistycznym</p>
+<p>codziennie</p>
+<p>co tydzień</p>
+<p>co miesiąc</p>
+<p>co kwartał</p>
+<p>co roku</p>
+<p>dla Ciebie</p>
+<p>dla </p>
+<h2><a class="header" href="#stanowisko-pracy" id="stanowisko-pracy">Stanowisko pracy</a></h2>
+<p>to, by mieć najlepszy możliwy komputer w ramach jednej pensji to oczywiste,
+że to daje najszybszy zwrot, gdyż taki komputer nie wymaga dużej konserwacji
+co w przypadku windowsa bywa uciążliwe, dla którego nawet 24GB RAM to za mało
+bo zabiera je do świata uśpionych procesów.</p>
+<p>To co jest istotne w stanowisku pracy to możliwość efektywnej pracy w każdym momencie.</p>
+<p>PRaca programisty to praca umysłowa, gdzie potrebne jest skupienie, ale też możliwość zapisywania
+notatek, stworzenie dzieła wymaga wielu myśli, które idą w jednym kierunku
+tego się nie robi jednorazowo tylko to wymaga stałego dostępu do pracy</p>
+<p>tak jak jedzenie, wymaga stałego dostępu do kuchni.</p>
+<p>Dlatego moje stanowisko pracy jest w kuchni :)</p>
+<h3><a class="header" href="#podsumowanie" id="podsumowanie">Podsumowanie</a></h3>
+<p>Z jednej strony mógłbym mówić o pasmie sukcesów a z drugiej o paśmie porażek, gdyż to nieudane plany i związane z tym problemy kazały mi iść w kierunku w którym nadal zmierzam.
+Teraz to nie jest walka o samorealizację, jak praca i rodzina, ale o wolność dla dzieci do edukacji domowej czy szczepień.</p>
+<p>Europa jest polem doświadczalnym, gdzie niektóre kraje zrzeszone w związku europejskim nazywanym Unią Europejską są tymi równiejszymi.</p>
+<p>To jest polityka rządów, każdy z nas ma własną i musi wybierać pomiędzy swoim dobrem a dobrem innych, czasem ktoś ucierpi a czasem wbrew przeciwnie, rozstania wychodzą na dobre, bo każdy powinien mieć prawo się pomylić ale też decydować o tym co z tym zrobi.</p>
+<p>Co jest pewne, to fakt, że rodzimy się wynoszeni na rękach a umieramy zakopywani w ziemię.</p>
+<p>Jaka lekcja z tego płynie?</p>
+<ul>
+<li>czekam na Twój komentarz czytelniku...</li>
+</ul>
+<h1><a class="header" href="#dodatki" id="dodatki">Dodatki</a></h1>
+<p>w tym ostatnim rozdziale oprócz podsumowania są też dodatki dla czytelników, którzy zamierzają lub już realizują swoje plany odnośnie pracy i życia w Niemczech.</p>
+<h2><a class="header" href="#kupny" id="kupny">Kupny</a></h2>
+<p>Usługi z rabatem dla czytelników w sprawdzonych miejscach</p>
+<h2><a class="header" href="#lektury" id="lektury">Lektury</a></h2>
+<p>Dla aktywnych czytelników, którzy mają chęć pogłębić wiedzę na tematy poruszane książce</p>
+<h2><a class="header" href="#mapa" id="mapa">Mapa</a></h2>
+<p>Europa na mapie</p>
+<h2><a class="header" href="#statystyki" id="statystyki">Statystyki</a></h2>
+<p>zawarte w książce i więcej</p>
+<h2><a class="header" href="#tabelki" id="tabelki">tabelki</a></h2>
+<p>do nauki języka niemieckiego</p>
+<p>Rzeczowniki
+POrzymiotniki
+Czasowniki</p>
+<h2><a class="header" href="#statystyki-1" id="statystyki-1">Statystyki</a></h2>
+<p>Adresy www do ciekawych danych</p>
+<h1><a class="header" href="#lista-lektur-dla-programisty" id="lista-lektur-dla-programisty">Lista lektur dla programisty</a></h1>
+<p>wielu programistów wie, że ma zaległości,
+aby nie musieli szukać, warto by poniżej skorzystali z listy, podlinkowanych książek, które mogą
+za darmo przeczytać w sieci.
+Które pozwolą im inwestując czas i chęci, zwiększyć swoją wartość</p>
+<h1><a class="header" href="#kupony-rabatowe" id="kupony-rabatowe">Kupony rabatowe</a></h1>
+<p>Dla tych, którzy są już w Niemczech lub chcą wyjechac
+lista firm z kontaktem pozwalająca na skorzystanie z rabatów</p>
+<p>To forma promocji dla usługodawców i też możliwość nawiązania nowych biznesowych relacji dla czytelników książki</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>
