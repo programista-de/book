@@ -12,7 +12,7 @@
   + [jezyki-programowania](2/jezyki-programowania.md)
   + [devops](2/devops.md)
   + [open-source](2/open-source.md)
-  
+
 + [Specjalizacje](2/specjalizacje.md)  
   + [programista](2/programista.md)
   + [administrator](2/administrator.md)
@@ -84,4 +84,4 @@
   + [mapa](11/mapa.md)
   + [lektury](11/lektury.md)
   + [kupony](11/kupony.md)   
-  
+  + [Współpraca](11/wspolpraca.md)
