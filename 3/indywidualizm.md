@@ -37,7 +37,8 @@ rozpoznawalny,
         oddzielony, oderwany, odizolowany,
          odległy, odosobniony,
           odseparowany, osobny, poszczególny, 
-          rozłączny, wydzielony, wyodrębniony, absolutny, autogeniczny, autogenny, autonomiczny, niezależny, sam przez się, samoistny, samorzutny, jednoosobowy, niezorganizowany, pojedynczy, samodzielny, imienny, niezespołowy, solowy, jednostronny, nieobiektywny, osobisty, podmiotowy, stronniczy, subiektywny, niezłączony, rozdzielny, autobiograficzny, odręczny, personalny, prywatny, swój, własnoręczny, własny, rodzimy, wyłączny, odróżniający, wyjątkowy, inny, odmienny, niestowarzyszony, intymny, niepubliczny, partykularny, własnościowy, wyłączony, zastrzeżony, spersonalizowany, 
+          rozłączny, wydzielony, wyodrębniony, absolutny, autogeniczny, autogenny, autonomiczny, niezależny, sam przez się, samoistny, samorzutny, jednoosobowy, niezorganizowany, pojedynczy, samodzielny, imienny, niezespołowy, solowy, jednostronny, nieobiektywny, osobisty, podmiotowy, stronniczy, subiektywny, niezłączony, rozdzielny, autobiograficzny, odręczny, personalny, prywatny, swój, własnoręczny, własny, rodzimy, wyłączny, odróżniający, wyjątkowy, inny, odmienny, niestowarzyszony, intymny, niepubliczny, 
+          partykularny, własnościowy, wyłączony, zastrzeżony, spersonalizowany, 
     
 
 ## Antonimy do słowa „indywidualny”

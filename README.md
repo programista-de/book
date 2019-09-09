@@ -15,7 +15,6 @@ W zależności od celu jaki chcemy osiągnąć trzeba ustalić odpowiednią stra
 Dziś książka nie wystarczy...
 
 
-
 ## Programista.de
 Programista.de to nie tylko książka, to oferta dla tych, którzy chcą zanurzyć się w świat programowania na tyle by w krótkim czasie móc 
 wypłynąć na głębsze wody w sąsiednim kraju Polski, w Niemczech.
@@ -43,7 +42,6 @@ Darmowe źródła wiedzy:
   
 Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekrutacja:
   + check24
-
 
 
 # Spis treści
@@ -92,17 +90,17 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [zarobki](5/zarobki.md)
   + [zwolnienie](5/zwolnienie.md)
      
-
-## 6  
-  + [emerytura](6/emerytura.md)
-  + [strategia](6/strategia.md)
+## 6
+  + [etat](6/etat.md)
+  + [formy](6/formy.md)
+  + [freelance](6/freelance.md)
+  + [](.md)
+  + [](.md)
+  + [](.md)
 
 ## 7
-  + [](.md)
-  + [](.md)
-  + [](.md)
-  + [](.md)
-  + [narzedzia](7/narzedzia.md)
+  + [emerytura](6/emerytura.md)
+  + [strategia](6/strategia.md)
 
 ## 8
   + [Freelance](8/freelance.md)
@@ -111,13 +109,12 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [recepty](8/recepty.md)
   + [rutyny](8/rutyny.md)
   + [](.md)
-  + [](.md)
-  + [](.md)
 
 ## 9    
   + [tabelka](tabelka.md)
   + [mapa](9/mapa.md)
   + [lektury](9/lektury.md)
-  + [kupony](9/kupony.md)
-  
+  + [kupony](9/kupony.md) 
   + [zrodla](9/zrodla.md)
+
+!export[export.md]

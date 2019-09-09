@@ -83,7 +83,6 @@ Którzy zastanawiają się co mogliby zrobić lepiej.
 o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów
 
 
-
 ## Streszczenie
 
 Książka opisuje co to jest IT, jakie perspektywy
@@ -133,3 +132,4 @@ zapraszamy do napisania kolejnej czesci, wzbogaconej o wiecej detali i aktualnyc
 Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz to zapraszamy
 
 
+!export[export.md]

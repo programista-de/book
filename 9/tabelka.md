@@ -1,3 +1,8 @@
 ## tabelki
-do naki jez. niemieckiego
+do nauki języka niemieckiego
+
+Rzeczowniki
+POrzymiotniki
+Czasowniki
+
 

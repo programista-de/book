@@ -2,4 +2,6 @@
 
 administracyjna strona programowania
 
-administracja środowiskiem
+Jakie zadania
++ administracja środowiskiem
++ 

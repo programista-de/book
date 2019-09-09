@@ -13,3 +13,4 @@ i analiz, które przyczyniły się do mentalnej dojrzałości.
 Gdyż sam fakt postanowienia napisania to była chwila
 
 
+!export[export.md]
