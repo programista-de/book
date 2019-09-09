@@ -15,7 +15,7 @@ z wykształcenia:
 + programista
  
 
-Obecnie:
+### Obecnie:
 jestem pisarzem, programistą.
 
 + pisze książkę
@@ -33,23 +33,40 @@ na podsumowania.
 Pisanie tekstu, czy algorytmu to dla mnie równa przyjemność, chociaż zawodowo lepiej odnajduję się w programowaniu.
 
 Cieszę się, że mogę podzielić się z w tej publikacji moim doświadczeniem.
-Tej książki by nie było, gdyby nie moje ponad 30 letnie doświadczenie z kulturą Polską, gdzie miałem plany pozostać,
-ale plany można zmienić, więc zaryzykowałem.
+Tej książki by nie było, gdyby nie moje ponad 30 letnie doświadczenie z kulturą Polską, gdzie miałem plany pozostać, ale plany można zmienić, więc zaryzykowałem.
+
+### Rok 2008, Wrzesień
 Wcześniej również zaryzykowałem i zmieniłem branżę i profesję na programistę.
 Ale nie wszystkie zmiany były tak owocne, chociażby działanie na własny rachunek w 2008 roku i to we wrześniu, kiedy już mówiono o kryzysie w USA.
 Mimo, że kryzys czy kilkuletni zastój gospdarczy w Polsce nie był tak dotkliwy, to dla młodej niedoświadczonej osoby była to droga nie do przejścia.
 
-Podjąłem już nie decyzję, ale konieczne działanie, jakim było zamknięcie działalności i dalsze pracowanie na etacie ale już nie jako elektryk-automatyk, ale jako programista, marzenia powoli nabierało kształtów.
+Podjąłem już nie decyzję, ale konieczność, jaką było zamknięcie działalności i dalsza praca ale już w zawodzie programisty a nie jako elektryk-automatyk, marzenia powoli nabierały kształtów.
 
+### Rok 2011, Sierpień
 Pierwsza podjęta praca w tym zawodzie pozwoliła mi nabrać praktyki, obycia, poznanie warsztatu najlepszych!
 Tak mogę dziś powiedzieć z perspektywuy czasu, byłem zbyt powolny, zbyt mało obyty by w tamtej firmie być dłużej niż 6 miesięcy.
 Ale radość była już z pierwszych poczynionych kroków, ryzyko się opłaciło, wcześniejsze straty finansowe jeszcze długo będzie trzeba spłacać, ale jest już rozwiązanie.
 
+### Rok 2012, Listopad
 Koniec roku 2012 to początek nowej drogi w karierze i życiu.
 Wyjazd na próbne 5 dni pracy, spotkania, testy, rozmowy.
-Udało się, mam to, w 2013 pod koniec stycznia już jestem na Bawarii z powrotem i w małej firmie
-rozpoczynam swoją nową drogę o której szerzej piszę w tej książce.
+Udało się, mam to, pod koniec stycznia 2013 jestem na Bawarii (z powrotem).
+W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej książce.
 
+### Rok 2014
++ nauka języka java
++ wyjazd do NRW
+
+
+### Rok 2015
++ praca w korporacji jako programista, oficjalnie (consultant)
++ ponad 20 tysięcy pracowników, telefon, laptop, wyjazdy
++ nauka nodejs
++ kontakt do nowej firmy i po namowowie chętnie przyłączyłem się do zespołu Mehrkanal w 2016 roku.
+
+### Rok 2016
++ kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał, że w Niemczech również można sobie poukładać wiele spraw prywatnych, a nawet zdrowotnych: 
+[zdrowie.md](../3/zdrowie.md)
 
 
 ## książka
