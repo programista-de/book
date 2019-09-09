@@ -48,7 +48,51 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
     Otwór w oparciu umożliwia powieszenie krzesła na ścianie, aby zajmowało mniej miejsca, kiedy nie jest używane.
     Można uzupełnić samoprzylepnymi ochraniaczami do podłogi FIXA, które chronią powierzchnię przed zużyciem.
     
-    
+
+## Hardware
+
+### PC
+
+minipc czy desktop a może coś innego?
+
+
+### Pamięć trwała 
+
+matryca NVM
+
+### Pamięć operacyjna RAM
+
+24GB i więcej 
+
+### CPU 
+
+min 4 i 8 wątków
+
+ważne, by był minimum i3, ale nie ma co walczyć o i7
+bo tam już nie ma różnicy w wydajności tylko w oszczędności energii
+
+### odprowadzanie ciepła
+
+
+### mały prywatny serwer
+
+### UPS
+
+### IoT, zdalne załączanie i wyłączanie
+
+### Router
+
+
+
+### keyboard
+
+mała zamiast dużej
+mechaniczne mają z reguły dobre rozwiązania, nisko profilowe ale od ceny 100$ wzwyż
+niższe półki nie są tak użyteczne
+
+
+
+
 ## IDE Edytory
 
 

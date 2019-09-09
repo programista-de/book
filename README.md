@@ -1,5 +1,12 @@
+# Programista . de
 [README](README.md)
 https://github.com/programista-de/book
+
+
+## Wsparcie powstania książki
+TODO:
+https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
+
 
 ## Przeszłość
 Kiedyś było tak, by nauczyć się programowac znaleźć dobrą książke i starać się uczyć w oparciu o nią.
@@ -25,7 +32,6 @@ Książka w odróżnieniu od wielu w tej dziedzina nie ma za zadanie nauczyć rz
 w kilku odsłonach przez kilka osób jak może wyglądać kariera i jak w praktyce funkcjonuje się wybierając zachód.
 Czy warto?
 możesz ocenić po okładce lub poświęcić kilka chwil na zapoznanie się z konkretnymi przykładami z życia kilku programistów, którzy wybrali zachodnią stronę Odry.
-
 
 
 

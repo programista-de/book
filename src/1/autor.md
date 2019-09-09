@@ -16,17 +16,14 @@ z wykształcenia:
  
 
 ### Obecnie:
-jestem pisarzem, programistą.
 
-+ pisze książkę
+jestem pisarzem algorytmów, czyli po polsku programistą a po niemiecku: Softwareentwickler
 + tworzę oprogramowanie opensource
-
-głównie narzędzia do pracy,
-ułatwiam sobie pracę.
+    + głównie narzędzia do pracy, ułatwiając sobie i kolegom pracę
 
 
 W momencie pisania książki pracuję na etacie rodzica.
-tutaj więcej szczegółów: [rodzina.md](../4/rodzina.md)
+tutaj więcej szczegółów: [rodzina.md](/book/4/rodzina.md)
 
 Czas w którym nie pracuję na etacie programisty okazuje się owocnym czasem
 na podsumowania.
@@ -68,7 +65,7 @@ W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej k
 ### Rok 2016
 + kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał?
 Moja historia pokazuje, że w Niemczech można zaplanować karierę, ale rónież zrealizować wiele planów prywatnych a nawet zdrowotnych: 
-[zdrowie.md](../3/zdrowie.md)
+[zdrowie.md](/book/3/zdrowie.md)
 
 ### Plany, scenariusze a życie
 
