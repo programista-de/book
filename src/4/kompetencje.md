@@ -1,6 +1,6 @@
 # Kompetencje
 
-![wierzcholek-gory.png](img/wierzcholek-gory.png)
+![wierzcholek-gory.png](../img/wierzcholek-gory.png)
 o tym co widać a czego nie widać
 
 Co pokazać a o czym nie mówić?
