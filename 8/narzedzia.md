@@ -51,8 +51,9 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
     
 ## IDE Edytory
 
+
+## Przykład odnośnie książki
+
 edytor do prgramowania może być użyteczny nawet do pisania książki
 co czynię, używając wersjonowania git - repozytorium na github
-oraz edytora frimy jetbrains -  webstorm z obsługą  formatu .md
-oraz Visual Studio Code, który dość dobrze spełnia swoją rolę jako edytor tekstuz integracją github
-
+oraz edytora Visual Studio Code, który dość dobrze spełnia swoją rolę jako edytor tekstu z bogatym wsparciem dla formatu *.md i integracją github

@@ -81,6 +81,11 @@ Nauka nie pójdzie w las gdy ją zatrzymamy w domu swojej świadomości, roztacz
 Zrozumienie a nie akceptacja daje szansę na poprawę własnej i bliskiej nam rzeczywistości.
 Inaczej stajemy się maszyną bez refleksji, która w koło popełnia te same błędy.
 
+-------
+
+
+
+
 ## książka
 
 Książki nie pisze się w krótkim czasie, bo abstrahując od samego procesu pisania,

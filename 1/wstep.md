@@ -115,8 +115,8 @@ uzycie gotowych narzedzi  + wizualna apicra i apiunit
 od razu wejscie na pole wysokiej produktywnosci
 
 
-3. Znasz sie na programowaniu, bo robisz to od wielu lat, szukasz nowych wyzwan, 
-byc moze znasz angielski, niemieccki i kulture nieiecka ale chcialbys poznac jak najefektywniej bez marnowania energii i czasu na niepotrzebne dziaania dotrzec do pracodawcy niemieckiego i tam dalej rozwijac swoje umiejetnosci.
+3. Znasz sie na programowaniu, bo robisz to od wielu lat, szukasz nowych wyzwań, 
+ znasz angielski, być może niemiecki i kulturę niemiecką ale chcialbyś poznać jak najefektywniej bez marnowania energii i czasu na niepotrzebne dziaania dotrzec do pracodawcy niemieckiego i tam dalej rozwijac swoje umiejetnosci.
 
 
 4. jestes w niemczech, czyli znasz niemiecki, angielski, polski, ... i myslisz o zmianie zawodu ale obawiasz sie ze nie jest to proste i chcialbys sie upewnic ze to wlasciwa decyzja i okreslic jak to zrobic najefektywniej i bezpolesnie dla zycia prywatnego.

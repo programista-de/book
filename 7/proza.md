@@ -24,3 +24,15 @@ pora na odsłonięcie zasłony prozy życia, gdzie wiele spraw się komplikuje.
 
 
 ## Wypadek
+
+
+## Wątpliwości
+
+
+## Depresja
+
+
+## Wypalenie
+
+
+## Znudzenie

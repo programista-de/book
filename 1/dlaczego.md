@@ -1,6 +1,7 @@
 ## Dlaczego powstała ta książka
-Motywacja od przekazania graniczy z determinajacją, by nie tylko realizować projekty informatyczne
-ale też w ramach myśli wymiany oprgoramowania: open-source
+Motywacja od przekazania graniczy z determinajacją, by nie tylko pisać teksty dla komputera ale również dla człowieka.
+
+W ramach myśli wymiany oprgoramowania: open-source 
 tworzyć rónież wymianę doświadczeń open - experience
 
 

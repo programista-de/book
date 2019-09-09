@@ -99,8 +99,9 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [](.md)
 
 ## 7
-  + [emerytura](6/emerytura.md)
-  + [strategia](6/strategia.md)
+  + [emerytura](7/emerytura.md)
+  + [strategia](7/strategia.md)
+  + [proza](7/proza.md)
 
 ## 8
   + [Freelance](8/freelance.md)
@@ -111,10 +112,14 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
   + [](.md)
 
 ## 9    
-  + [tabelka](tabelka.md)
-  + [mapa](9/mapa.md)
-  + [lektury](9/lektury.md)
-  + [kupony](9/kupony.md) 
-  + [zrodla](9/zrodla.md)
+  + [Podsumowanie](9/podsumowanie.md)
+  + [Dodatki](9/dodatki.md)
+    + [Tabelki](9/tabelki.md)
+    + [Statystyki](9/statystyki.md)    
+    + [mapa](9/mapa.md)
+    + [lektury](9/lektury.md)
+    + [kupony](9/kupony.md)   
+  + [Źródła](9/zrodla.md)
+  
 
 !export[export.md]
