@@ -1,17 +1,22 @@
 # O czym jest ta książka 
 
-Autor książki zaprasza do wyruszenia do najbliższego zachodniego sąsiada Polski
-by zauważyć te małe i duże różnice w mentalności,
-te zaskakujące podobieństwa i różnice, które sprawiają, że chętnie wyjeżdżamy na zachód.
-Dlaczego tak jest i co jeszcze warto wiedzieć, można dowiedzieć się w tej książce.
-Zachęcam do wyruszenia z autorem w podróż po jego ostatnich 7 lat życia i razem z nim przeżycia jeszcze raz tego
-co nie tylko jest nadal aktualne, ale co sprawia, że tak ciekawe mogą być relacje z krajem, który tak bardzo potrzebuje obcokrajowców
-do budowania największej europejskiej gospodarki.
+Co nowego możemy dowiedzieć się o naszych zachodnich sąsiadach poza tym co wiemy z mediów i historii w szkołach?
+
+Autor zachęca do wyruszenia w podróż po jego ostatnich 7 lat życia i razem z nim przeżycia jeszcze raz tego
+co nie tylko jest nadal aktualne, ale co sprawia, że tak ciekawe mogą być relacje z krajem, który tak bardzo potrzebuje obcokrajowców do budowania największej europejskiej gospodarki.
+
+Czy warto zdecydować się na zmianę wszystkiego?
+
++ kultury
++ języka
++ obowiązujących przepisów prawa
++ pracy
+
+Mam nadzieję, że te wątpliwości zostaną ostatecznie rozwiane w oparciu o informacje zawarte w tej książce.
 
 
 ## Cel napisania:
-Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym
-czy się zostaje na dłużej w danym kraju.
+Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym czy się zostaje na dłużej w danym kraju.
 Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
