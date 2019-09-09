@@ -1,0 +1,6 @@
+[book]
+authors = ["tom"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programista.de"
