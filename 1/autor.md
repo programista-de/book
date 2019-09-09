@@ -56,6 +56,7 @@ W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej k
 ### Rok 2014
 + nauka języka java
 + wyjazd do NRW
++ ukończenie studiów inżynierskich
 
 
 ### Rok 2015
@@ -65,9 +66,18 @@ W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej k
 + kontakt do nowej firmy i po namowowie chętnie przyłączyłem się do zespołu Mehrkanal w 2016 roku.
 
 ### Rok 2016
-+ kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał, że w Niemczech również można sobie poukładać wiele spraw prywatnych, a nawet zdrowotnych: 
++ kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał?
+Moja historia pokazuje, że w Niemczech można zaplanować karierę, ale rónież zrealizować wiele planów prywatnych a nawet zdrowotnych: 
 [zdrowie.md](../3/zdrowie.md)
 
+### Plany, scenariusze a życie
+
+Wielokrotnie przekonałem się, że moje oczekiwania, plany i scenariusze nie pokryły się z rzeczywistością, ale 
+nigdy nie pomyślałem, że to zbędne, gdyż poznawanie rzeczywistości poprzez własne doświadczenie daje szansę na lepsze zrozumienie i poprawienie w przyszłości swoich szacunków.
+
+Nauka nie pójdzie idzie w las gdy ją zatrzymamy w domu swojej świadomości, roztaczając wokół niej aurę zrozumienia.
+Zrozumienie a nie akceptacja daje szansę na poprawę własnej i bliskiej nam rzeczywistości.
+Inaczej stajemy się maszyną bez refleksji, która w koło popełnia te same błędy.
 
 ## książka
 
