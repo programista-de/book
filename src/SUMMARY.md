@@ -2,17 +2,18 @@
 ## 1
 + [wstęp](1/wstep.md)
   + [autor](1/autor.md)
-  + [dlaczego](1/dlaczego.md)  
+  + [dlaczego](1/dlaczego.md)
   + [bohaterowie](1/bohaterowie.md)
   
 ## 2  
-+ [Analiza](analiza.md)
++ [Analiza](2/analiza.md)
   + [przeszłość](2/przeszlosc.md)
   + [przyszłość](2/przyszlosc.md)
   + [jezyki-programowania](2/jezyki-programowania.md)
   + [devops](2/devops.md)
   + [open-source](2/open-source.md)
-+ [Specjalizacje](specjalizacje.md)  
+  
++ [Specjalizacje](2/specjalizacje.md)  
   + [programista](2/programista.md)
   + [administrator](2/administrator.md)
   + [manager](2/manager.md)

@@ -99,5 +99,4 @@ kulisy powstania i motywacje przy pisaniu książki
 
 
 
-<!-- TOC -->autoauto- [O autorze](#o-autorze)auto- [książka](#książka)autoauto<!-- /TOC -->
-!export[export.md]
+> [dlaczego](1/dlaczego.md)
