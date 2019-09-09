@@ -75,7 +75,9 @@ Moja historia pokazuje, że w Niemczech można zaplanować karierę, ale rónie�
 Wielokrotnie przekonałem się, że moje oczekiwania, plany i scenariusze nie pokryły się z rzeczywistością, ale 
 nigdy nie pomyślałem, że to zbędne, gdyż poznawanie rzeczywistości poprzez własne doświadczenie daje szansę na lepsze zrozumienie i poprawienie w przyszłości swoich szacunków.
 
-Nauka nie pójdzie idzie w las gdy ją zatrzymamy w domu swojej świadomości, roztaczając wokół niej aurę zrozumienia.
+-------
+
+Nauka nie pójdzie w las gdy ją zatrzymamy w domu swojej świadomości, roztaczając wokół niej aurę zrozumienia.
 Zrozumienie a nie akceptacja daje szansę na poprawę własnej i bliskiej nam rzeczywistości.
 Inaczej stajemy się maszyną bez refleksji, która w koło popełnia te same błędy.
 
