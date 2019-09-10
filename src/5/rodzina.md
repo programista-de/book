@@ -21,3 +21,23 @@ więc finansowo się to udaje pogodzić.
 Oczywiście dla pracodawcy jest to niekorzystna sytuacja, bo traci etat na kilka miesięcy - do roku w przypadku ojca, 
 lub nawet do 2 lat w prz\ypadku matki nowonarodzonego dziecka.
 Takie prawo mają rodzice w DE i pracodawcy muszą się z tym liczyć.
+
+
+## Opieka nad dzieckiem
+
+W Niemczech jest możliwa opieka nad dzieckiem od najwcześniejszego okresu, roku, dwóch  u osósb zajmujących się
+codziennie w dni robocze, aby rodzic, rodzice mogli pracować.
+
+Kindergarten również możliwy jest od 2 roku życia
+
+WIele spraw jest możliwych w zależności od umówienia się i od charakteru dziecka.
+
+Np dzieci które są zbyt aktywne trudnioej będzie zostawić pod opieką tagesmutter, bo niewiele osób chce takie dzieci
+które sprawiają problemy
+
+z kolei rodzice nie będą chcieli zostawić spokojnych dzieci w kindergarten bo tam będzie zbyt dużo dzieci i zbyt mała ilość czasu dla opiekuna by poświęcić chwilę na konkretne dziecko.
+Dlatego lepszym rozwiązaniem jest tagesmutter 
+i to taka, która bierze na cały dzień, bo może wtedy wziąć małą grupę.
+
+
+![rodzina](rodzina.png)

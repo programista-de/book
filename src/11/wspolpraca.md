@@ -1,5 +1,9 @@
 # Współpraca
 
+Książka to zbyt mało, ale to dobry krok w kierunku efektywniejszego funkcjonowanie w kulturze zachodniej Europy.
+
+
+
 
 
 ## Oferta

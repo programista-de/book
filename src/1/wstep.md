@@ -2,6 +2,10 @@
 
 Co nowego możemy dowiedzieć się o naszych zachodnich sąsiadach poza tym co wiemy z mediów i historii w szkołach?
 
+To prawda, że już wiele książek napisano, ale ta jest jedyna w kontekście aktualnych zmian
+i ewentualnego wyjazdu w roku 2020.
+Przytoczone wywiady i dane, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.
+
 Autor zachęca do wyruszenia w podróż po jego ostatnich 7 lat życia i razem z nim przeżycia jeszcze raz tego
 co nie tylko jest nadal aktualne, ale co sprawia, że tak ciekawe mogą być relacje z krajem, który tak bardzo potrzebuje obcokrajowców do budowania największej europejskiej gospodarki.
 
@@ -15,28 +19,29 @@ Czy warto zdecydować się na zmianę wszystkiego?
 Mam nadzieję, że te wątpliwości zostaną ostatecznie rozwiane w oparciu o informacje zawarte w tej książce.
 
 
-## Cel napisania:
+## Czym jest ta książka:
 Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym czy się zostaje na dłużej w danym kraju.
 Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
-## Kontekst 
-To prawda, że już wiele książek napisano, ale ta jest jedyna w kontekście aktualnych zmian
-i ewentualnego wyjazdu w roku 2020.
-Przytoczone wywiady i statystyki, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.
-
+### Kontekst
 treść książki osadzona jest w określonym ograniczonym kontekście:
 + branża IT
 + rynek pracy w niemczech
 + przeprowadzka lub/i przekwalifikowanie się
 + ograniczenia temu towarzyszące 
  
+ 
 
-## doświadczenia, historie
+### doświadczenia, historie
 
 zebrane doświadczenia kilku ludzi i podsumowanie wniosków z tego wynikających
 język przystęny, prowadzący do wyjaśnienia kilku stereotypów dotykająccyh obu stron (rzeki) Odry.
+
+## Czym nie jest ta książka
+Książka to miks wiedzy, zebranej z kilkudziesięciu książek, jak sam autor stwierdza, że nie wszystko musi się “kompilować” to znaczy, że część wiedzy to dość mocno wyrwane z kontekstu wnioski, które przy wgłębieniu się w temat mogę się okazać trochę naciągane. 
+
 
 
 ## o kulturze pracy

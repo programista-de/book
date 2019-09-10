@@ -1,3 +1,0 @@
-# zdrowie
-
-nawiązanie do pogody
