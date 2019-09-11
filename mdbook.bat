@@ -3,6 +3,4 @@ cargo install mdbook
 :: folder /src - here are *.md files
 mdbook init
 :: folder /book - builded version, html
-mdbook build
-
-
+mdbook build --force

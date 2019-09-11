@@ -40,4 +40,4 @@ Dlatego lepszym rozwiązaniem jest tagesmutter
 i to taka, która bierze na cały dzień, bo może wtedy wziąć małą grupę.
 
 
-![rodzina](rodzina.png)
+![rodzina](img/rodzina.png)

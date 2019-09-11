@@ -4,7 +4,7 @@
         "**/.idea": true
     },
     "MdMerge.FolderPaths": [ "/1","/2","/3","/4","/5" ],
-    "markdown-pdf.convertOnSave": true,
+    "markdown-pdf.convertOnSave": false,
     "markdown-pdf.type": [        
         "html"
     ],

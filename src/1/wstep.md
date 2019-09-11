@@ -1,13 +1,31 @@
-# O czym jest ta książka 
+# Wstęp
+
+Kiedyś, dawno, dawno temu, na dzikim zachodzie...
+
+Po odkryciu złota w Kalifornii w połowie XIX wieku wielu Europejczyków wyruszyło na "Dziki Zachód" w poszukiwaniu wolności, przygód, sławy i oczywiście złota.
+
+W latach 1848–1849 liczba osób ogarniętych tzw. gorączką złota wzrosła z 6000 do ponad 100 000. 
+Nie wszyscy uczestnicy tej romantycznej przygody zdobywali wielkie majątki i dożyli sędziwych dni w szczęściu i bogactwie, niekiedy na próżno ciężko pracowali w strasznych warunkach lub ginęli z rąk bandytów.
+  
+
+Obecnym (bliższym, ale nadal) "Dzikim Zachodem" dla Polaków są Niemcy, gdzie miliony Polaków w ostatniej dekadzie, wyruszło (nie za złote lecz) za chlebem i w poszukiwaniu lepszego życia.
+
+W książce została opisana historia kilku z nich...
+
+
+## O czym jest ta książka 
 
 Co nowego możemy dowiedzieć się o naszych zachodnich sąsiadach poza tym co wiemy z mediów i historii w szkołach?
+Jak to wygląda w XXI wieku z perspektywy kilku ostatnich lat?
 
-To prawda, że już wiele książek napisano, ale ta jest jedyna w kontekście aktualnych zmian
-i ewentualnego wyjazdu w roku 2020.
+Jedyna książka w całej europie, napisana po polsku dla Polaków o Polakach w Niemczech W kontekście aktualnych zmian i ewentualnego wyjazdu w roku 2020.
 Przytoczone wywiady i dane, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.
 
-Autor zachęca do wyruszenia w podróż po jego ostatnich 7 lat życia i razem z nim przeżycia jeszcze raz tego
-co nie tylko jest nadal aktualne, ale co sprawia, że tak ciekawe mogą być relacje z krajem, który tak bardzo potrzebuje obcokrajowców do budowania największej europejskiej gospodarki.
+Autor zachęca do wyruszenia w podróż po jego ostatnich 7 latach życia nie tylko na zachodzie ale również południu Niemiec na Bawarii.
+
+Jaki jest na prawdę kraj i ludzie tam zamieszkujący?
+
+Co sprawia, że ten Niemcy ciągle potrzebują obcokrajowców do budowania największej europejskiej gospodarki?
 
 Czy warto zdecydować się na zmianę wszystkiego?
 
@@ -19,20 +37,29 @@ Czy warto zdecydować się na zmianę wszystkiego?
 Mam nadzieję, że te wątpliwości zostaną ostatecznie rozwiane w oparciu o informacje zawarte w tej książce.
 
 
-## Czym jest ta książka:
-Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, podatkowe, gdyż to one decydują o tym czy się zostaje na dłużej w danym kraju.
-Istotne są też obecne warunki życia, komfort.
-Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
-i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
+## Czym jest ta książka
 
-### Kontekst
-treść książki osadzona jest w określonym ograniczonym kontekście:
+Treść książki osadzona jest w określonym ograniczonym kontekście:
 + branża IT
 + rynek pracy w niemczech
 + przeprowadzka lub/i przekwalifikowanie się
 + ograniczenia temu towarzyszące 
+
+### Cel
+
+Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, prawne, gdyż to one decydują o tym czy się zostaje na dłużej w danym kraju.
+Istotne są też obecne warunki życia, komfort.
+Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
+i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
  
- 
+### o kulturze pracy
+
+Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
+ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
+Polaka jadącego do Niemiec, ale też Polaka, który się tam wychował i Niemców, którzy jedynie współpracowali z Polakami
+Nauka programowania to tylko techniczna strona, jest jeszcze wiele elementw majacych wplyw na kariere.
+W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludzi ktorzy przesli te droge i moga z dystansem opowiedziece o swoich doswiadczeniach dzielac sie unikalnym doswiadczeniem i wedza.
+
 
 ### doświadczenia, historie
 
@@ -41,16 +68,6 @@ język przystęny, prowadzący do wyjaśnienia kilku stereotypów dotykająccyh 
 
 ## Czym nie jest ta książka
 Książka to miks wiedzy, zebranej z kilkudziesięciu książek, jak sam autor stwierdza, że nie wszystko musi się “kompilować” to znaczy, że część wiedzy to dość mocno wyrwane z kontekstu wnioski, które przy wgłębieniu się w temat mogę się okazać trochę naciągane. 
-
-
-
-## o kulturze pracy
-
-Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
-ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
-Polaka jadącego do Niemiec, ale też Polaka, który się tam wychował i Niemców, którzy jedynie współpracowali z Polakami
-Nauka programowania to tylko techniczna strona, jest jeszcze wiele elementw majacych wplyw na kariere.
-W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludzi ktorzy przesli te droge i moga z dystansem opowiedziece o swoich doswiadczeniach dzielac sie unikalnym doswiadczeniem i wedza.
   
 
 ## O czym nie jest
@@ -75,14 +92,17 @@ np webdev do programisty desktop, itp
 
 
 ## dla kogo nie jest
-... chętnie się dowiemy, czekamy na recenzje tych, którym nie podoba się ta książka :)
+dla tych, którzy chcieliby by ta książka zmieniła ich życie...
 
-dla szukających motywacji do wyjazdu, nie chcelibyśmy kogoś przekonywać, bo ja od 6 lat nikogo nie przekonałem
-mimo, że wypowiadałem się raczej pozytywnie.
-ja sam bym siebie nie przekonał do pozostania w Polsce na stałe, więc nie chciałbym nikogo przenywać do wyjazdu, zmiana przekonań
-nie jest celem tej książki.
+Drogi czytelniku, jeśli szukasz motywacji do wyjazdu to nie znajdziesz jej w tej książce.
+Od 7 lat nie przekonałem ani jednej osoby do wyjazdu mimo, że wypowiadałem się raczej pozytywnie.
+Z drugiej strony, prawda jest taka, że ja sam bym siebie nie przekonał do pozostania w Polsce.
+Nie chciałbym nikogo przekonywać do zmiany przekonań.
+Tak znaczące zmiany w czyimś życiu są raczej:
++ rezultatem a nie przyczyną
++ determinacją a nie motywacją
++ silnym wewnętrznym przekonaniem a nie emocją wynikającej z namowy, czy przeczytania wiadomości, artykułu czy książki.
  
-
 ## o kim jest ta książka
 o ludziach, którzy nie bali się zaryzykować i stale podnoszą swoje kwalifikacje, za które otrzymują dobre wynagrodzenie
 Którzy zastanawiają się co mogliby zrobić lepiej.
@@ -99,6 +119,8 @@ Książka opisuje co to jest IT, jakie perspektywy
  
 
 ## Rozdziały
+
+
 
 Zakres tematyczny jest na zmianę w każdym kolejnym rozdziale o technicznych kwestiach związanych z zawodem i kwestiach społeczno, organizacyjnych, prawnych.
 

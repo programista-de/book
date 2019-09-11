@@ -1,5 +1,21 @@
+# Dobre rady
+Jeśli przekonałeś się w praktyce jak mało realne są szybkie sposoby na cokolwiek
+pasywne dochody i inne utopie, a poznałeś 
+jak istotne jest czasem zwyczajny rozsądek 
 
-### Podsumowanie
++ pasywne dochody
++ szybkie metody na realizację czegokolwiek
+
+Ksiązka nie wystarczy i jest wstepem do lepszego zrozumienia zachodzniego sposobu działania i myślenia
+
+## KOntakt
+Miejse na komentarze i wyjaśnienia jest na stronie forum czytelników tej książki:
+
+forum.programista.de
+
+ 
+ 
+# Podsumowanie
 
 Z jednej strony mógłbym mówić o pasmie sukcesów a z drugiej o paśmie porażek, gdyż to nieudane plany i związane z tym problemy kazały mi iść w kierunku w którym nadal zmierzam.
 Teraz to nie jest walka o samorealizację, jak praca i rodzina, ale o wolność dla dzieci do edukacji domowej czy szczepień.
