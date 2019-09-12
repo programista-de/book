@@ -27,3 +27,4 @@ mogą być właśnie z tego powodu niedostępne. Zjawisko to może występować 
 Zjawisko to może prowadzić do nieuzasadnionego optymizmu przez niedoszacowanie ryzyka porażki. Może też spowodować bezzasadne dopatrywanie się u osób i przedmiotów, które odniosły jakiś sukces, wyjątkowych cech, zamiast po prostu przypadkowego szczęścia[1]. 
 
 
+

@@ -49,3 +49,28 @@ Rechtsschutzversicherung
 + das Recht = prawo
 + der Schutz = ochrona
 + die Versicherung = ubezpieczenie
+
+
+
+## Jakie to jest uczcucie, zaczynać od zera?
+
+Jeśli to Twoja pierwsza wyprawa
+nie miałeś wcześniej takich przeprowadzek
+
+jesteś sam, musisz zaufać ludziom z którymi współpracujesz przez agencje i w pracy lub bezpośrednio.
+
+Nie wiesz wielu rzeczy i wnie wiesz nawet jak się o coś zapytać
+
+
+Jak to jest być w nowym miejscu z niską znajomośćią jezyka?
+
+To może potrwać długo, przez pierwsze miesiące
+
+Samo złapanie akcentu nawet znając gramatykę niemiecką może być bolesne w praktyce,
+gdy wydaje się Tobie, że mówisz dobrze, jesteś przekonany, że nie popełniłeś żadnego błędu a 
+ludzie są "głupi" bo nie rozumieją o co Tobie chodzi.
+
+
+
+ 
+

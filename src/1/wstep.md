@@ -8,24 +8,39 @@ W latach 1848–1849 liczba osób ogarniętych tzw. gorączką złota wzrosła z
 Nie wszyscy uczestnicy tej romantycznej przygody zdobywali wielkie majątki i dożyli sędziwych dni w szczęściu i bogactwie, niekiedy na próżno ciężko pracowali w strasznych warunkach lub ginęli z rąk bandytów.
   
 
-Obecnym (bliższym, ale nadal) "Dzikim Zachodem" dla Polaków są Niemcy, gdzie miliony Polaków w ostatniej dekadzie, wyruszło (nie za złote lecz) za chlebem i w poszukiwaniu lepszego życia.
+Obecnym "Dzikim" zachodem dla Polaków są Niemcy, gdzie miliony Polaków w ostatniej dekadzie, wyruszło (nie za złote lecz) za chlebem i w poszukiwaniu lepszego życia.
 
 W książce została opisana historia kilku z nich...
 
 
-## O czym jest ta książka 
+## o książce
 
-Co nowego możemy dowiedzieć się o naszych zachodnich sąsiadach poza tym co wiemy z mediów i historii w szkołach?
-Jak to wygląda w XXI wieku z perspektywy kilku ostatnich lat?
+Książka napisana po polsku dla Polaków o Polakach w Niemczech w kontekście aktualnych zmian i ewentualnego wyjazdu w roku 2020.
+Autor wyrusza w podróż po jego ostatnich 7 latach życia nie tylko na zachodzie ale również południu Niemiec na Bawarii.
+Przytoczone wywiady i dane, pozwalają na zapoznanie się z aktualną sytuacją po drugiej strony Odry.
 
-Jedyna książka w całej europie, napisana po polsku dla Polaków o Polakach w Niemczech W kontekście aktualnych zmian i ewentualnego wyjazdu w roku 2020.
-Przytoczone wywiady i dane, pozwalają na podjęcie decyzji w oparciu o rzetelne i aktualne dane.
+## Kontekst, ramy
 
-Autor zachęca do wyruszenia w podróż po jego ostatnich 7 latach życia nie tylko na zachodzie ale również południu Niemiec na Bawarii.
+Treść książki osadzona jest w określonym ograniczonym kontekście:
+
++ branża IT
++ rynek pracy w niemczech
++ przeprowadzka lub/i przekwalifikowanie się
++ ograniczenia temu towarzyszące 
+
+## Pytania i odpowiedzi
 
 Jaki jest na prawdę kraj i ludzie tam zamieszkujący?
 
 Co sprawia, że ten Niemcy ciągle potrzebują obcokrajowców do budowania największej europejskiej gospodarki?
+
+Co nowego możemy dowiedzieć się o naszych zachodnich sąsiadach?
+
+często dowiadujemy się jak z mediów, historii w szkołach i opowieści znajomych?
+
+Ale dlaczego tak jest, już trudniej odpowiedzieć...
+
+Jak to wygląda w XXI wieku z perspektywy kilku ostatnich lat?
 
 Czy warto zdecydować się na zmianę wszystkiego?
 
@@ -37,21 +52,30 @@ Czy warto zdecydować się na zmianę wszystkiego?
 Mam nadzieję, że te wątpliwości zostaną ostatecznie rozwiane w oparciu o informacje zawarte w tej książce.
 
 
-## Czym jest ta książka
-
-Treść książki osadzona jest w określonym ograniczonym kontekście:
-+ branża IT
-+ rynek pracy w niemczech
-+ przeprowadzka lub/i przekwalifikowanie się
-+ ograniczenia temu towarzyszące 
-
 ### Cel
 
-Celem książki nie było wchodzenie w techniczne zagadnienia, a bardziej kulturowe, społeczne, prawne, gdyż to one decydują o tym czy się zostaje na dłużej w danym kraju.
+Celem książki nie było wchodzenie w techniczne zagadnienia, a kulturowe, społeczne, prawne, gdyż to one decydują o tym 
+czy się zostaje na dłużej w danym kraju.
+
 Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
- 
+
+## Determinacja
+
+Drogi czytelniku, jeśli szukasz motywacji do wyjazdu to nie znajdziesz jej w tej książce.
+Od 7 lat nie przekonałem ani jednej osoby do wyjazdu mimo, że wypowiadałem się raczej pozytywnie.
+Z drugiej strony, prawda jest taka, że ja sam bym siebie nie przekonał do pozostania w Polsce.
+Nie chciałbym nikogo przekonywać do zmiany przekonań.
+
+Tak znaczące zmiany w czyimś życiu są raczej:
+
++ rezultatem a nie przyczyną
++ determinacją a nie motywacją
++ silnym wewnętrznym przekonaniem a nie emocją wynikającej z namowy, czy przeczytania wiadomości, artykułu czy książki.
+
+
+
 ### o kulturze pracy
 
 Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
@@ -78,8 +102,7 @@ inaczej niż w przypadku artykułów, czy opinii, które zawierają wyrywkowe sp
 
 
 
-
-## dla kogo jest
+## Dla kogo jest
 
 w pierwszej kolejności dla programistów zainteresowanych emigracją do krajów niemieckojęzycznych.
 W drugiej dla Polaków, którzy chcą się upewnić, że nie chcą emigrować, chcą świadomie podjąć decyzję.
@@ -91,77 +114,23 @@ Dla tych, którzy są programistami, ale myślą o przekwalifikowaniu
 np webdev do programisty desktop, itp
 
 
-## dla kogo nie jest
-dla tych, którzy chcieliby by ta książka zmieniła ich życie...
+## Dla kogo nie jest
 
-Drogi czytelniku, jeśli szukasz motywacji do wyjazdu to nie znajdziesz jej w tej książce.
-Od 7 lat nie przekonałem ani jednej osoby do wyjazdu mimo, że wypowiadałem się raczej pozytywnie.
-Z drugiej strony, prawda jest taka, że ja sam bym siebie nie przekonał do pozostania w Polsce.
-Nie chciałbym nikogo przekonywać do zmiany przekonań.
-Tak znaczące zmiany w czyimś życiu są raczej:
-+ rezultatem a nie przyczyną
-+ determinacją a nie motywacją
-+ silnym wewnętrznym przekonaniem a nie emocją wynikającej z namowy, czy przeczytania wiadomości, artykułu czy książki.
- 
-## o kim jest ta książka
+dla tych, którzy:
+
++ wracają z zachodu na wschód.
++ chcieliby by ta książka zmieniła ich życie...
+
+
+## O kim jest
 o ludziach, którzy nie bali się zaryzykować i stale podnoszą swoje kwalifikacje, za które otrzymują dobre wynagrodzenie
 Którzy zastanawiają się co mogliby zrobić lepiej.
 
 
-## o kim nie jest
+## O kim nie jest
 
 o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów
 
-
-## Streszczenie
-
-Książka opisuje co to jest IT, jakie perspektywy
- 
-
-## Rozdziały
-
-
-
-Zakres tematyczny jest na zmianę w każdym kolejnym rozdziale o technicznych kwestiach związanych z zawodem i kwestiach społeczno, organizacyjnych, prawnych.
-
-+ zawód programista
-+ kompetencje
-+ kariera
-+ narzędzia
-
-
-Ksiazka zostala podzielona na czesci w zaleznosci od tego na jakim etapie jestes i dokad zmierzasz.
-
-Mim celem jest stworzenie mapy mozliwosci z drogowskazami dla ludzi ktorzy 
-chca rozeznac czego tak na prawde szukaja i zadaja sobie pytania jak tam dotrzec.
-
-1. Napisales juz kilka programow i chcialbys rozwijac te zdolnosci
-ale nie wiesz czy masz szanse na rynku niemieckim, bo znasz angielski
-
-
-2. Znasz jezyk niemiecki, kulture ale nie znasz sie na programowaniu:
-- moje narzedzia + nodejs  + python + firma szukajaca junirorow
-
-glownie webdevelopment i web app, bo na to jest zapotrzebowanie,
-uzycie gotowych narzedzi  + wizualna apicra i apiunit
-od razu wejscie na pole wysokiej produktywnosci
-
-
-3. Znasz sie na programowaniu, bo robisz to od wielu lat, szukasz nowych wyzwań, 
- znasz angielski, być może niemiecki i kulturę niemiecką ale chcialbyś poznać jak najefektywniej bez marnowania energii i czasu na niepotrzebne dziaania dotrzec do pracodawcy niemieckiego i tam dalej rozwijac swoje umiejetnosci.
-
-
-4. jestes w niemczech, czyli znasz niemiecki, angielski, polski, ... i myslisz o zmianie zawodu ale obawiasz sie ze nie jest to proste i chcialbys sie upewnic ze to wlasciwa decyzja i okreslic jak to zrobic najefektywniej i bezpolesnie dla zycia prywatnego.
-
-5. Potrzebujesz wiecej niz jest zawarte w tej ksiazce a nie chcesz czekac do nastepnego wydania:
-kontakt ze mna w celu otrzymania  wskazowek pozwalajacych od razu na realizacje, usluga platna ale spersonalizowana z gwarancja zwrotu w razie niezadowolenia w ciagu 2 tygodni.
-
-support dla niecierpliwych na dluzej jesli jest taka potrzeba
-
-
-6. W zasadzie nie musisz czytac tej ksiazki bo nie masz zadnych pytan,
-zapraszamy do napisania kolejnej czesci, wzbogaconej o wiecej detali i aktualnych zagadnien z branzy.
-Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz to zapraszamy
 
 
 > [autor](/book/1/autor.md)

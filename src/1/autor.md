@@ -5,8 +5,8 @@ Umysł ścisły z otwartą głową.
 w przeszłości:
 
 z wykształcenia:
-+ elektryk, energoelektryk, inż. systemów sterowania 
 
++ elektryk, energoelektryk, inż. systemów sterowania 
 + elektryk
 + elektronik
 + automatyk
@@ -17,12 +17,28 @@ z wykształcenia:
 
 ### Obecnie:
 
-jestem pisarzem algorytmów, czyli po polsku programistą a po niemiecku: Softwareentwickler
+
+## Kim jestem z zawodu
+jestem pisarzem algorytmów, czyli:
+
++ po polsku: programista
++ po niemiecku: Softwareentwickler
++ po angieslku: software developer
+
+## Kim jestem z wykształcenia
+Zawód Eletromonter
+Technik elektryk o specjalności elektroenergetyka
+Inżynier o specjalności informatyka i systemy sterowania na kieruneku: Elektrotechnika
+
+
+## Czym się zajmuję na codzień
+
 + tworzę oprogramowanie opensource
-    + głównie narzędzia do pracy, ułatwiając sobie i kolegom pracę
++ głównie narzędzia do pracy, ułatwiając sobie i kolegom pracę
 
 
-W momencie pisania książki pracuję na etacie rodzica.
+W momencie pisania książki pracuję na etacie *rodzica. 
+*Niestety nie mam żadnego certyfikatu
 tutaj więcej szczegółów: [rodzina.md](/book/4/rodzina.md)
 
 Czas w którym nie pracuję na etacie programisty okazuje się owocnym czasem
@@ -51,18 +67,21 @@ Udało się, mam to, pod koniec stycznia 2013 jestem na Bawarii (z powrotem).
 W małej firmie rozpoczynam swoją nową drogę o której szerzej piszę w tej książce.
 
 ### Rok 2014
+
 + nauka języka java
 + wyjazd do NRW
 + ukończenie studiów inżynierskich
 
 
 ### Rok 2015
+
 + praca w korporacji jako programista, oficjalnie (consultant)
 + ponad 20 tysięcy pracowników, telefon, laptop, wyjazdy
 + nauka nodejs
 + kontakt do nowej firmy i po namowowie chętnie przyłączyłem się do zespołu Mehrkanal w 2016 roku.
 
 ### Rok 2016
+
 + kolejne pół roku już jako pracownik, mogłoby być dłużej, gdyby nie życie prywatne, kolejne marzenia zrealizowane, dalej już tylko lepiej, kto by się spodziewał?
 Moja historia pokazuje, że w Niemczech można zaplanować karierę, ale rónież zrealizować wiele planów prywatnych a nawet zdrowotnych: 
 [zdrowie.md](/book/3/zdrowie.md)
@@ -81,8 +100,6 @@ Inaczej stajemy się maszyną bez refleksji, która w koło popełnia te same b�
 -------
 
 
-
-
 ## książka
 
 Książki nie pisze się w krótkim czasie, bo abstrahując od samego procesu pisania,
@@ -91,6 +108,43 @@ aby z perspektywy ocenić  i móc stworzyć coś więcej niż tylko zlepek liter
 
 Daję sobie czas na przemyślenia i konsultacje
 
+
+## Dlaczego jeszcze sie nie poznaliśmy?
+Nie mogę jak wielu celebrytów cieszyć się chwalebnymi komentarzami i dzielnie oddzielać tych niepokornych inaczej myślących z własnym zdaniem, epitetami: zakompleksiony, hejter, itp
+
+
+## Media Społecznościowe
+Dlaczego nie ma mnie na social media?
+
+- To jest temat na inną książkę, być może uda mi się znaleźć psychologów i psychiatrów, aby uchwycić obecne ludzkie problemy w dobie rozwiniętej technologii, by nazwać je i spróbować znaleźć rozwiązanie.
+
+Odpowiadając na pytanie: nie ma mnie w social media, gdyż szkoda mi na to czasu.
+Nie mam powodu rozmawiać z obcymi ludźmi w internecie a tym bardziej z tymi których znam, bo rozmawiamy przez telefon, komunikator lub osobiście.
+
+### Prywatnie
+Mam kilka cech osobowości, które sprawiają, że dobrze czuję sie w zawodzie programisty, ale też takie, które nie czynią ze mnie osoby znanej publicznie z szerokim uśmiechem. Jestem bardziej introwertyczny i potrzebuję spokoju, oszczędzam energię dla rodziny, nie lubię na codzień tłumu.
+
+Może dlatego, że mi się prywatnie i zawodowo układa, więc nie muszę niczego sobie "odbijać" w social mediach.
+Czuję spełnienie, rodzina, żona, dzieci, praca, etc, rozmawiam na co dzień w 3 językach, nie muszę jeździć na wakacje, bo w domu z rodziną jest mi dobrze.
+Rozmawiam z żoną w różnych językach, ale rozumiemy się na poziomie duszy, więc to nie jest problem sposobu komunikacji a chęci zrozumienia a przez to odczuwania szczęścia.
+
+### Dwa moje przemyślenia na ten temat:
+
+Szczęście jest w nas a nie na zewnątrz.
+
+Szczęścia nie trzeba szukać, lecz odnaleźć.
+
+## Zachodni Świat
+Mnie boli, że świat jest jaki widzimy, nie zamierzam wchodzić w te schematy, które u innych się sprawdziły,
+nie piszę tej książki przecież by radzić innym jak mają żyć, bo mi się udało to im się uda?
+
+Są tacy, którym się lepiej powodzi niż mnie i to od pierwszych miesięcy, kiedy tu przyjechali, są też tacy, o których nie wiemy, bo oni nie napiszą tego, bo o czym pisać?
+
+W każdej sytuacji warto próbować, zwłaszcza wtedy, gdy nie jest lekko.
+
+
+
+----
 kulisy powstania i motywacje przy pisaniu książki:
 
 > [dlaczego](dlaczego.md)

@@ -1,7 +1,0 @@
-Hardware
-
-Software
-
-
-Wetware
-

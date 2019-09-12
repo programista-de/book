@@ -4,7 +4,7 @@ gdzie ?
 
 jaki papier ? 
 
-jaka okÅ‚adka ?
+jaka ok³aadka ?
 
 
 terminy, koszty ?
