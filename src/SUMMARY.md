@@ -11,10 +11,10 @@
     + [bohaterowie](1/bohaterowie.md)
 
 + [2](2/2.md)    
-    + [Dla kogo jest ta książka?](1/ksiazka.md)
-    + [jezyk-niemiecki](1/jezyk-niemiecki.md)
-    + [wyroznik](1/wyroznik.md)
-    + [streszczenie](1/streszczenie.md)
+    + [Dla kogo jest ta książka?](2/ksiazka.md)
+    + [jezyk-niemiecki](2/jezyk-niemiecki.md)
+    + [wyroznik](2/wyroznik.md)
+    + [streszczenie](2/streszczenie.md)
     
     
     
@@ -92,14 +92,10 @@
     + [pytania](15/pytania.md)
     + [interview](15/interview.md) 
     + [zarobki](15/zarobki.md)
-    + [zwolnienie](15/zwolnienie.md)
     + [paraca zdalna](15/praca-zdalna.md)
     + [urlop](15/urlop.md)
     + [wyjazdy](15/wyjazdy.md)
     + [godziny-pracy](15/godziny-pracy.md)
-    + [spoznienia](15/spoznienia.md)
-    + [kultura-firmy](15/kultura-firmy.md)
-    + [polityka-firmy](15/polityka-firmy.md)
     + [hardware](15/hardware.md)
     + [software](15/software.md)
     + [benefity](15/benefity.md)
@@ -110,7 +106,6 @@
     + [paraca zdalna](16/praca-zdalna.md)
     + [urlop](16/urlop.md)
     + [wydarzenia](16/wydarzenia.md)
-    + [wyjazdy](16/wyjazdy.md)
     + [spoznienia](16/spoznienia.md)
     + [spotkania](16/spotkania.md)
     + [kultura-firmy](16/kultura-firmy.md)
