@@ -7,6 +7,21 @@ Książka jest analizują obecnej sytuacji na rynku pracy w Polsce i Niemczech.
 
 Obecnie realizuję projekty dla firmy, która prowadzi wynajem samochodów, Buchbinder.de
 W wolnych chwilach programuję opensource.
+
+
+Forum, tej książki
+    
+    forum.programista.de
+
+Oferty pracy w niemczech
+    
+    praca.prgrmiasta.de
+    
+    
+    
+
+## Aktualne projekty
+
 Prowadzę Bloga w róznych jezykach:
 
 + tom.sapletta.pl

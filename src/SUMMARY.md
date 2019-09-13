@@ -109,15 +109,18 @@
     + [spoznienia](16/spoznienia.md)
     + [spotkania](16/spotkania.md)
     + [kultura-firmy](16/kultura-firmy.md)
-    + [polityka-firmy](16/polityka-firmy.md)
+    + [polityka-firmy](16/polityka-firmy.md)    
+    + [podwyżka](16/podwyzka.md)
+
      
      
 ## 17     
 + [17](17/17.md)
-    + [oczekiwania](17/oczekiwania.md)
-    + [awans](17/awans.md)
-    + [wypalenie-zawodowe](17/wypalenie-zawodowe.md)
-    + [zwolnienie](17/zwolnienie.md)
+    + [Oczekiwania](17/oczekiwania.md)
+    + [Awans](17/awans.md)
+    + [Wypalenie zawodowe](17/wypalenie-zawodowe.md)
+    + [Zwolnienie](17/zwolnienie.md)
+    + [Urząd pracy](17/urzad-pracy.md)
     
     
 ## 18
