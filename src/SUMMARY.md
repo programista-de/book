@@ -14,8 +14,8 @@
     + [Dla kogo jest ta książka?](2/ksiazka.md)
     + [jezyk-niemiecki](2/jezyk-niemiecki.md)
     + [wyroznik](2/wyroznik.md)
+    + [ramy](2/ramy.md)
     + [streszczenie](2/streszczenie.md)
-    
     
     
 + [4](4/4.md)    
@@ -53,7 +53,7 @@
     + [lider](11/lider.md)
     + [product-owner](11/product-owner.md)  
     + [architekt](11/architekt.md)
-    + [paradygmaty](2/paradygmaty.md)
+    + [paradygmaty](11/paradygmaty.md)
 
 
 ## 12

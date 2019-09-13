@@ -1,5 +1,7 @@
 # Książka
 
+## Temat przewodni
+
 Książka napisana po polsku dla Polaków o Polakach w Niemczech w kontekście aktualnych zmian i ewentualnego wyjazdu w roku 2020.
 Autor wyrusza w podróż po jego ostatnich 7 latach życia nie tylko na zachodzie ale również południu Niemiec na Bawarii.
 Przytoczone wywiady i dane, pozwalają na zapoznanie się z aktualną sytuacją po drugiej strony Odry.
@@ -14,6 +16,7 @@ czy się zostaje na dłużej w danym kraju.
 Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
+
 
 ## Determinacja
 
@@ -31,6 +34,7 @@ Tak znaczące zmiany w czyimś życiu są raczej:
 
 
 ## Czym nie jest ta książka
+
 Książka to miks wiedzy, zebranej z kilkudziesięciu książek, jak sam autor stwierdza, że nie wszystko musi się “kompilować” to znaczy, że część wiedzy to dość mocno wyrwane z kontekstu wnioski, które przy wgłębieniu się w temat mogę się okazać trochę naciągane. 
   
 

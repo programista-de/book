@@ -1,3 +1,4 @@
+# Paradygmaty
 
 Im więcej wiem, tym bardziej przekonuję się że wiem niewiele i tym mniej ufam prawdom zawartym w księgach. 
 Jak zaczynałem programować to jechano po programowaniu strukturalnym, mówiono że OOP to jedyna słuszna droga, 

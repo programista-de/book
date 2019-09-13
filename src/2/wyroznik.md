@@ -18,6 +18,51 @@ o których warto zebrać kilka różnych opinii z różnych punktów widzenia.
 więc mogę ominąc te rzeczy tam omawiane i przytoczyć książki innych  autorów omawiające szerzej pewne sprawy
 z ostatnich lat. 
 
-## książka a życie
+
+## Programowanie a życie
 
 Są na tym świecie ludzie, którzy myślą że zostaną programistą po tym, jak przeczytają książkę o byciu programistą, jednak są też tacy, którzy wiedzą, że trzeba się uczyć, szukać informacji samodzielnie, być wybitnie cierpliwym i upartym...
+
+
+## Obecne podejście do pisania, po co pisać książki?
+
+
+## Moje pióro, czyli jak piszę?
+
+Niektórzy przyjmują dobrą strategię - pisać krótko.
+Inni rozwlekają treść na wątki, które mogą być zamknięte w kilku zdaniach a nie stronach.
+Jak poznać, kiedy jest za krótko, tzn niejasno, a kiedy za dużo?
+
+Można jeszcze inaczej ...
+
+
+### Moja strategia tworzenia
+
+Nie jestem zawodowym pisarzem, ale jestem zawodowym programistą, a więc przyjąłem standardy, którymi kieruję się na co dzień.
+
+Przy tworzeniu oprogramowania dzielę zadania na jak najmniejsze identyfikowalne części, które mają konkretny cel, najlepiej jeden.
+Nazywam to modularyzacja, jest to też zgodne ze wzorcem single responsibility.
+
+Każda część jest indywidualna, być może książce przez to brakuje polotu, ale to nie jest książka mająca wywyłać emocje i zachwyty.
+
+Najpierw tworzę specyfyikację:
+
++ co w ogóle chcę osiągnąć
++ potem nazywam każdą część
+
+Dlatego w każdym rozdziale jest pierwsza strona opisująca:
+
++ po co powstał ten rozdział
++ co ma zawierać ten rozdział
++ dodatkowe informacje
++ rysunek dający skrótowy obraz zawartości 
+
+W ten sposób łatwo ktoś kto czyta może udzielić mi rady, czy coś jest niepotrzeben, wówczas łatwiej uciąć,
+lub coś jest niełatwe, wtedy mogę po prostu napisać od nowa jakąś część.
+
+
+
+---
+Moje życzenie, jest takie, by tą książkę czytało się jak dobry programistyczny kod.
+Klarownie, bez zbędnych pętli.
+---
