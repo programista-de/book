@@ -1,5 +1,13 @@
 # Bohaterowie
 
+
+### doświadczenia, historie
+
+zebrane doświadczenia kilku ludzi i podsumowanie wniosków z tego wynikających
+język przystęny, prowadzący do wyjaśnienia kilku stereotypów dotykająccyh obu stron (rzeki) Odry.
+
+
+
 Bohaterami książki są:
 
 

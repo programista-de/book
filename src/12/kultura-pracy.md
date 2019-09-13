@@ -1,6 +1,17 @@
 # Kultura pracy
 
 
+
+### o kulturze pracy
+
+Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
+ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
+Polaka jadącego do Niemiec, ale też Polaka, który się tam wychował i Niemców, którzy jedynie współpracowali z Polakami
+Nauka programowania to tylko techniczna strona, jest jeszcze wiele elementw majacych wplyw na kariere.
+W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludzi ktorzy przesli te droge i moga z dystansem opowiedziece o swoich doswiadczeniach dzielac sie unikalnym doswiadczeniem i wedza.
+
+
+
 ## Jak wygląda dzień pracy
 
 ## Rozpoczęcie
