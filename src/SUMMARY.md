@@ -1,6 +1,7 @@
 # Spis treści
-+ [okładka](0/1.md)
-+ [wkładka](0/2.md)
++ [okładka](0/front.md)
++ [wkładka](0/second.md)
++ [tył](0/back.md)
 
 
 ## 1
@@ -8,8 +9,8 @@
     + [autor](1/autor.md)
     + [dlaczego](1/dlaczego.md)
     + [bohaterowie](1/bohaterowie.md)
-    + [wyroznik](2/wyroznik.md)
-    + [streszczenie](2/streszczenie.md)
+    + [wyroznik](1/wyroznik.md)
+    + [streszczenie](1/streszczenie.md)
     
 ## 2
 + [2](2/2.md)    
@@ -28,10 +29,10 @@
     + [Analiza](3/analiza.md)
     + [przeszłość](3/przeszlosc.md)
     + [przyszłość](3/przyszlosc.md)
-    + [jezyki-programowania](3/jezyki-programowania.md)  
+    + [jezyki-programowania](3/jezyki-programowania.md)
     + [open-source](3/open-source.md)
     + [rynek pracownika?](3/rynek-pracownika.md)
-    + [krach](1/krach.md)
+    + [krach](3/krach.md)
     
 
 
@@ -69,8 +70,8 @@
     + [Języki obce](6/jezyki-obce.md)
     + [koszty](6/koszty.md)
     + [rodzina](6/rodzina.md)
-    + [zdrowie](4/zdrowie.md)
-    + [pogoda](4/pogoda.md)   
+    + [zdrowie](6/zdrowie.md)
+    + [pogoda](6/pogoda.md)   
     + [abonament-tv](6/abonament-tv.md)
     + [bank](6/banki.md)
     + [internet](6/internet.md)

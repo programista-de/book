@@ -20,20 +20,25 @@ Darmowe oprogramowanie opensource:
 + https://github.com/tom-sapletta-com
 
 
-Obecnie pracuję nad:
+Obecnie pracuję nad projektem terminala online:
+
 + devopsterminal.com
 
-Zapraszam do skorzystania z narżędzia do tworzenia modularnych stron internetowych
+Zapraszam do skorzystania z narżędzia do tworzenia modularnych stron internetowych:
+
 + apiunit.com
 
-W celu zrobienia szybkiej wyceny projektu
+Narzędzie online do szybkiej wyceny projektu:
+
 + estymacja.pl 
 
 
-1.5 Give a Star
+## Oceń
 
 In this project on the first place I focus on its quality. Create good quality involves a lot of analysis, research and work. It takes a lot of time. If you like this project, learned something or you are using it in your applications, please give it a star ⭐️. This is the best motivation for me to continue this work. Thanks!
-1.6 Share it
+
+
+## Udostępnij
 
 As it is written above there are very few really good examples of this type of application. If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
