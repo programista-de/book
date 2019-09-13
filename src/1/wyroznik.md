@@ -18,5 +18,6 @@ o których warto zebrać kilka różnych opinii z różnych punktów widzenia.
 więc mogę ominąc te rzeczy tam omawiane i przytoczyć książki innych  autorów omawiające szerzej pewne sprawy
 z ostatnich lat. 
 
+## książka a życie
 
-
+Są na tym świecie ludzie, którzy myślą że zostaną programistą po tym, jak przeczytają książkę o byciu programistą, jednak są też tacy, którzy wiedzą, że trzeba się uczyć, szukać informacji samodzielnie, być wybitnie cierpliwym i upartym...

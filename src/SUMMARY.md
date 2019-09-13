@@ -5,177 +5,148 @@
 
 ## 1
 + [1](1/1.md)
-    + [wyroznik](1/wyroznik.md)
-    + [streszczenie](1/streszczenie.md)
-    + [wstęp](1/wstep.md)
     + [autor](1/autor.md)
     + [dlaczego](1/dlaczego.md)
     + [bohaterowie](1/bohaterowie.md)
-  
-## 2  
-+ [2](2/2.md)
-    + [Analiza](2/analiza.md)
-    + [przeszłość](2/przeszlosc.md)
-    + [przyszłość](2/przyszlosc.md)
-    + [jezyki-programowania](2/jezyki-programowania.md)  
-    + [open-source](2/open-source.md)
-    + [rynek pracownika?](2/rynek-pracownika.md)
-    + [krach](1/krach.md)
-    + [](2/.md)
-
-
-## 3 
+    + [wyroznik](2/wyroznik.md)
+    + [streszczenie](2/streszczenie.md)
+    
+## 2
++ [2](2/2.md)    
+    + [wstęp](2/wstep.md)
+    + [ameryka](2/ameryka.md)
+    + [jezyk-niemiecki](2/jezyk-niemiecki.md)
+    + [hybrydy](2/hybrydy.md)
+    + [krach](2/krach.md)
+    + [ksiazka](2/ksiazka.md)
+    + [sceptycy](2/sceptycy.md)
+    + [podroz](2/podroz.md)
+    
+        
+## 3  
 + [3](3/3.md)
-    + [Specjalizacje](3/specjalizacje.md)  
-    + [programista](3/programista.md)
-    + [administrator](3/administrator.md)
-    + [devops](3/devops.md)
-    + [manager](3/manager.md)
-    + [lider](3/lider.md)
-    + [product-owner](3/product-owner.md)  
-    + [architekt](3/architekt.md)
+    + [Analiza](3/analiza.md)
+    + [przeszłość](3/przeszlosc.md)
+    + [przyszłość](3/przyszlosc.md)
+    + [jezyki-programowania](3/jezyki-programowania.md)  
+    + [open-source](3/open-source.md)
+    + [rynek pracownika?](3/rynek-pracownika.md)
+    + [krach](1/krach.md)
+    
+
+
+## 4 
++ [4](4/4.md)
+    + [Specjalizacje](4/specjalizacje.md)  
+    + [antyprgramista](4/antyprgramista.md)
+    + [programista](4/programista.md)
+    + [administrator](4/administrator.md)
+    + [devops](4/devops.md)
+    + [manager](4/manager.md)
+    + [lider](4/lider.md)
+    + [product-owner](4/product-owner.md)  
+    + [architekt](4/architekt.md)
     + [paradygmaty](2/paradygmaty.md)
 
 
-## 4
-+ [4](4/4.md)
-    + [kultura](4/kultura.md)    
-    + [indywidualizm](4/indywidualizm.md)
-    + [kolektywizm](4/kolektywizm.md)        
-    + [języki](4/jezyki.md)
-    + [stereotypy](4/stereotypy.md)
-    + [kultura pracy](4/kultura-pracy.md)
-    + [wikipedia](4/wikipedia.md)
-    
-
 ## 5
 + [5](5/5.md)
-    + [wyprawa](5/wyprawa.md)
-    + [ignorancja](5/ignorancja.md)
-    + [motywacje](5/motywacje.md)  
-    + [kompetencje](5/kompetencje.md)
-    + [Języki obce](5/jezyki-obce.md)
-    + [koszty](5/koszty.md)
-    + [rodzina](5/rodzina.md)
-    + [zdrowie](4/zdrowie.md)
-    + [pogoda](4/pogoda.md)   
-    + [abonament-tv](5/abonament-tv.md)
-    + [bank](5/banki.md)
-    + [internet](5/internet.md)
+    + [kultura](5/kultura.md)    
+    + [indywidualizm](5/indywidualizm.md)
+    + [kolektywizm](5/kolektywizm.md)        
+    + [języki](5/jezyki.md)
+    + [stereotypy](5/stereotypy.md)
+    + [kultura pracy](5/kultura-pracy.md)
+    + [wikipedia](5/wikipedia.md)
     
 
-## 6     
+## 6
 + [6](6/6.md)
-    + [rynek](6/rynek.md)
-    + [kariera](6/kariera.md)
-    + [rekrutacja](6/rekrutacja.md)
-    + [pytania](6/pytania.md)
-    + [interview](6/interview.md) 
-    + [zarobki](6/zarobki.md)
-    + [zwolnienie](6/zwolnienie.md)
-     
-## 7
-+ [6](6/6.md)
-    + [praca](7/praca.md)
-    + [etat](7/etat.md)
-    + [formy](7/formy.md)
-    + [freelance](7/freelance.md)
-    + [klienci](7/klienci.md)
-    + [podatki](7/podatki.md)
-    + [prawo](7/prawo.md)
-    + [samozatrudnienie](7/samozatrudnienie.md)
+    + [wyprawa](6/wyprawa.md)
+    + [ignorancja](6/ignorancja.md)
+    + [motywacje](6/motywacje.md)  
+    + [kompetencje](6/kompetencje.md)
+    + [Języki obce](6/jezyki-obce.md)
+    + [koszty](6/koszty.md)
+    + [rodzina](6/rodzina.md)
+    + [zdrowie](4/zdrowie.md)
+    + [pogoda](4/pogoda.md)   
+    + [abonament-tv](6/abonament-tv.md)
+    + [bank](6/banki.md)
+    + [internet](6/internet.md)
+    
 
+## 7     
++ [7](7/7.md)
+    + [rynek](7/rynek.md)
+    + [kariera](7/kariera.md)
+    + [rekrutacja](7/rekrutacja.md)
+    + [pytania](7/pytania.md)
+    + [interview](7/interview.md) 
+    + [zarobki](7/zarobki.md)
+    + [zwolnienie](7/zwolnienie.md)
+    + [paraca zdalna](7/praca-zdalna.md)
+    + [wypalenie-zawodowe](7/wypalenie-zawodowe.md)
+    + [urlop](7/urlop.md)
+    + [wyjazdy](7/wyjazdy.md)
+    + [godziny-pracy](7/godziny-pracy.md)
+    + [spoznienia](7/spoznienia.md)
+    + [kultura-firmy](7/kultura-firmy.md)
+    + [polityka-firmy](7/polityka-firmy.md)
+    + [hardware](7/hardware.md)
+    + [software](7/software.md)
+    + [benefity](7/benefity.md)
+     
+     
 ## 8
 + [8](8/8.md)
-    + [Proza życia](8/proza.md)
-    + [emerytura](8/emerytura.md)
-    + [strategia](8/strategia.md)
-  
+    + [praca](8/praca.md)
+    + [etat](8/etat.md)
+    + [formy](8/formy.md)
+    + [freelance](8/freelance.md)
+    + [klienci](8/klienci.md)
+    + [podatki](8/podatki.md)
+    + [prawo](8/prawo.md)
+    + [samozatrudnienie](8/samozatrudnienie.md)
+
+
 ## 9
 + [9](9/9.md)
-    + [Recepty](9/recepty.md)  
-    + [Freelance](9/freelance.md)
-    + [Narzędzia](9/narzedzia.md)
-    + [Produktywność](9/produktywnosc.md)
-    + [Podatki](9/podatki.md)    
-    + [Rutyny](9/rutyny.md)
-    + [Stanowisko](9/stanowisko.md)
-
-## 10 
-+ [10](10/10.md)
-    + [Podsumowanie](10/podsumowanie.md)
-    + [Źródła](10/zrodla.md)
+    + [Proza życia](9/proza.md)
+    + [emerytura](9/emerytura.md)
+    + [strategia](9/strategia.md)
   
-## 11   
+## 10
++ [10](10/10.md)
+    + [Recepty](10/recepty.md)  
+    + [Freelance](10/freelance.md)
+    + [Narzędzia](10/narzedzia.md)
+    + [Produktywność](10/produktywnosc.md)
+    + [Podatki](10/podatki.md)    
+    + [Prawo](10/prawo.md)    
+    + [Rutyny](10/rutyny.md)
+    + [Stanowisko](10/stanowisko.md)
+
+## 11 
 + [11](11/11.md)
-    + [Dodatki](11/dodatki.md)
-    + [Tabelki](11/tabelki.md)
-    + [Statystyki](11/statystyki.md)    
-    + [mapa](11/mapa.md)
-    + [lektury](11/lektury.md)
-    + [kupony](11/kupony.md)   
-    + [Współpraca](11/wspolpraca.md)
+    + [Podsumowanie](11/podsumowanie.md)
+  
+  
 ## 12   
-+ [12](12/spis.md)
-
-
-5
-img
-5.md
-6
-6.md
-godziny.md
-hardware.md
-interview.md
-kariera.md
-kultura-firmy.md
-polityka-firmy.md
-pytania.md
-rekrutacja.md
-software.md
-spoznienia.md
-urlop.md
-wypalenie-zawodowe.md
-zarobki.md
-zdalnie.md
-zwolnienie.md
-7
-7.md
-etat.md
-formy.md
-freelance.md
-klienci.md
-podatki.md
-praca.md
-prawo.md
-samozatrudnienie.md
-8
-8.md
-emerytura.md
-proza.md
-strategia.md
-9
-9.md
-freelance.md
-narzedzia.md
-podatki.md
-prawo.md
-produktywnosc.md
-recepty.md
-rutyny.md
-stanowisko.md
-10
-10.md
-podsumowanie.md
-zrodla.md
-11
-1yearplan.md
-11.md
-dodatki.md
-kupony.md
-lektury.md
-mapa.md
-statystyki.md
-tabelki.md
-urls.md
-wspolpraca.md
++ [12](12/12.md)
+    + [Dodatki](12/dodatki.md)
+    + [Tabelki](12/tabelki.md)
+    + [Statystyki](12/statystyki.md)    
+    + [mapa](12/mapa.md)
+    + [lektury](12/lektury.md)
+    + [1yearplan](12/1yearplan.md)
+    + [kupony](12/kupony.md)   
+    + [Współpraca](12/wspolpraca.md)
+    + [urls](12/urls.md)
+    
+    
+## 13   
++ [13](13/13.md)
+    + [Spis Treści](13/spis.md)
+    + [Źródła](13/zrodla.md)
+    + [Ocena](13/ocena.md)

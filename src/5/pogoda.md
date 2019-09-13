@@ -1,2 +1,1 @@
-# Pogoda
-nawiązanie do zdrowia
+# pogoda
