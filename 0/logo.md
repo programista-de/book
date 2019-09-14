@@ -1,5 +1,0 @@
-powinien byc atrybut
-
-logo 
-
-
