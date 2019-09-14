@@ -17,6 +17,8 @@ Istotne są też obecne warunki życia, komfort.
 Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, istotne jest by przez pierwsze tygodnie mieć jasny obraz sytuacji
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
++ Budowanie świadomości na temat kultury Niemieckiej
+
 
 #### Determinacja
 

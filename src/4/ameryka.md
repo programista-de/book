@@ -1,9 +1,10 @@
-# Historia lubi się powtarzać
+# Historia lubi się powtarzać?
 
 https://forum.the-west.pl/index.php?threads/polacy-na-dzikim-zachodzie-d.20142/
 
 
-# Jamestown, 1608 rok
+#### Jamestown, 1608 rok
+**Pierwsza emigracja**
 
 1 października 1608 r. na pokładzie statku z zaopatrzeniem „Mary and Margaret” do Ameryki Północnej trafiło czterech pierwszych polskich osadników. Byli to dwaj polscy szlachcice: Michał Łowicki z Londynu i Jan Bogdan z Kołomyi, oraz rzemieślnicy - dmuchacz szkła Zbigniew Stefański z Włocławka i Jan (Jur) Mata, który miał zajmować się wyrobem mydła - wszyscy z żonami i dziećmi.
 
@@ -42,7 +43,7 @@ Tak więc to Polacy byli organizatorami pierwszego strajku w Ameryce Północnej
 
 #### Jamestown, 2007 
 
-**Gorzka obecna prawda**
+**Obecna sytuacja**
 
 Kiedy w roku 2007 Jamestown obchodziło 400-lecie założenia, żadna organizacja polonijna nie zadbała o upamiętnienie obecności Polaków wśród pierwszych osadników, w związku z tym Amerykanie polskiego pochodzenia nie zostali zaproszeni do udziału w obchodach.
 
