@@ -1,4 +1,4 @@
-## Emerytura programisty
+#### Emerytura programisty
 Patrząc w przyszłość warto rozważyć większą perspektywę
 wielu ludzi zmienia kierunek kariery idąc w inne specjalizacje, poza prgramowanie.
 ale co jeśli przyjmiemy, że całe życie chcemy poświęcić jednej profesji
@@ -14,7 +14,7 @@ Można wróżyć jakie będą zmiany kulturowe i polityczne i jak one wpłyną n
 To co wiemy już dziś, to że systemy emerytalne działają na takiej zasadzie jak piramida finansowa.
 GDzie Ci którzy korzystają z tej piramidy są finansowani z tych, którzy dopiero dołączyli.
 
-## ZUS, legalna piramida finansowa
+#### ZUS, legalna piramida finansowa
 Nie ma tam zmagazynowanych pieniędzy tylko jest zarządzanie pieniedzmi, które dopiero co zostały pozyskane.
 
 Podobnie jak system bankowy, system emerytalny zarządzany przez panstwo (ZUS) operuje

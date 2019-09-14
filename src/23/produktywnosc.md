@@ -9,14 +9,14 @@ pożyteczne dla innych
 to boli....
 
 
-## O co chodzi w produktywności?
+#### O co chodzi w produktywności?
 
 
-## Optymalizacja
+#### Optymalizacja
 
 
-## Standaryzacja
+#### Standaryzacja
 
 
 
-## Automatyzacja
+#### Automatyzacja

@@ -3,21 +3,21 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
 
 
 
-## Microsoft Visual Studio Code
+#### Microsoft Visual Studio Code
 + korzyści, do czy warto?
 
-## Licencja jetbrains
+#### Licencja jetbrains
 + własny projekt opensource
 
 
-## Kursy online
+#### Kursy online
 + płatne
 
 
 + bezpłatne
 
 
-## Meble
+#### Meble
 + stół z regulacją  wysokości
     + ręcznie
     + elektrycznie
@@ -49,42 +49,42 @@ Tutaj omówimy nie tylko orpogramowanie, ale całe środowisko, które służy d
     Można uzupełnić samoprzylepnymi ochraniaczami do podłogi FIXA, które chronią powierzchnię przed zużyciem.
     
 
-## Hardware
+#### Hardware
 
-### PC
+#### PC
 
 minipc czy desktop a może coś innego?
 
 
-### Pamięć trwała 
+#### Pamięć trwała 
 
 matryca NVM
 
-### Pamięć operacyjna RAM
+#### Pamięć operacyjna RAM
 
 24GB i więcej 
 
-### CPU 
+#### CPU 
 
 min 4 i 8 wątków
 
 ważne, by był minimum i3, ale nie ma co walczyć o i7
 bo tam już nie ma różnicy w wydajności tylko w oszczędności energii
 
-### odprowadzanie ciepła
+#### odprowadzanie ciepła
 
 
-### mały prywatny serwer
+#### mały prywatny serwer
 
-### UPS
+#### UPS
 
-### IoT, zdalne załączanie i wyłączanie
+#### IoT, zdalne załączanie i wyłączanie
 
-### Router
+#### Router
 
 
 
-### keyboard
+#### keyboard
 
 mała zamiast dużej
 mechaniczne mają z reguły dobre rozwiązania, nisko profilowe ale od ceny 100$ wzwyż
@@ -93,10 +93,10 @@ niższe półki nie są tak użyteczne
 
 
 
-## IDE Edytory
+#### IDE Edytory
 
 
-## Przykład odnośnie książki
+#### Przykład odnośnie książki
 
 edytor do prgramowania może być użyteczny nawet do pisania książki
 co czynię, używając wersjonowania git - repozytorium na github

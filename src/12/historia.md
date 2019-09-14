@@ -1,4 +1,4 @@
-## Historia
+#### Historia
 
 ten rozdział powstał, by pokazać, jakie znaczenie ma 
 dla Polaków i Niemców historia.

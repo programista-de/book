@@ -18,7 +18,7 @@ gitcast.pl
 + polscy programisści opensource
 
 
-## Oferta
+#### Oferta
 Moja oferta dla przyszłych i obecnych programistów chcących poszerzyć horyzonty i spróbować swoich sił w zagranicznych firmach to:
 
 + 30 Minut konsultacji, w celu ustalenia strategii
@@ -41,6 +41,6 @@ Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekr
 Konsultacje z autorem książki
 
 
-## Aktualna oferta 
+#### Aktualna oferta 
 dostępna jest na stronie: 
 [oferta.programista.de](https://oferta.programista.de/)

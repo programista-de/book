@@ -1,4 +1,4 @@
-## Streszczenie zawartości
+#### Streszczenie zawartości
 
 
 
@@ -46,4 +46,3 @@ Jesli moglbys zaoferowac pomoc tym, ktorzy pracy poszukuja a lbo juz to robisz t
 
 
 
-> [autor](/book/1/autor.md)

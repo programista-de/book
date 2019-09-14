@@ -7,17 +7,17 @@ Dla nich jest szeroki wahlarz możliwości współracy nawet podczas pracy etato
 nie zastrega takiej aktywności, ewentualne niejasności można wyjaśnić bezpośrednio z pracodawcą.
 
 
-## Dla kogo jest ta forma realizacji projektów
+#### Dla kogo jest ta forma realizacji projektów
 - niskie ryzyko
 - niska odpowiedzialność
 - możliwość samorealziacji w części
 - pewny zysk, zamiana czasu na pieniądze
 
-## freelance, na projekty
+#### freelance, na projekty
 
 
 
-## Firma
+#### Firma
 
 + wysokie ryzyko
 większość projektów nie jest kończonych w terminie, co oznacza straty finansowe, kary

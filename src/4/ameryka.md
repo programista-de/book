@@ -29,9 +29,10 @@ Kompania Wirginii nadal wysyłała do Jamestown głównie rzemieślników, wśr�
 Jamestown przekształciło się w fort z 60 domami, otoczonymi drewniano-ziemnymi umocnieniami. Wokół rozciągały się uprawy warzyw i tytoniu, (który też eksportowano do Anglii). Aby poskromić Indian podejmowano przeciwko z nim najazdy zbrojne. Gubernator lord Yeardley napisał, że w 1616 r. w jednym z udanych najazdów na plemię Czikahomin uczestniczył Robert Polak (Robert a Polonian) i pojmano wtedy indiańskiego wodza.  
 
 
-# Jamestown, 1619 rok
+#### Jamestown, 1619 rok
 
-## Pierwszy strajk w Ameryce
+**Pierwszy strajk w Ameryce**
+
 W 1619 r. Jamestown liczyło ponad 2 tysiące mieszkańców i składało się z 11 osiedli (dzielnic). Wówczas miasto otrzymało od króla prawo do własnego samorządu i postanowiono zorganizować pierwsze lokalne wybory. Każda dzielnica miała wybrać po 2 przedstawicieli do nowego zarządu, zwanego "House of Burgesses”, czyli Izba Mieszczan. Jednak cudzoziemcy, do których zaliczano też Polaków (nazywanych „Polackers”), nie mieli prawa głosu. Polacy poczuli się urażeni tą decyzją i uznali, że powinni mieć udział w zarządzaniu miastem, w którym mieszkali i pracowali. Gubernator Yeardley uznał żądania Polaków za dziwaczne. Wobec tego wszyscy Polacy z Jamestown porzucili pracę, co poważnie ograniczyło produkcję w kolonii.
 
 Wobec przedłużającego się polskiego strajku zainterweniowała Kompania z Londynu: "Co do Polaków zamieszkałych w Wirginii postanowiono (pomimo poprzednich rozporządzeń temu przeciwnych), że mają być oni obdarzeni prawem głosu i uczynieni tak wolnymi, jak każdy inny mieszkaniec tutejszy. Ażeby zaś ich zręczność w robieniu smoły, dziegciu i ługu nie zaginęła wraz z nimi, postanawiamy też, że niektórzy młodzieńcy mają im być przydani do wyuczenia się w ich zręczności i wiedzy dla przyszłości i dla dobra kraju".
@@ -39,19 +40,14 @@ Wobec przedłużającego się polskiego strajku zainterweniowała Kompania z Lon
 Tak więc to Polacy byli organizatorami pierwszego strajku w Ameryce Północnej i to w dodatku strajku udanego, który pozwolił im uzyskać prawa obywatelskie.
 
 
-# Jamestown, 2007 
-##Gorzka obecna prawda
+#### Jamestown, 2007 
+
+**Gorzka obecna prawda**
 
 Kiedy w roku 2007 Jamestown obchodziło 400-lecie założenia, żadna organizacja polonijna nie zadbała o upamiętnienie obecności Polaków wśród pierwszych osadników, w związku z tym Amerykanie polskiego pochodzenia nie zostali zaproszeni do udziału w obchodach.
 
 17 grudnia 2008 r. Narodowy Bank Polski upamiętnił rocznicę przypłynięcia Polaków do Jamestown przez wydanie 3 monet o nominale 2, 10 i 20 złotych. Na uwagę zasługuje srebrna moneta o nominale 10 zł, która jako jedyna moneta wydana w Polsce posiada zamiast metalowego środka soczewkę szklaną, która symbolizuje fakt, że pierwsi polscy osadnicy byli hutnikami szkła.
 
-
-
-# Wnioski są podobne obecnie
-
-+ Polskie mniejszości w Niemczech nie są nawet formalnie nazwane, tak jakby ich nie było mimo, że są 2-3 mneijszością narodową w Niemczech
-+ Obsługa w urzędach, nawet w bankomatach nie jest możliwa po polsku, ale w języku arabsku tak?
 
 
  

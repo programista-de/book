@@ -1,4 +1,4 @@
-## Czym wyróżnia się książka
+#### Czym wyróżnia się książka
 
 o których warto zebrać kilka różnych opinii z różnych punktów widzenia.
  
@@ -13,21 +13,21 @@ o których warto zebrać kilka różnych opinii z różnych punktów widzenia.
    
    
    
-## Wziąłem pod uwagę, że czytelnik
+#### Wziąłem pod uwagę, że czytelnik
  może znać książki z 2018-2019 roku z dziedziny IT
 więc mogę ominąc te rzeczy tam omawiane i przytoczyć książki innych  autorów omawiające szerzej pewne sprawy
 z ostatnich lat. 
 
 
-## Programowanie a życie
+#### Programowanie a życie
 
 Są na tym świecie ludzie, którzy myślą że zostaną programistą po tym, jak przeczytają książkę o byciu programistą, jednak są też tacy, którzy wiedzą, że trzeba się uczyć, szukać informacji samodzielnie, być wybitnie cierpliwym i upartym...
 
 
-## Obecne podejście do pisania, po co pisać książki?
+#### Obecne podejście do pisania, po co pisać książki?
 
 
-## Moje pióro, czyli jak piszę?
+#### Moje pióro, czyli jak piszę?
 
 Niektórzy przyjmują dobrą strategię - pisać krótko.
 Inni rozwlekają treść na wątki, które mogą być zamknięte w kilku zdaniach a nie stronach.
@@ -36,7 +36,7 @@ Jak poznać, kiedy jest za krótko, tzn niejasno, a kiedy za dużo?
 Można jeszcze inaczej ...
 
 
-### Moja strategia tworzenia
+#### Moja strategia tworzenia
 
 Nie jestem zawodowym pisarzem, ale jestem zawodowym programistą, a więc przyjąłem standardy, którymi kieruję się na co dzień.
 
@@ -63,6 +63,6 @@ lub coś jest niełatwe, wtedy mogę po prostu napisać od nowa jakąś część
 
 
 ---
-Moje życzenie, jest takie, by tą książkę czytało się jak dobry programistyczny kod.
-Klarownie, bez zbędnych pętli.
----
+*Moje życzenie, jest takie, by tą książkę czytało się jak dobry programistyczny kod.
+Klarownie, bez zbędnych pętli.*
+

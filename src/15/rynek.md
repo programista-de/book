@@ -30,7 +30,7 @@ w przypadku ciekawych kandydatów nie zwleka się z kontaktem, bo
  Na prawdę nie wyobrażam sobie żeby przy obecnym stanie na rynku pracy silić się na jakieś pisanie maili czy dzwonienie. Jeśli firma nie odpowiedziała Ci na CV, to opcje są dwie. Albo totalnie nie trafiasz w wymagania (więc telefon nic nie da), albo dobijasz się do jakiejś korporacji, która tylko Cię przemieli i wypluje więc lepiej sobie odpuścić (a dzwoniąc i tak odbijesz się od korpościany). 
 
 
-## Oferty
+#### Oferty
 
 klomunikacja z przyszłym pracodawcą nie obywa się na interview, e-ailu czy rozmowie,
 to już wtedy, gdy czytasz pierwsze zdanie oferty.
@@ -40,4 +40,4 @@ Warto więc przeczytać 2 razy.
 
 
 
-## 
+#### 

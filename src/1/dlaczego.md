@@ -1,17 +1,17 @@
-## Dlaczego powstała ta książka ?
+#### Dlaczego powstała ta książka ?
 
 Na codzień tworzę wolne i otwarte orpgramowanie: open-source
 chciałbym również podzielić się czym święcej, poprzez wymianę doświadczeń open - experience
 
 
-## Jak długo była pisana
+#### Jak długo była pisana
 
 Przez kilka tygodni w wolnym czasie pomiędzy wychowaniem dziecka.
 Trzeba jednak założyć fakt, że wcześniej przygotowywałem kilka myśli
 i analiz, które przyczyniły się do mentalnej dojrzałości.
 Gdyż sam fakt postanowienia napisania to była chwila
 
-## Nieopublikowane rozdziały
+#### Nieopublikowane rozdziały
 
 Postanowiłem, że nie opublikuję w książce rodziału dotyczącego kultury, 
 ponieważ może nie każdego to interesować i trudno jest mówić o czymś co należy poznać w praktyce, 
@@ -24,9 +24,20 @@ mogą być jutro.
 
 
 
+#### Po co książka o niemckiej kulturze?
+
++ bo okazuje się, że poznanie języka nie wystarczy
++ kultura to coś ponad słowami, 
+
+znajomość kultury pozwala na rozumienie wiele spraw bez wyjasniania
+bo znamy kontekst i stosunek partnera w rozmowie do treści o których mówimy.
+
+Ta wiedza może być tym bardziej przydatna im mniej znamy język, gdyż znajomość akcentu i języka można się nauczyć,
+
+ale jak się nie zna kulturty to można szybko zrazić do siebie ludzi nie wiedząc nawet o tym!
 
 
 
 -----
 
-> [bohaterowie](bohaterowie.md)
+<!-- > [bohaterowie](bohaterowie.md) -->

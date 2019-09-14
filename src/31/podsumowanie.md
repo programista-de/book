@@ -8,7 +8,7 @@ jak istotne jest czasem zwyczajny rozsądek
 
 Ksiązka nie wystarczy i jest wstepem do lepszego zrozumienia zachodzniego sposobu działania i myślenia
 
-## KOntakt
+#### KOntakt
 Miejse na komentarze i wyjaśnienia jest na stronie forum czytelników tej książki:
 
 forum.programista.de

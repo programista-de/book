@@ -1,11 +1,11 @@
-## Freelance
+#### Freelance
 W jaki sposób w niemczech jest możliwy
 jak formalnie
 jak w praktyce wygląda relacja z pracodawcą
 
 
 
-## o pracy zdalnej
+#### o pracy zdalnej
 
 W Polsce wolny strzelec często pracuje zdalnie, czasem to synonim, ale w niemczech to niewiele ma wspólnego
 raczej freelance jest używany dorywczo i nie jest alternatywą tylko niszą.
@@ -14,7 +14,7 @@ pracownik - pracodawca,
 gdzie można bardziej zintegrować pracownika w zespole i więcej oczekiwać i zyskać w dłuższej perspektywie
 
 
-## Dlatego warto o tym wiedzieć, gdy się wybiera,
+#### Dlatego warto o tym wiedzieć, gdy się wybiera,
 
 gdyż to nie jest mile widziane, gdy jest się freelancerem i szuka się pracy na etat
 gdyż z reguły pracodawcy szukają kogoś na lata a nie na miesiące.

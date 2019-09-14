@@ -1,217 +1,151 @@
 # Spis treści
-+ [okładka](0/1.md)
-+ [wkładka](0/2.md)
 
 
-## 1
 + [1](1/1.md)
-    + [wstęp](1/wstep.md)
     + [autor](1/autor.md)
     + [dlaczego](1/dlaczego.md)
     + [bohaterowie](1/bohaterowie.md)
-  
-## 2  
-+ [2](2/2.md)
-    + [Analiza](2/analiza.md)
-    + [przeszłość](2/przeszlosc.md)
-    + [przyszłość](2/przyszlosc.md)
-    + [jezyki-programowania](2/jezyki-programowania.md)  
-    + [open-source](2/open-source.md)
-    + [rynek pracownika?](2/rynek-pracownika.md)
 
-## 3 
-+ [3](3/3.md)
-    + [Specjalizacje](3/specjalizacje.md)  
-    + [programista](3/programista.md)
-    + [administrator](3/administrator.md)
-    + [devops](3/devops.md)
-    + [manager](3/manager.md)
-    + [lider](3/lider.md)
-    + [product-owner](3/product-owner.md)  
-
-## 4
-+ [4](4/4.md)  
-    + [kultura](4/kultura.md)    
-    + [indywidualizm](4/indywidualizm.md)
-    + [kolektywizm](4/kolektywizm.md)        
-    + [kultura pracy](4/kultura-pracy.md)
-    + [języki](4/jezyki.md)
-    + [stereotypy](4/stereotypy.md)      
-    + [zdrowie](4/zdrowie.md)
-    + [pogoda](4/pogoda.md)     
++ [2](2/2.md)    
+    + [Dla kogo jest ta książka?](2/ksiazka.md)
+    + [jezyk-niemiecki](2/jezyk-niemiecki.md)
+    + [wyroznik](2/wyroznik.md)
+    + [ramy](2/ramy.md)
+    + [streszczenie](2/streszczenie.md)
     
-## 5
-+ [5](5/5.md)
-    + [wyprawa](5/wyprawa.md)
-    + [motywacje](5/motywacje.md)  
-    + [kompetencje](5/kompetencje.md)
-    + [Języki obce](5/jezyki-obce.md)
-    + [koszty](5/koszty.md)
-    + [rodzina](5/rodzina.md)
-   
+    
++ [4](4/4.md)    
+    + [Odkrycie Ameryki](4/wstep.md)
+    + [Historia lubi się powtarzać](4/ameryka.md)
+    + [Negatywne sktuki emigracji](4/negatywne.md)
+    + [Poztywne skutki emigracji](4/poztywne.md)
+    + [Przykładowe komentarze](4/komentarze.md)
 
-## 6     
-+ [6](6/6.md)
-    + [kariera](6/kariera.md)
-    + [rekrutacja](6/rekrutacja.md)
-    + [pytania](6/pytania.md)
-    + [interview](6/interview.md) 
-    + [zarobki](6/zarobki.md)
-    + [zwolnienie](6/zwolnienie.md)
-     
-## 7
-+ [6](6/6.md)
-    + [praca](7/praca.md)
-    + [etat](7/etat.md)
-    + [formy](7/formy.md)
-    + [freelance](7/freelance.md)
-    + [klienci](7/klienci.md)
-    + [podatki](7/podatki.md)
-    + [prawo](7/prawo.md)
-    + [samozatrudnienie](7/samozatrudnienie.md)
-
-## 8
++ [6](6/6.md)   
+    + [krach](6/krach.md)
+    + [podroz](6/podroz.md)
+    
+      
 + [8](8/8.md)
-    + [Proza życia](8/proza.md)
-    + [emerytura](8/emerytura.md)
-    + [strategia](8/strategia.md)
+    + [Analiza](8/analiza.md)
+    + [przeszłość](8/przeszlosc.md)
+    + [przyszłość](8/przyszlosc.md)
+    + [jezyki-programowania](8/jezyki-programowania.md)
+    + [open-source](8/open-source.md)
+    + [rynek pracownika?](8/rynek-pracownika.md)
+    + [paradygmaty](8/paradygmaty.md)
+    
+
+
++ [12](12/12.md)
+    + [kultura](12/kultura.md)    
+    + [indywidualizm](12/indywidualizm.md)
+    + [kolektywizm](12/kolektywizm.md)        
+    + [języki](12/jezyki.md)
+    + [stereotypy](12/stereotypy.md)
+    + [kultura pracy](12/kultura-pracy.md)
+    + [wikipedia](12/wikipedia.md)
+    
+    
+
++ [14](14/14.md)
+    + [wyprawa](14/wyprawa.md)
+    + [ignorancja](14/ignorancja.md)
+    + [motywacje](14/motywacje.md)  
+    + [kompetencje](14/kompetencje.md)
+    + [Języki obce](14/jezyki-obce.md)
+    + [koszty](14/koszty.md)
+    + [rodzina](14/rodzina.md)
+    + [zdrowie](14/zdrowie.md)
+    + [pogoda](14/pogoda.md)   
+    + [abonament-tv](14/abonament-tv.md)
+    + [konto bankowe](14/banki.md)
+    + [internet](14/internet.md)
+    
+
++ [15](15/15.md)
+    + [rynek](15/rynek.md)
+    + [kariera](15/kariera.md)
+    + [rekrutacja](15/rekrutacja.md)
+    + [pytania](15/pytania.md)
+    + [interview](15/interview.md) 
+    + [zarobki](15/zarobki.md)
+    + [paraca zdalna](15/praca-zdalna.md)
+    + [urlop](15/urlop.md)
+    + [wyjazdy](15/wyjazdy.md)
+    + [godziny-pracy](15/godziny-pracy.md)
+    + [hardware](15/hardware.md)
+    + [software](15/software.md)
+    + [benefity](15/benefity.md)
+         
+
++ [16](16/16.md)
+    + [paraca zdalna](16/praca-zdalna.md)
+    + [urlop](16/urlop.md)
+    + [wydarzenia](16/wydarzenia.md)
+    + [spoznienia](16/spoznienia.md)
+    + [spotkania](16/spotkania.md)
+    + [kultura-firmy](16/kultura-firmy.md)
+    + [polityka-firmy](16/polityka-firmy.md)    
+    + [podwyżka](16/podwyzka.md)
+
+     
+     
++ [17](17/17.md)
+    + [Oczekiwania](17/oczekiwania.md)
+    + [Awans](17/awans.md)
+    + [Wypalenie zawodowe](17/wypalenie-zawodowe.md)
+    + [Zwolnienie](17/zwolnienie.md)
+    + [Urząd pracy](17/urzad-pracy.md)
+    
+    
++ [18](18/18.md)
+    + [praca](18/praca.md)
+    + [etat](18/etat.md)
+    + [formy](18/formy.md)
+    + [freelance](18/freelance.md)
+    + [klienci](18/klienci.md)
+    + [podatki](18/podatki.md)
+    + [prawo](18/prawo.md)
+    + [samozatrudnienie](18/samozatrudnienie.md)
+
+
+
+
++ [21](21/21.md)
+    + [Proza życia](21/proza.md)
+    + [emerytura](21/emerytura.md)
+    + [strategia](21/strategia.md)
   
-## 9
-+ [9](9/9.md)
-    + [Recepty](9/recepty.md)  
-    + [Freelance](9/freelance.md)
-    + [Narzędzia](9/narzedzia.md)
-    + [Produktywność](9/produktywnosc.md)
-    + [Podatki](9/podatki.md)    
-    + [Rutyny](9/rutyny.md)
-    + [Stanowisko](9/stanowisko.md)
-
-## 10 
-+ [10](10/10.md)
-    + [Podsumowanie](10/podsumowanie.md)
-    + [Źródła](10/zrodla.md)
   
-## 11   
-+ [11](11/11.md)
-    + [Dodatki](11/dodatki.md)
-    + [Tabelki](11/tabelki.md)
-    + [Statystyki](11/statystyki.md)    
-    + [mapa](11/mapa.md)
-    + [lektury](11/lektury.md)
-    + [kupony](11/kupony.md)   
-    + [Współpraca](11/wspolpraca.md)
++ [23](23/23.md)
+    + [Recepty](23/recepty.md)  
+    + [Narzędzia](23/narzedzia.md)
+    + [Produktywność](23/produktywnosc.md)
+    + [Rutyny](23/rutyny.md)
+    + [Stanowisko](23/stanowisko.md)
 
 
-1
-1.md
-autor.md
-bohaterowie.md
-dlaczego.md
-streszczenie.md
-wstep.md
-wyroznik.md
-2
-img
-2.md
-analiza.md
-jezyki-programowania.md
-krach.md
-open-source.md
-przeszlosc.md
-przyszlosc.md
-rynek-pracownika.md
-3
-3.md
-administrator.md
-architekt.md
-devops.md
-lider.md
-manager.md
-paradygmaty.md
-product-owner.md
-programista.md
-specjalizacje.md
-4
-4.md
-abonament-tv.md
-asymilacja.md
-banki.md
-historia.md
-ignorancja.md
-indywidualizm.md
-internet.md
-jezyki.md
-kolektywizm.md
-kultura.md
-kultura-pracy.md
-pogoda.md
-rynek.md
-stereotypy.md
-wikipedia.md
-zdrowie.md
-5
-img
-5.md
-jezyki-obce.md
-kompetencje.md
-koszty.md
-motywacje.md
-rodzina.md
-wyprawa.md
-6
-6.md
-godziny.md
-hardware.md
-interview.md
-kariera.md
-kultura-firmy.md
-polityka-firmy.md
-pytania.md
-rekrutacja.md
-software.md
-spoznienia.md
-urlop.md
-wypalenie-zawodowe.md
-zarobki.md
-zdalnie.md
-zwolnienie.md
-7
-7.md
-etat.md
-formy.md
-freelance.md
-klienci.md
-podatki.md
-praca.md
-prawo.md
-samozatrudnienie.md
-8
-8.md
-emerytura.md
-proza.md
-strategia.md
-9
-9.md
-freelance.md
-narzedzia.md
-podatki.md
-prawo.md
-produktywnosc.md
-recepty.md
-rutyny.md
-stanowisko.md
-10
-10.md
-podsumowanie.md
-zrodla.md
-11
-1yearplan.md
-11.md
-dodatki.md
-kupony.md
-lektury.md
-mapa.md
-statystyki.md
-tabelki.md
-urls.md
-wspolpraca.md
+
+
++ [31](31/31.md)
+    + [Podsumowanie](31/podsumowanie.md)
+  
+  
++ [32](32/32.md)
+    + [Dodatki](32/dodatki.md)
+    + [Tabelki](32/tabelki.md)
+    + [Statystyki](32/statystyki.md)    
+    + [mapa](32/mapa.md)
+    + [nauka](32/nauka.md)
+    + [lektury](32/lektury.md)
+    + [1yearplan](32/1yearplan.md)
+    + [kupony](32/kupony.md)   
+    + [Współpraca](32/wspolpraca.md)
+    + [urls](32/urls.md)
+    
+    
++ [33](33/33.md)
+    + [Spis Treści](33/spis.md)
+    + [Źródła](33/zrodla.md)
+    + [Ocena](33/ocena.md)

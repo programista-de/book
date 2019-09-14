@@ -5,7 +5,7 @@ od ogłoszenia do pierwszego dnia w pracy
 kolejne kroki stojące przed kandydatem, plan działania, niespodzianki
 
 
-## Oferty pracy
+#### Oferty pracy
 treść ofert pracy na co zwracać uwagę
 
 Dodatkowo w ofertach pracy są w nawiasach dwie albo trzy litery, najczęściej są dwie (m/w) ale od kilku lat staje się popularne (m/w/d)
@@ -21,12 +21,12 @@ Dodatkowo w ofertach pracy są w nawiasach dwie albo trzy litery, najczęściej 
 
 Na tym nie koniec, gdyż z wyborem płci wiąże się forma zwracania się do kandydata, wybór toalety, etc
 
-## Proces rekrutacji (Bewerbungsprozess)
+#### Proces rekrutacji (Bewerbungsprozess)
 
-##  (Dresscode)
+####  (Dresscode)
 
 
-## Rozmowa
+#### Rozmowa
  
  tematy rozmów
  

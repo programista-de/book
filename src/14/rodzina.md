@@ -1,4 +1,4 @@
-## Rodzina
+#### Rodzina
 
 w kontekście wyprawy warto rozważyć jak zaplanować przyszłość.
 Dla tych, którzy jeszcze nie mają rodziny sprawa jest jednoznaczna, sami decydują.
@@ -12,7 +12,7 @@ Nie istotne czy mamy pracę czy nie.
 Isotne, czy cchcemy mieć pracy i mamy szansę na nią w Niemczech.
 
 
-## Urodzenie dziecka
+#### Urodzenie dziecka
 Otrzymuję za to wynagroddzenie, urlop macierzyński/tacierzyński to nic nadzwyczajnego,
 ale możliwość bycia ojca dziecka na takim urlopie do 12 miesięcy od urodzenia
 to wyjątkowy czas, w ramach składek społecznych są wypłacane 65% ostatniego wynagrodzenia,
@@ -23,7 +23,7 @@ lub nawet do 2 lat w prz\ypadku matki nowonarodzonego dziecka.
 Takie prawo mają rodzice w DE i pracodawcy muszą się z tym liczyć.
 
 
-## Opieka nad dzieckiem
+#### Opieka nad dzieckiem
 
 W Niemczech jest możliwa opieka nad dzieckiem od najwcześniejszego okresu, roku, dwóch  u osósb zajmujących się
 codziennie w dni robocze, aby rodzic, rodzice mogli pracować.

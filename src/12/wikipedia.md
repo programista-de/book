@@ -1,2 +1,2 @@
-## Nimiecka i polska Wikipedia
+#### Nimiecka i polska Wikipedia
 Czym się różnią

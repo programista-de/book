@@ -1,6 +1,6 @@
 ![](../img/programista-de-book-icon.png)
 
-## tags:
+#### tags:
 
 Polak na dzikim zachodzie
 Pewnego razu na dzikim zachodzie
@@ -8,7 +8,7 @@ Pewnego razu na dzikim zachodzie
 
 
 
-## pierwsza
+#### pierwsza
 
 Wil west
 

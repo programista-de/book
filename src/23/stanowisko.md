@@ -1,4 +1,4 @@
-## Stanowisko pracy
+#### Stanowisko pracy
 
 to, by mieć najlepszy możliwy komputer w ramach jednej pensji to oczywiste,
 że to daje najszybszy zwrot, gdyż taki komputer nie wymaga dużej konserwacji

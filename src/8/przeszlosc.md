@@ -7,25 +7,25 @@ ciekawe dlaczego?
 Czyżby w tym była zawarta mądrość?
 że przeszłość i przyszłość różnią się pozornie znacznie, ale w praktyce są łatwe do przewidzenia, gdyż natura ludzka, która kształtuje teraźniejszość nie zmienia się?
 
-## język polski:
+#### język polski:
 + przyszłość
 + przeszłosć
 
-## język niemiecki:
+#### język niemiecki:
 + die Zukunft
 + die Vergangenheit
 
-## język angielski:
+#### język angielski:
 + future
 + past
 
 
-## Jak było dotychcczas
+#### Jak było dotychcczas
 
-## Jak rozwijaja się technologie
+#### Jak rozwijaja się technologie
 
-## Jak to ma wpływ na karierę
+#### Jak to ma wpływ na karierę
 
-## POlityczne zmiany
+#### POlityczne zmiany
 
-## Kulturowe zmiany
+#### Kulturowe zmiany

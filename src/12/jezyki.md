@@ -1,4 +1,4 @@
-## Języki
+#### Języki
 jako kraj multikulturowy daje też możliwość porozumieniawania się w wielu językach
 
 
@@ -14,10 +14,10 @@ Wówczas można sie przerazić, że się nic nie umie i nic nie wie.
 Ale to tylko emocjonalna strona pobytu w miejscu obcym kulturowo.
 
 
-## Znaczenia słów
+#### Znaczenia słów
 
 
-### Kolega
+#### Kolega
 
 #### pl
 
@@ -25,7 +25,7 @@ Ale to tylko emocjonalna strona pobytu w miejscu obcym kulturowo.
 
 
 
-### Powitanie
+#### Powitanie
 tabelka
 pora/osoba
 
@@ -35,7 +35,7 @@ pora/osoba
 
 
 
-### Pożegnanie
+#### Pożegnanie
 tabelka
 pora/osoba
 

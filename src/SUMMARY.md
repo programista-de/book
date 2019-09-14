@@ -1,4 +1,5 @@
 # Spis treści
+
 + [okładka](0/front.md)
 + [wkładka](0/second.md)
 + [tył](0/back.md)
@@ -23,11 +24,10 @@
     + [Historia lubi się powtarzać](4/ameryka.md)
     + [Negatywne sktuki emigracji](4/negatywne.md)
     + [Poztywne skutki emigracji](4/poztywne.md)
-
+    + [Przykładowe komentarze](4/komentarze.md)
 
 + [6](6/6.md)   
     + [krach](6/krach.md)
-    + [sceptycy](6/sceptycy.md)
     + [podroz](6/podroz.md)
     
       
@@ -42,21 +42,6 @@
     
 
 
-## 11 
-+ [11](11/11.md)
-    + [Specjalizacje](11/specjalizacje.md)  
-    + [antyprgramista](11/antyprogramista.md)
-    + [programista](11/programista.md)
-    + [administrator](11/administrator.md)
-    + [devops](11/devops.md)
-    + [manager](11/manager.md)
-    + [lider](11/lider.md)
-    + [product-owner](11/product-owner.md)  
-    + [architekt](11/architekt.md)
-    + [paradygmaty](11/paradygmaty.md)
-
-
-## 12
 + [12](12/12.md)
     + [kultura](12/kultura.md)    
     + [indywidualizm](12/indywidualizm.md)
@@ -68,7 +53,6 @@
     
     
 
-## 14
 + [14](14/14.md)
     + [wyprawa](14/wyprawa.md)
     + [ignorancja](14/ignorancja.md)
@@ -84,7 +68,6 @@
     + [internet](14/internet.md)
     
 
-## 15     
 + [15](15/15.md)
     + [rynek](15/rynek.md)
     + [kariera](15/kariera.md)
@@ -101,7 +84,6 @@
     + [benefity](15/benefity.md)
          
 
-## 16     
 + [16](16/16.md)
     + [paraca zdalna](16/praca-zdalna.md)
     + [urlop](16/urlop.md)
@@ -114,7 +96,6 @@
 
      
      
-## 17     
 + [17](17/17.md)
     + [Oczekiwania](17/oczekiwania.md)
     + [Awans](17/awans.md)
@@ -123,7 +104,6 @@
     + [Urząd pracy](17/urzad-pracy.md)
     
     
-## 18
 + [18](18/18.md)
     + [praca](18/praca.md)
     + [etat](18/etat.md)
@@ -137,33 +117,26 @@
 
 
 
-## 21
 + [21](21/21.md)
     + [Proza życia](21/proza.md)
     + [emerytura](21/emerytura.md)
     + [strategia](21/strategia.md)
   
   
-## 23
 + [23](23/23.md)
     + [Recepty](23/recepty.md)  
-    + [Freelance](23/freelance.md)
     + [Narzędzia](23/narzedzia.md)
     + [Produktywność](23/produktywnosc.md)
-    + [Podatki](23/podatki.md)    
-    + [Prawo](23/prawo.md)    
     + [Rutyny](23/rutyny.md)
     + [Stanowisko](23/stanowisko.md)
 
 
 
 
-## 31 
 + [31](31/31.md)
     + [Podsumowanie](31/podsumowanie.md)
   
   
-## 32   
 + [32](32/32.md)
     + [Dodatki](32/dodatki.md)
     + [Tabelki](32/tabelki.md)
@@ -177,7 +150,6 @@
     + [urls](32/urls.md)
     
     
-## 33   
 + [33](33/33.md)
     + [Spis Treści](33/spis.md)
     + [Źródła](33/zrodla.md)

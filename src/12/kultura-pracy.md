@@ -2,7 +2,7 @@
 
 
 
-### o kulturze pracy
+#### o kulturze pracy
 
 Róznice w zarobkach nie są już tak znaczące czy to Białoruś, czy Polska, Niemcy
 ale kultura tak szybko się nie zmienia i o tych różnicach jest tutaj troche napisane, nie tylko z punktu widzenia
@@ -12,15 +12,15 @@ W tej ksiazce sa te wszystkie poza technicnze detale omowione z perspektywy ludz
 
 
 
-## Jak wygląda dzień pracy
+#### Jak wygląda dzień pracy
 
-## Rozpoczęcie
+#### Rozpoczęcie
 
 Punktualność
 ramy czasowe
 przywitanie, formalizm, formy grzecznościowe
         
-## Przerwa w pracy
+#### Przerwa w pracy
 czas trwania
 o czym się mówi, o czym się nie mówi
 palenie papierosów
@@ -32,12 +32,12 @@ karnety na bufety,
 wyjście do restuaracji
         
 
-## Co jest ważne
+#### Co jest ważne
 
 Praca zdalna to rzadkość
 
 
-## Automatyzacja
+#### Automatyzacja
 
 o ile motoryzacja jest bardzo dobrze rozwinięta
 są fabryki robotów takich jak kuka (warto obejrzeć reklamy).
@@ -46,7 +46,7 @@ ale programowanie jest daleko w tyle i można liczyć jedynie na programistów z
 to czego nie potrafią programiści z niemiec.
 
 
-## Przykład niskiego poziomu zaawansowania w branzy IT
+#### Przykład niskiego poziomu zaawansowania w branzy IT
 
 Kiedy pierwszy raz podjąłem pracę etatową
 to już w polsce w firmie If Research Polacy mieli dobrze rozbudowane środowisko DevOps

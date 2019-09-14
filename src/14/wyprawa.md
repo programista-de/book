@@ -1,11 +1,11 @@
 # Wyprawa 
 
 
-## Rozmowa kwalifikacyjna, Interview
+#### Rozmowa kwalifikacyjna, Interview
 
 
 
-## Wyjazd do pracy
+#### Wyjazd do pracy
 
 Warto na początku zaznaczyć, że to nie jest droga w jedną stronę,
 gdybym miał wybierać, to nie byłbym tak szczęśliwy jak jestem,
@@ -38,12 +38,12 @@ Każda wyprawa wymaga przygotowania, to co warto zaplanować przed wyjazdem to:
         
 
 
-## Na jaki czas?
+#### Na jaki czas?
 na kilka tygodni, miesięcy
 
 
 
-## Ubezpieczenie prawne
+#### Ubezpieczenie prawne
 Rechtsschutzversicherung
 
 + das Recht = prawo
@@ -52,7 +52,7 @@ Rechtsschutzversicherung
 
 
 
-## Jakie to jest uczcucie, zaczynać od zera?
+#### Jakie to jest uczcucie, zaczynać od zera?
 
 Jeśli to Twoja pierwsza wyprawa
 nie miałeś wcześniej takich przeprowadzek

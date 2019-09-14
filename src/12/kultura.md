@@ -8,7 +8,7 @@ pewne charekterystyczne zdarzenia i opisać je na dwa sposoby: polski i nimiecki
 W ten sposób opisując tę samą wydawałoby się rzeczywistrość ale przez dwie pary różnych okularów
 można zauwaćyż jak róznią się dwa obok siebie mieszkające narody.
 
-## Polityka
+#### Polityka
 
 Jakże można się zdziwić, gdy człowiek pod zasłoną poprawności, demokracji, "sprawiedliwości społecznej" 
 dowiaduje się jak wiele polityki jest w codziennym życiu, jak wiele spraw jest na pokaz.
@@ -22,7 +22,7 @@ jest wyraźny pluralizm, czyli wielość partii a nie jak w Polsce wyraźna dwup
 
 TO też mówi o sposobie myślenia Polaków i Niemców.
 
-## Wnioski
+#### Wnioski
 
 Jak wiele rzeczy po latach obserwacji układa się w całość i pokazuje, że Niemcy jako naród nie zmienili się od wiekó,
 efekty, dążenia są te same, tylko środki, technologie zmieniają się z czasem.
@@ -34,7 +34,7 @@ teraz zajmują się chemią, lekami, GMO, kupują amerykańską firmę monstanto
 jest kontrowersyjny ale przynosi spore zyski.
  
  
-## Historyczny rys
+#### Historyczny rys
 
 w celu przybliżenia tego czym jest kultura i jak ulegała zmianie w polsce oraz jak przebiegała w niemczech weźmy dla przykładu najpierw to co znamy
 czyli zmiany, które dokonały się w Polsce
@@ -43,36 +43,36 @@ przybliżenie historycznych względów
 Cco to jest kultura
 
 
-## Polska
+#### Polska
 to społeczeństwo, którego kraj czasem nie istniał na mapie, czasem był pod okupacją, ale rzadko liderem,
 chęć przetrwania i łatwość adaptacji do zmian charakteryzuje część społeczeństwa
 
-### rok 1989
+#### rok 1989
 rozrywka:
 
 
-###  rok 2009
+####  rok 2009
 rozrywka:
 
 
-### rok 2019
+#### rok 2019
 rozrywka:
 
 
 
 
-## Niemcy
+#### Niemcy
 to społeczeństwo, które wiele razy było liderem
 
-### rok 1989
+#### rok 1989
 rozrywka:
 
 
-###  rok 2009
+####  rok 2009
 rozrywka:
 
 
-### rok 2019
+#### rok 2019
 rozrywka:
 
 

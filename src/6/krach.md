@@ -1,4 +1,4 @@
-## Kryzys? Kryzys!
+#### Kryzys? Kryzys!
 
 + Niemcy drukują na potęgę 100EUR, tutaj dowód:
 ![](img/banknoten.png)
@@ -9,7 +9,7 @@ więcej na stronie:
 https://www.bundesbank.de/de/aufgaben/themen/neue-100-euro-und-200-euro-banknoten-ab-dem-28-mai-im-umlauf--759776
 
 
-## Kiedy?
+#### Kiedy?
 
 tak wiele od 2008 roku mówi się o kryzysie
 a ja znowu rozpocząłem działalność w 11 lat od kryzysu, czyżbym niczego się nie nauczył?

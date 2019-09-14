@@ -1,6 +1,6 @@
 # Książka
 
-## Temat przewodni
+#### Temat przewodni
 
 Książka napisana po polsku dla Polaków o Polakach w Niemczech w kontekście aktualnych zmian i ewentualnego wyjazdu w roku 2020.
 Autor wyrusza w podróż po jego ostatnich 7 latach życia nie tylko na zachodzie ale również południu Niemiec na Bawarii.
@@ -8,7 +8,7 @@ Przytoczone wywiady i dane, pozwalają na zapoznanie się z aktualną sytuacją 
 
 
 
-### Cel
+#### Cel
 
 Celem książki nie było wchodzenie w techniczne zagadnienia, a kulturowe, społeczne, prawne, gdyż to one decydują o tym 
 czy się zostaje na dłużej w danym kraju.
@@ -18,7 +18,7 @@ Uznałem, że dla każdego kto wyjeżdża za granicę, zwłaszcza samotnie, isto
 i wiedzieć czego się spodziewać, jakie są normy i co nie mieści się w jej granicach. 
 
 
-## Determinacja
+#### Determinacja
 
 Drogi czytelniku, jeśli szukasz motywacji do wyjazdu to nie znajdziesz jej w tej książce.
 Od 7 lat nie przekonałem ani jednej osoby do wyjazdu mimo, że wypowiadałem się raczej pozytywnie.
@@ -33,12 +33,12 @@ Tak znaczące zmiany w czyimś życiu są raczej:
 
 
 
-## Czym nie jest ta książka
+#### Czym nie jest ta książka
 
 Książka to miks wiedzy, zebranej z kilkudziesięciu książek, jak sam autor stwierdza, że nie wszystko musi się “kompilować” to znaczy, że część wiedzy to dość mocno wyrwane z kontekstu wnioski, które przy wgłębieniu się w temat mogę się okazać trochę naciągane. 
   
 
-## O czym nie jest
+#### O czym nie jest
 
 Obecnie w dobie otwartych mediów trudno nie powielić w różnych formach tego samego tematu,
 dlatego tym bardziej warto sięgać do książek opisujących wąsko pewne zagadnienia a przy tym kompleksowo je omawiając
@@ -46,7 +46,7 @@ inaczej niż w przypadku artykułów, czy opinii, które zawierają wyrywkowe sp
 
 
 
-## Dla kogo jest
+#### Dla kogo jest
 
 w pierwszej kolejności dla programistów zainteresowanych emigracją do krajów niemieckojęzycznych.
 W drugiej dla Polaków, którzy chcą się upewnić, że nie chcą emigrować, chcą świadomie podjąć decyzję.
@@ -63,7 +63,7 @@ lub zamierzają otworzyć firmę w niemczech
 
 
 
-## Dla kogo nie jest
+#### Dla kogo nie jest
 
 dla tych, którzy:
 
@@ -71,12 +71,12 @@ dla tych, którzy:
 + chcieliby by ta książka zmieniła ich życie...
 
 
-## O kim jest
+#### O kim jest
 o ludziach, którzy nie bali się zaryzykować i stale podnoszą swoje kwalifikacje, za które otrzymują dobre wynagrodzenie
 Którzy zastanawiają się co mogliby zrobić lepiej.
 
 
-## O kim nie jest
+#### O kim nie jest
 
 o gwiazdach Youtuba, celebrytach internetowych, sławach naszych czasów
 

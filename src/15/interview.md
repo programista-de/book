@@ -11,7 +11,7 @@ W niemczech rozmowa kwalifikacyjna to rozmowa.
 Nie jest tak istotna szkoła, ale ostatnio zdobyte doświadczenie
 
 
-## co trzeba a czego nie wolno mówić
+#### co trzeba a czego nie wolno mówić
 "wszystko co powiesz może być użyte przeciwko Tobie"
 
  

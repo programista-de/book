@@ -3,7 +3,7 @@ krótkie podsumowania jak widzi się
 
 Kiedy recepta zadziała, warunki
 
-## Osoba i rzeczywistość
+#### Osoba i rzeczywistość
 warto zdać sobie sprawęz tego, że mimo, iż jesteśmy zwierzęciem stadnym to w codziennych realiach mierzymy się pośrednio z rzeczywistością
 a często bezpośrednio z samym sobą.
 
@@ -14,7 +14,7 @@ Przykład:
 
 
 
-## Od technicznej strony
+#### Od technicznej strony
 Recepta dla tych, których stać na duże ryzyko, bądź czują, że nie mają innego wyjścia jest możliwość
 szybkiego wzrostu poprzez selektywny, zrozumiały na obecnej technicznej świadomości krok:
 

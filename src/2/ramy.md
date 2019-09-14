@@ -1,10 +1,10 @@
-## Streszczenie
+#### Streszczenie
 
 Książka opisuje co to jest IT, jakie perspektywy
  
 
 
-## Kontekst, ramy
+#### Kontekst, ramy
 
 Treść książki osadzona jest w określonym ograniczonym kontekście:
 
@@ -13,7 +13,7 @@ Treść książki osadzona jest w określonym ograniczonym kontekście:
 + przeprowadzka lub/i przekwalifikowanie się
 + ograniczenia temu towarzyszące 
 
-## Pytania i odpowiedzi
+#### Pytania i odpowiedzi
 
 Jaki jest na prawdę kraj i ludzie tam zamieszkujący?
 

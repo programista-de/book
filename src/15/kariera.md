@@ -1,6 +1,6 @@
 # Etapy kariery
 
-## Etat czy Zlecenia (freelance)
+#### Etat czy Zlecenia (freelance)
 a może oba
 
 
@@ -28,7 +28,7 @@ Z punktu jakościowego bardziej istotne jest zagłębienie się w tematykę niż
 Warto znać różnice kulturowe pomiędzy Niemcami i Polakami, bo ma to przełożenie na efektywność.
 
 
-## Wybór odpowiedniego pracodawcy
+#### Wybór odpowiedniego pracodawcy
 środowisko
 dostęp do edukacji
 
@@ -52,7 +52,7 @@ Nie ma jednej najlepszej a jeśli nawet to na określony czas i te rzeczy są "p
 Tylko... po co... możesz przecież siedziec w tej Javie 5 i sie nie przejmujesz, bo 
 takie systemy będą już zawsze. Ba, znam kolesia, co stwierdził, że on w sumie to najbardziej w życiu lubi plsql.
   
-## Rozwój
+#### Rozwój
 Jeśli siedzisz w pracy która nie daje Ci żadnych szans na rozwój to zmień ją jak najszybciej. Roboty jest tyle na rynku że robotę znajdziesz w maksymalnie tydzień. Stały rozwój jest bardzo ważny. 
 
 

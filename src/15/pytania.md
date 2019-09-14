@@ -1,13 +1,13 @@
 # Pytania pracownika do pracodawcy
 
-## koszt zwrotu przyjazdu
+#### koszt zwrotu przyjazdu
 + przepisy
 + przeliczanie
 + przykładowy formularz
 
 
 
-## Pytania dla przyjazdu/przylotu
+#### Pytania dla przyjazdu/przylotu
 
 Co będę musiał umieć, żeby pracować, jakie są potrzebne praktyczne zdolności.
 
@@ -16,7 +16,7 @@ Co jest konieczne do pracy i co by było mile widziane?
 Czy będę mógł przyjechać z kolegą/koleżanką?
 
 
-## Mieszkanie
+#### Mieszkanie
 
 Gdzie będę mógł mieszkać?
 
@@ -39,7 +39,7 @@ Jaka stawka na okresie próbnym i jaka potem?
 
 
 
-## Wizy dla ludzi spoza EU
+#### Wizy dla ludzi spoza EU
 Jakie dokumenty będą potrzebne dla wizy pracowniczej?
 
 ile to będzie trwało?
