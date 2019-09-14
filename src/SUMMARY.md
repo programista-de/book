@@ -1,8 +1,9 @@
 # Spis treści
 
 + [okładka](0/front.md)
-+ [wkładka](0/second.md)
-+ [tył](0/back.md)
++ [1](0/second.md)
++ [2](0/third.md)
+
 
 
 
@@ -22,6 +23,7 @@
 + [4](4/4.md)    
     + [Odkrycie Ameryki](4/wstep.md)
     + [Historia lubi się powtarzać](4/ameryka.md)
+    + [Analiza emigracji](4/analiza.md)
     + [Negatywne sktuki emigracji](4/negatywne.md)
     + [Poztywne skutki emigracji](4/poztywne.md)
     + [Przykładowe komentarze](4/komentarze.md)
@@ -153,4 +155,9 @@
 + [33](33/33.md)
     + [Spis Treści](33/spis.md)
     + [Źródła](33/zrodla.md)
+    + [Recenzje przed wydaniem](33/recenzje.md)
     + [Ocena](33/ocena.md)
+
+
+
++ [tył](0/back.md)

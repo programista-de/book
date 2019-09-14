@@ -2,10 +2,11 @@
 
 #### tags:
 
-Polak na dzikim zachodzie
-Pewnego razu na dzikim zachodzie
-
-
++ Polak na dzikim zachodzie
++ Pewnego razu na dzikim zachodzie
++ droga emigranta
++ przygody
++ nauka kultury i języka
 
 
 #### pierwsza

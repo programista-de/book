@@ -25,7 +25,7 @@ Rodzą się dwa pytania:
 
 
 
-#### POzytywni
+#### Pozytywni
 
 Ostatnio pytałem większość moich znajomych i wszyscy podkreślają, że wcześniej czy póżniej chcą stąd wyjechać tak samo jak ja. Niestety nie znam za bardzo informatyków, bo studiowałem coś innego i dopiero teraz staram się przekwalifikować na ten zawód i dlatego jestem ciekawy jak wygląda sprawa u was? Mój wiek to 22 lata i kieruje pytanie głównie do młodszych osób.
 

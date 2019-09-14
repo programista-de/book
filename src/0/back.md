@@ -1,6 +1,6 @@
 ![](../img/programista-de-book-icon.png)
 
-#### ty≈Ç
+#### ty?Ç
 
 Wanted
 
