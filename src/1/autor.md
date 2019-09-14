@@ -8,17 +8,18 @@ Książka jest analizują obecnej sytuacji na rynku pracy w Polsce i Niemczech.
 Obecnie realizuję projekty dla firmy, która prowadzi wynajem samochodów, Buchbinder.de
 W wolnych chwilach programuję opensource.
 
+#### książka w internecie
+
+Oficjalna strona
+https://programista.de/
 
 Forum, tej książki
-    
-    forum.programista.de
+https://forum.programista.de
+
 
 Oferty pracy w niemczech
-    
-    praca.prgrmiasta.de
-    
-    
-    
+https://praca.programista.de
+
 
 #### Aktualne projekty
 
@@ -28,8 +29,6 @@ Prowadzę Bloga w róznych jezykach:
 + tom.sapletta.com
 + tom.sapletta.de
 
-Chętnie poznam Twoją opinię na temat treści, zapraszam do kontaktu: 
-+ tom@sapletta.com
 
 Darmowe oprogramowanie opensource:
 + https://github.com/tom-sapletta-com
@@ -56,6 +55,12 @@ In this project on the first place I focus on its quality. Create good quality i
 #### Udostępnij
 
 As it is written above there are very few really good examples of this type of application. If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+
+#### Kontakt z autorem
+
+
+Chętnie poznam Twoją opinię na temat treści, zapraszam do kontaktu: 
++ tom@sapletta.com
 
 
 ----
