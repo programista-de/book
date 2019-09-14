@@ -3,21 +3,25 @@
 + [okładka](0/front.md)
 + [1](0/second.md)
 + [2](0/third.md)
-
++ [Spis Treści](33/spis.md)
 
 
 
 + [1](1/1.md)
+    + [dedykacja](1/dedykacja.md)
+    + [podziękowania](1/podziekowania.md)
     + [autor](1/autor.md)
     + [dlaczego](1/dlaczego.md)
     + [bohaterowie](1/bohaterowie.md)
 
-+ [2](2/2.md)    
+
++ [2](2/2.md)
+    + [Streszczenie](2/streszczenie.md)   
+    + [Konwencja](2/konwencja.md)
     + [Dla kogo jest ta książka?](2/ksiazka.md)
     + [jezyk-niemiecki](2/jezyk-niemiecki.md)
     + [wyroznik](2/wyroznik.md)
     + [ramy](2/ramy.md)
-    + [streszczenie](2/streszczenie.md)
     
     
 + [4](4/4.md)    
@@ -153,11 +157,10 @@
     
     
 + [33](33/33.md)
-    + [Spis Treści](33/spis.md)
     + [Źródła](33/zrodla.md)
     + [Recenzje przed wydaniem](33/recenzje.md)
     + [Ocena](33/ocena.md)
 
 
 
-+ [tył](0/back.md)
++ [tył](33/back.md)
