@@ -36,6 +36,17 @@ Jak poznać, kiedy jest za krótko, tzn niejasno, a kiedy za dużo?
 Można jeszcze inaczej ...
 
 
+#### Negatywne
+
+w kilku rozdziałach przeprowadziłem analizę sytuacji po dwóch stronach:
++ negatywna
++ pozytywna 
+
+oczywiście zaczynam od negatywnej, w sensie mentalnym, emocjonalnym, ale w praktyce
+każde negatywne doświadczenie jest źródłem wiedzy o nas samych, dzięki czemu możemy następnym razem 
+nie popełnić tego samego błędu.
+
+
 #### Moja strategia tworzenia
 
 Nie jestem zawodowym pisarzem, ale jestem zawodowym programistą, a więc przyjąłem standardy, którymi kieruję się na co dzień.

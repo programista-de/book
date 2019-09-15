@@ -88,6 +88,10 @@
     + [hardware](15/hardware.md)
     + [software](15/software.md)
     + [benefity](15/benefity.md)
+    + [Negatywna odpowiedź](15/negatywna.md)
+    + [Wątpliwości](15/watpliwosci.md)
+    + [Pozytywna odpowiedź](15/pozytywna.md)
+    + [Znajomości](15/znajomosci.md)
          
 
 + [16](16/16.md)

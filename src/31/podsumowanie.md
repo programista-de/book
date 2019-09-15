@@ -1,4 +1,5 @@
 # Dobre rady
+
 Jeśli przekonałeś się w praktyce jak mało realne są szybkie sposoby na cokolwiek
 pasywne dochody i inne utopie, a poznałeś 
 jak istotne jest czasem zwyczajny rozsądek 
@@ -8,12 +9,18 @@ jak istotne jest czasem zwyczajny rozsądek
 
 Ksiązka nie wystarczy i jest wstepem do lepszego zrozumienia zachodzniego sposobu działania i myślenia
 
-#### KOntakt
-Miejse na komentarze i wyjaśnienia jest na stronie forum czytelników tej książki:
+## Działanie
 
-forum.programista.de
+Oto okazuje się, że w wieku informacji, problemy: głodu, zdrowia i szczęścia nie zostały rozwiązane
 
- 
+**Czy kiedykolwiek sama informacja wystarczyła, by zapobiec nieszczęściu?**
+Posiadanie informacji nie oznacza posiadania wiedzy, a 
+posiadanie wiedza nie oznacza posiadanie umiejętności, 
+
+Pozostając W próżni bezczynności nie oczekujmy zmian na lepsze. 
+Zmiana wymaga działania, zwłaszcza zmiana na dobre!
+
+
  
 # Podsumowanie
 
@@ -33,3 +40,22 @@ Jaka lekcja z tego płynie?
 - czekam na Twój komentarz czytelniku...
 
 
+
+#### Kontakt
+Miejse na komentarze i wyjaśnienia jest na stronie forum czytelników tej książki:
+
+forum.programista.de
+
+
+Pozostańmy w kontakcie
+
+
+bonus.programista.de
+
+
+
+
+gwarancja.programista.de
+/ zasady
+/ zwroty
+/ formularze

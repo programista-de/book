@@ -31,5 +31,7 @@ Na tym nie koniec, gdyż z wyborem płci wiąże się forma zwracania się do ka
  tematy rozmów
  
  różnice między polskimi rozmowami a niemieckimi
+
  
+#### 
  
