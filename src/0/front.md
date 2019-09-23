@@ -1,5 +1,5 @@
 <!--![](img/programista-de-book-icon.png)-->
-![](img/programista-de-book-256c.png)
+![](book/0/img/programista-de-book-256c.png)
 
 #### tags:
 
