@@ -44,7 +44,7 @@
     + [pytania](15/pytania.md)
     + [interview](15/interview.md) 
     + [zarobki](15/zarobki.md)
-    + [paraca zdalna](15/praca-zdalna.md)
+    + [Praca zdalna](15/praca-zdalna.md)
     + [urlop](15/urlop.md)
     + [wyjazdy](15/wyjazdy.md)
     + [godziny-pracy](15/godziny-pracy.md)
@@ -58,7 +58,7 @@
          
 
 + [Pierwszy dzień w pracy](16/16.md)
-    + [paraca zdalna](16/praca-zdalna.md)
+    + [Praca zdalna](16/praca-zdalna.md)
     + [urlop](16/urlop.md)
     + [wydarzenia](16/wydarzenia.md)
     + [spoznienia](16/spoznienia.md)

@@ -1,4 +1,4 @@
-# paraca zdalna
+# Praca zdalna
 
 + jak wygląda
 + na co zwracać uwagę?

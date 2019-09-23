@@ -1,6 +1,6 @@
 # Praca zdalna
 
-wcale nie ejst to poularna forma
+wcale nie jest to poularna forma
 wydawało by się, że skoro technologia pozwala
 
 ale w DE inaczej się patrzy na to, pracodawca oczekuje pełnej kontroli nad sytuacją

@@ -1,12 +1,12 @@
-# Podzi?kowania
+# Podziękowania
 
 dla 
-recenzent?w:
+recenzentóww:
 
-mentor?w:
+mentorów:
 
 
-inspirator?w:
+inspiratorów:
 
 
 T
