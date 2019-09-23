@@ -1,2 +1,0 @@
-# Źródła użyte w książce
-
