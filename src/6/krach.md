@@ -18,6 +18,8 @@ Przecież kryzys wkracza, kto go nie widzi sam sobie szkodzi:
 2018/2019
 
 
+# RODO w Niemczech
+
 Jak zawsze chodzi o bezpieczeństwo, ba oni nam każą RODO i inne popupy pokayzwać klientom, też niby z powodu bezpieczeństwa... danych
 A samo okazuje się, nie radzą sobie, bo w Hamburgu zostało zakwestionowanie robienie zdjęć videorejestratorem.
 
