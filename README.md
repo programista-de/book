@@ -1,5 +1,8 @@
 # Programista . de
+http://book.programista.de/
+
 [README](README.md)
+
 https://github.com/programista-de/book
 
 
