@@ -34,17 +34,12 @@ Darmowe oprogramowanie opensource:
 + https://github.com/tom-sapletta-com
 
 
-Obecnie pracuję nad projektem terminala online:
-
-+ devopsterminal.com
-
-Zapraszam do skorzystania z narżędzia do tworzenia modularnych stron internetowych:
-
-+ apiunit.com
-
-Narzędzie online do szybkiej wyceny projektu:
-
-+ estymacja.pl 
+<!--Obecnie pracuję nad projektem terminala online:-->
+<!--+ devopsterminal.com-->
+<!--Zapraszam do skorzystania z narzędzia do tworzenia modularnych stron internetowych:-->
+<!--+ apiunit.com-->
+<!--Narzędzie online do szybkiej wyceny projektu:-->
+<!--+ estymacja.pl -->
 
 
 #### Oceń

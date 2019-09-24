@@ -45,3 +45,28 @@ Jakie dokumenty będą potrzebne dla wizy pracowniczej?
 ile to będzie trwało?
 
 kiedy będę mógł przyjechać drugi raz już na wizie pracowniczej?
+
+
+## Pytania pracodawcy odnośnie pracy
+
++ Dlaczego krótko u kogoś
+
+## Przerwy w wykonywaniu pracy
++ obowiązki rodziecielskie
++ brak, poszukiwanie pracy
++ inne sytuacje losowe:
+    + przygotowania do ślubu, itp
++ zdrowotne, choroba, wypadek 
+
+
+Obecnie nie jest to dziwne, że ktoś ma wiele firm/projektów w CV
+ale jeszcze kilka lat temu  było to jednym z częstych pytań na interview w PL
+
+co ciekawe, jak firmie zależy to nawet nie pyta
+ale dobrze jest wytłumaczyć, że jak się szuka wyzwań i chce się ciągle doskonalić
+to bycie w jednej firmie nie daje takiej szansy, bo codzienna praca jest raczej jednostajna.
+
+
+
+
+

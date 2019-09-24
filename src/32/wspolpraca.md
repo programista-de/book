@@ -10,8 +10,8 @@ nasze.de
 + omawianie bieżących spraw
 + blog o kulturze, o tym czym były i czym są niemcy obecnie, czym będą w przyszłosci
 
-devcast.pl
-+ głosowe zapiskui związane z dev, podcast
+<!--devcast.pl-->
+<!--+ głosowe zapiskui związane z dev, podcast-->
 
 gitcast.pl
 + promocja, donate dla ciekawych projektów, wartych wsparcia
@@ -30,9 +30,8 @@ Voucher o wartości 100EUR na abonamenty dla narzędzi programisty przez okres 3
 + Wycena projektów na stronę internetową, estymacja.pl
 
 
-Darmowe źródła wiedzy:
-
-+ Najnowsze narzędzia Devops: devtoolsbox.com
+<!--Darmowe źródła wiedzy:-->
+<!--+ Najnowsze narzędzia Devops: devtoolsbox.com-->
   
 Dostęp do przykładowych aplikacji, zadań w dużych firmach, jak wygląda rekrutacja:
 

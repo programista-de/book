@@ -17,3 +17,21 @@ Nie jest tak istotna szkoła, ale ostatnio zdobyte doświadczenie
  
 
 
+## Spotkanie z szefem
+
+Biznes w niemczech to długa droga, często firmy mają po kilkadziesiąt lat 
+
+Startupy są finansowane wieloma milionami EUR
+garażowych jest mało a jak są
+to nie mają wiedzy na wiele tematów,
+
+trzeba mieć na wuadze, że niemcey ogólnie nie są zainteresowani
+
+
+## Myślenie o Programistach
+
+Są ludzie, którzy uważają, że wystarczające jest po szkole
+i są tacy co wiedzą, że programista może być bez lub z zupełnie innymi studiami niezwiązanymi z IT
+
+
+Dlatego warto to wytłumaczyć
