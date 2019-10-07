@@ -42,6 +42,35 @@ Dopiero po 2-3 godzinach pracy warto wziąć pod uwagę kawę, herbatę
 
 Warto pić małe porcje co jakiś czas, lub jedną silną dawkę, np espresso 
 
+
+## Jedzenie
+
+śniadanie, obiad warto ograniczyć w ilości, by pozostać na lekkim głodzie,
+aby pozostać skoncentrowanym na pracy i nie myśleć o jedzeniu
+
+Jednak co jest ciekawe, pozostanie na głodzie z rana i nie jedzenie dużych porcji np na obiad, 
+daje lepsze rezultaty, podobnie jak ograniczenie picie mocnej kawy
+Okazuje się, że w praktyce lepiej działa ograniczanie na ciało i umysł, dajac motywację do działania.
+
+Gdy jest się opitym i objedzonym, to jedyne o czym się myśli to o odpoczynku, położeniu się.
+
+### Zalecenia żywieniowe
+
++ nie jeść słodkości
++ używek typu alkohol, silne kawy, czy herbaty
+
+
+### Wyjątki
+
+gdy z rana z jakiegoś powodu nie mamy ochoty do pracy a niestety coś trzeba zrobić,
+to zamiast jeść warto po prostu dostarczać płyny i w nich  w małych ilościach dostarczać 
+substancje powodujące aktywizację do myślenia, ale konieczne jest też aktywizowanie fizyczne
+poprzez ćwiczenia siłowe lub po prostu bieg, spacer.
+
+
+
+
+
 ## co jest nieefektywne? 
 
 + praca w trybie 8h
@@ -56,6 +85,8 @@ Warto pić małe porcje co jakiś czas, lub jedną silną dawkę, np espresso
         nieokreślone wymagania - określony czas 
 
 
+## Software
+
 #### Optymalizacja
 
 
@@ -68,3 +99,18 @@ Warto pić małe porcje co jakiś czas, lub jedną silną dawkę, np espresso
 
 
 #### Automatyzacja
+
+## Wetware
+
+## Alkohol
+
+## Sport
+
+
+
+## Hardware
+
+komputer
+sieć
+połączenia
+monitory
