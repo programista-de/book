@@ -10,3 +10,6 @@ aby w razie gdy staną się rzeczywistością wiedzieć jaki krok będzie nastę
      z moich obserwacji wynika, że w Polsce można bardzo dobrze wypocząć, gdyż można mieć wiele niezaplanowanych atrakcji
      myśląc o kulturze Niemiec myślę o zaplanowanej na lata karierze
         
+
+
+

@@ -78,6 +78,7 @@
     
     
 + [Droga Kariery](18/18.md)
+    + [plan](18/plan.md)
     + [praca](18/praca.md)
     + [etat](18/etat.md)
     + [formy](18/formy.md)
