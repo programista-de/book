@@ -34,6 +34,7 @@ Szacunki są więc luźne, optymistyczne, gdyż nie wiem na ile zmieni się  w t
 + gdy pierwszy projekt freelance się zakończy, do czasu znalezienia następnego, będę mógł realizować własne projekty
 + celem jest całkowite przejście na własny biznes, ale nie jako software house tylko jako franczyza w branży IT
 
+
 ## Dlaczego franczyza?
 
 Gdyż ten model biznesu pozwala na ekspansję na cały świat w sprawdzonym modelu
